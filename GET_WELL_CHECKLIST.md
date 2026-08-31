@@ -13,9 +13,10 @@ says *where we are*. Update the status cell when you start and when you finish �
 | Done | Finished and verified in the files. |
 
 **Where we are:** Stage 1 — 9 of 14 done (1.01 through 1.08). Stage 2 — 0 of 12 done.
-The story now compiles and the exported site sits at the repo root. The repo is still local only —
-no remote, nothing pushed or published, so there is no URL yet. 1.09 is the next thing, and it is
-waiting on Q1.
+Plus [PAGINATION_PLAN.md](PAGINATION_PLAN.md), which sits outside both stages and is now finished:
+every knot over 600 words is split, 94 knots → 218 pages, max page 596 words. The story compiles
+and the exported site sits at the repo root. The repo is still local only — no remote, nothing
+pushed or published, so there is no URL yet. 1.09 is the next thing, and it is waiting on Q1.
 
 ---
 
@@ -34,12 +35,30 @@ waiting on Q1.
 | 1.08 | Inky → Export for web; commit the exported folder | **Done** | Five files at the repo root, not in `web/` — 1.09 deploys from `main` / root, and duplicating a shell nobody has hand-edited yet would only invite divergence; `web/README.md` records the call and what it costs. `story.js` (403 KB, `var storyContent = …`) is generated, `ink.js` is inkjs 2.2.3 vendored, `index.html` `style.css` `main.js` are Inky's template. Produced headlessly with the same binary and flags Inky's menu item uses (`inkjs-compatible/inklecate_mac -c -o`) and the same substitutions, so it is byte-for-byte the GUI's output. **Two source edits it forced:** `# title:` global tag added to `main.ink` — without it Inky names the page after the export folder, i.e. "theme-park-planner" — and `start`'s opening prose line deleted, which had become a literal second copy of the `<h1>` the shell now supplies. Verified: clean compile, no warnings; 20,000 scripted paths through the exported `story.js` under the exported `ink.js` with zero runtime errors and 82 reaching `-> END`; and the page rendered, played and stayed within its measure at 375 px. |
 | 1.09 | Pages → Deploy from a branch → `main` / root — **live URL** | To do | 1.08 no longer blocks it — `index.html` is at the root and the site plays. Still blocked by a GitHub remote that does not exist yet (see Q1). **Decide before flipping the switch:** deploying from the root publishes the whole root, so `GET_WELL_PLAN.md`, `GET_WELL_CHECKLIST.md` and `PAGINATION_PLAN.md` become fetchable at the live URL — Jekyll would even render them as pages. Nothing here breaks a Jekyll build (no Liquid syntax, no `_`-prefixed paths), so this is a choice about what you want public, not a bug to fix. |
 | 1.10 | Replace the manual export with inkjs + Actions | To do *(deferred)* | Optional by design — do it when the manual re-export starts to sting, or when 2.09 needs CI. |
-| 1.11 | Read the whole thing on your phone, start to finish; take pacing notes | To do | Blocked by 1.09. |
+| 1.11 | Read the whole thing on your phone, start to finish; take pacing notes | To do | Blocked by 1.09. Pacing changed a lot underneath this task: pagination took the mean page to 271 words, so the read is now ~218 taps rather than a handful of walls. Judge tap count and whether the `Skip to picking your group →` hatches land in the right places. |
 | 1.12 | Purge every expired date | To do | All of it is in `disney_mk.ink`: 7 "Spring 2026", 4 "Current Closures as of Early 2026" (lines 314, 677, 945, 1279). Wider sweep: 13 `202x` hits in `disney_mk.ink`, 3 in `disney_hs.ink`, 1 in `where_to_stay.ink`. `main.ink`'s single hit ("Epic Universe ... opened in 2025") went out with 1.04b. |
 | 1.13 | Footer on every page: last-updated, trademark disclaimer, sources | To do | Depends on the export shipping first (1.08). |
 
 **Done when:** you can text someone a link, they open it on a phone, pick a park and a group
 type, read a full day-plan, and every fact in it is true today.
+
+---
+
+## Pagination — outside the stages, done
+
+Tracked in [PAGINATION_PLAN.md](PAGINATION_PLAN.md), which predates the get-well plan and was
+partly executed before it. Finished 2026-08-31.
+
+| # | Task | Status | Evidence / notes |
+|---|---|---|---|
+| P.1 | Split the four `*_intro` knots | **Done** | The plan ranked these 17–20 and marked three "OK as-is" on a ~30-*line* estimate — but a line here is a paragraph, so in words they were the worst pages in the project (ak 1290, hs 1282, ep 1198, mk 1029) and the ones every reader passes through. Now 8/9/7/5 pages, none over 300 words. |
+| P.2 | Move the group-type fork to `{park}_pick_group` | **Done** | Forced by P.1: ~19 day-plan pages per park link back with "Pick a different group type", and after the split that divert would have dropped the reader at the top of an eight-page intro. Every intro page also gained `Skip to picking your group →`. |
+| P.3 | Split every remaining knot over 600 words | **Done** | 44 knots were over 600, 13 over 900. Split at the headers the prose already carried — most needed no new text at all. Two pages needed a header written ("The Storm Window", "Driving, Boats and Rideshare"). Per-file max: mk 1611→596, hs 1229→401, ep 1170→432, ak 838→385. |
+| P.4 | Verify | **Done** | Compiles clean; every knot reachable from `start`; no dangling diverts; 20,000 scripted paths with zero runtime errors. Four `Continue to …` labels that named sections the split had moved were corrected. |
+
+**Left alone on purpose:** 19 pages sit between 450 and 596 words. All are knots the earlier
+pagination pass produced, and they are inside the range that pass already established. Splitting
+them would be a second opinion on someone else's finished work, not a fix.
 
 ---
 

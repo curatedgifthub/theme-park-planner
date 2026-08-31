@@ -1,5 +1,22 @@
 # Pagination Plan — Theme Park Planner Ink Files
 
+> **Status: done, 2026-08-31.** Every knot over 600 words has been split. The project went from
+> 94 knots to 218 pages — mean 271 words, median 257, max 596. Nothing in here is outstanding;
+> it is kept as the record of the rule that was followed and the one place the plan was wrong.
+>
+> **Where this plan misjudged the problem:** the priority table below is measured in *ink lines*,
+> and a line in these files is an entire paragraph. That made a 1,290-word wall look like "~30
+> lines," which is why the four `*_intro` knots — ranked 17–20, three of them marked "OK as-is" —
+> were in fact the worst pages in the project, and the ones every reader hits first. Word count is
+> the measure that matters. The two targets below ("40-50 lines", "none over ~60") worked out to
+> roughly **250–450 words a page, hard ceiling 600**, which is what was actually applied.
+>
+> **Two additions to "What Does NOT Change":** page headers were written where a split fell in
+> prose that had none (the plan's own "every choice loads the next section header" rule requires
+> one), and the group-type fork moved to its own `{park}_pick_group` knot so the ~19 "Pick a
+> different group type" diverts per park land on the fork instead of the top of a re-paginated
+> intro. No prose was rewritten, reordered or removed.
+
 **Goal:** Break long text walls into manageable pages using ink choices. No content changes — only inserting `+ [Continue]` choices and navigation options at natural break points.
 
 ---
@@ -83,7 +100,7 @@ Some sections have additional headers that create natural sub-breaks (e.g., "The
 
 These are the park overview pages that end with group-type selection. They're long but the group-type choice at the bottom IS the meaningful interaction. Still break them if they exceed ~50 lines, using the existing ride/show description headers as break points.
 
-### Resort Comparison (main.ink: resort_comparison)
+### Resort Comparison (main.ink: resort_comparison) — *moot; the knot was deleted in 1.04b*
 
 This is the longest single text block in main.ink. Break at the existing headers:
 - "The Short Version"
