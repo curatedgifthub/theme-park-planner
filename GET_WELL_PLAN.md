@@ -155,7 +155,39 @@ Nothing in Stage 2 matters until a stranger can open a link.
       Universal trip planning, and 1.03 already made this call for the five mentions in
       `getting_to_orlando.ink`. `where_to_stay.ink` is 173 -> 133 lines, 9 knots -> 7. Compiles
       clean, no warnings, and a scripted play-through reaches all seven knots and returns to the hub.
-- [ ] **1.07** Add `-> END` terminals and a way home on every guide's last page
+- [x] **1.07** ~~Add `-> END` terminals and a way home on every guide's last page~~ — **done.**
+      **18 last pages**, counting a "last page" as any knot with no *Continue to...* step left in it:
+      the 16 park day-plan terminals (four group types x four parks), plus `orlando_driving` and
+      `stay_dvc_renting`, which close the two logistics guides. The 16 park terminals already had a
+      way home — `Start over` has been on every one of them since the import — so the missing half
+      was the ending: **zero `-> END` in 4,900 lines**, which meant the story literally could not
+      finish. Every knot in the project has choices, so flow never ran out and inklecate never
+      warned; it just looped forever.
+      **One ending, not eighteen.** New `the_end` knot in `main.ink` — a sign-off (book the things
+      that run out, arrive earlier than feels reasonable, drop the plan when it stops helping) and
+      then `-> END`. All 18 last pages get the same fourth choice,
+      `+ [Done — close the guide] -> the_end`, sitting last because it's the most terminal thing on
+      the page. Sharing one knot keeps the closing words in a single place to edit, which is 2.01's
+      rule applied before 2.01.
+      **The two logistics terminals also gained `+ [Back to start] -> start`.** They offered
+      *Pick a park* and *Back to <section hub>* and nothing else, so the top of the story was two
+      taps away where the park terminals had it in one. Now all 18 reach both `start` and
+      `the_end` in a single choice.
+      **`-> END` really ends it** — the exported player shows the text and no further choices, so
+      the last line of `the_end` says so and tells the reader to refresh. That's honest about the
+      medium rather than a dead end left by accident.
+      Also fixed in passing: `disney_mk.ink` had no trailing newline, which is why its fourth
+      terminal didn't match the same edit as the other fifteen.
+      **One thing corrected while writing the sign-off:** the first draft said dining reservations
+      open 60 days ahead. That's the on-property window — `where_to_stay.ink` correctly has 60 on,
+      30 off. The number came out rather than getting restated: a closing page shouldn't carry a
+      fact that can go stale in a second place.
+      **Deliberately out of scope:** mid-chain knots (`ak_big_group_morning` and its ~50 siblings)
+      still offer only *Continue* and *Pick a different group type*, putting `start` two or three
+      taps away. They aren't last pages and they aren't dead ends, so they stay as they are.
+      `main.ink` 49 -> 67 lines, 93 knots -> 94. Compiles clean, no warnings, and three scripted
+      play-throughs — a park terminal, a `where_to_stay` terminal, a `getting_to_orlando` terminal —
+      each reach `the_end` and stop, with no "ran out of content" warning.
 - [ ] **1.08** Inky -> File -> Export for web. Commit the exported folder.
 - [ ] **1.09** Settings -> Pages -> Deploy from a branch -> `main` / root. **You now have a live URL.**
 - [ ] **1.10** *(defer to Stage 2 unless the manual export already annoys you)* Replace the Inky

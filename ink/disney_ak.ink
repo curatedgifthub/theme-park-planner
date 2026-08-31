@@ -199,6 +199,7 @@ If you're leaving early, text the group. Don't make everyone wait for you at the
 + [Pick a different group type] -> ak_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == ak_day_mixed_ages ==
 
@@ -347,6 +348,7 @@ If you're at a Disney resort: Animal Kingdom Lodge, bus, short ride. All other r
 + [Pick a different group type] -> ak_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == ak_day_young_kids ==
 
@@ -490,6 +492,7 @@ If you're at a Disney resort: Animal Kingdom Lodge, bus, short ride home. All ot
 + [Pick a different group type] -> ak_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == ak_day_no_kids ==
 ~ group_type = "no_kids"
@@ -866,3 +869,4 @@ Same as above. Pandora at night, re-rides, or park hop to EPCOT
 + [Pick a different group type] -> ak_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end

@@ -403,6 +403,7 @@ Adults who have bad days arrive mid-morning and fight peak crowds all day, push 
 + [Pick a different group type] -> mk_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == mk_day_young_kids ==
 
@@ -762,6 +763,7 @@ The goal isn't to conquer Magic Kingdom. It's to make memories your kids will ca
 + [Pick a different group type] -> mk_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == mk_day_mixed_ages ==
 
@@ -1113,6 +1115,7 @@ Families who have bad days try to get their money's worth by never stopping.
 + [Pick a different group type] -> mk_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == mk_day_big_group ==
 
@@ -1330,3 +1333,4 @@ Give people permission to have their own experience. Come together when it matte
 + [Pick a different group type] -> mk_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end

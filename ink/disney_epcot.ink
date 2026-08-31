@@ -184,6 +184,7 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, wal
 + [Pick a different group type] -> ep_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == ep_day_young_kids ==
 
@@ -475,6 +476,7 @@ Evening: Return for evening EPCOT if kids are up for it. Luminous or head home b
 + [Pick a different group type] -> ep_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == ep_day_mixed_ages ==
 
@@ -800,6 +802,7 @@ Evening: World Showcase, Luminous, head home.
 + [Pick a different group type] -> ep_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == ep_day_big_group ==
 
@@ -978,3 +981,4 @@ If someone leaves before the rest of the group, they text the group thread so no
 + [Pick a different group type] -> ep_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end

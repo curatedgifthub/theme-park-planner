@@ -189,6 +189,7 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, wal
 + [Pick a different group type] -> hs_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == hs_day_young_kids ==
 
@@ -327,6 +328,7 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, wal
 + [Pick a different group type] -> hs_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == hs_day_mixed_ages ==
 
@@ -464,6 +466,7 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, wal
 + [Pick a different group type] -> hs_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end
 
 == hs_day_big_group ==
 
@@ -614,3 +617,4 @@ If you're at a Disney resort: Bus, groups may get split across buses, pick a mee
 + [Pick a different group type] -> hs_intro
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
++ [Done — close the guide] -> the_end

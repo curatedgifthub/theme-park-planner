@@ -131,3 +131,5 @@ When it doesn't: Last-minute trips. Trips with high cancellation risk. Single-ni
 
 + [Pick a park →] -> disney_park_picker
 + [Back to Where to Stay] -> where_to_stay
++ [Back to start] -> start
++ [Done — close the guide] -> the_end

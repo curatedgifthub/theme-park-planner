@@ -89,3 +89,5 @@ Arrival timing: Avoid hitting Orlando between 4 p.m. and 7 p.m. on a weekday. I-
 
 + [Pick a park →] -> disney_park_picker
 + [Back to Getting to Orlando] -> getting_to_orlando
++ [Back to start] -> start
++ [Done — close the guide] -> the_end

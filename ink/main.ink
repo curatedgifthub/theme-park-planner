@@ -47,3 +47,21 @@ There are four parks, they're wildly different, and the right one depends entire
     ~ park = "magic_kingdom"
     -> mk_intro
 + [Back to start] -> start
+
+== the_end ==
+
+That's the Plan
+
+Three things worth carrying out the door, whichever park you picked and whoever you're going with.
+
+Book the things that run out. Dining reservations and Lightning Lane are the two that vanish while you're still thinking about them, and rental cars and airport transfers only get more expensive the longer you leave them. Everything else in this guide is advice you can take or leave once you're standing there. Those are the ones that are simply unavailable if you wait.
+
+Arrive earlier than feels reasonable. Every plan in here is built on being at the gate before it opens, and every one of them degrades if you turn up at ten. An hour of morning is worth three hours of afternoon, and that is true in all four parks, in every season, for every kind of group.
+
+Then let the plan go when it stops helping. The point of arriving with one isn't to execute it — it's so you don't have to make decisions while you're hot, tired, and standing in the middle of a walkway with four people waiting on you. Once the plan is costing you more than it's saving, drop it and go ride something.
+
+Have a good trip.
+
+The guide ends here. Refresh the page to open it again from the top.
+
+-> END
