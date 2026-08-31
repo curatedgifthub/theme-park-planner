@@ -221,6 +221,42 @@ Nothing in Stage 2 matters until a stranger can open a link.
       raises — a root deploy also serves the three planning `.md` files — is 1.09's call, flagged
       on 1.09's row in the checklist.
 - [ ] **1.09** Settings -> Pages -> Deploy from a branch -> `main` / root. **You now have a live URL.**
+      — **started; the last two steps belong to Aaron.** Everything that does not require the
+      `curatedgifthub` credentials has landed.
+      **Where it lives — the answered half of Q1:** `github.com/curatedgifthub`, public, next to
+      `emoji-charades`. This is a Curated Gift Hub property, not a personal one. That account is a
+      *user*, not an organization, and GitHub has no grant that lets one user create a repo under
+      another user's account — so the fact that this checkout authenticates as `8139CAUSAL` (a
+      measurement account) isn't a permissions gap to fix, it's the wrong account entirely. Repo
+      creation and the Pages switch have to be run signed in as `curatedgifthub`.
+      **What landed here:** `_config.yml`. A root deploy publishes the whole root, so the two
+      get-well documents, `PAGINATION_PLAN.md` and the three folder READMEs are excluded from the
+      built site. They carry the open questions and the re-export traps — working notes, not pages
+      a reader should land on. They stay in the repo and in git history; they stop being fetchable
+      at the live URL. `ink/` is deliberately still served: the sources are the actual work and
+      they're readable on a public repo regardless. One trap is recorded in the file itself —
+      Jekyll's `exclude` *replaces* its default list rather than extending it, which will matter
+      the moment 1.10 adds a `Gemfile` or `node_modules`.
+      **A correction to what 1.08 left here:** none of those Markdown files carries YAML front
+      matter, so Jekyll would have copied them through as raw text rather than rendering them as
+      pages. Fetchable either way, so the decision doesn't change — but the note was wrong.
+      **Verified for a project page:** this serves from `curatedgifthub.github.io/<repo>/`, a
+      subpath rather than a domain root, which is where relative-vs-absolute asset paths usually
+      bite. Every reference in `index.html` is relative, `main.js` has no `fetch` and no absolute
+      URL, and the only `url()` in `style.css` is the Google Fonts import over https. Nothing
+      needs a base path. Separately: no secrets, no local filesystem paths and no personal
+      identifiers in any hand-written tracked file.
+      **Precedent worth copying:** `curatedgifthub/emoji-charades` already runs exactly this
+      configuration — `build_type: legacy`, source `main` / `/`, live at
+      `https://curatedgifthub.github.io/emoji-charades/`.
+      **The two steps left, signed in as `curatedgifthub`:**
+      1. `gh repo create curatedgifthub/<name> --public --source=. --remote=origin --push` — or
+         create it in the web UI, then `git remote add origin git@github.com:curatedgifthub/<name>.git`
+         and `git push -u origin main`.
+      2. Settings -> Pages -> Deploy from a branch -> `main` / `/ (root)`. The first build takes a
+         minute or two; the URL is `https://curatedgifthub.github.io/<name>/`.
+      **Still blocked on:** `<name>` — the open half of Q1. It fixes the URL, and renaming the
+      repo later moves the URL with it, breaking anything already shared.
 - [ ] **1.10** *(defer to Stage 2 unless the manual export already annoys you)* Replace the Inky
       export with inkjs + Actions: `npm run build` compiles `ink/main.ink` -> `dist/story.json`, Action deploys `dist/`,
       Pages source switches to "GitHub Actions"

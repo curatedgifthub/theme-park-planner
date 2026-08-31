@@ -1,0 +1,26 @@
+# GitHub Pages configuration.
+#
+# Pages serves this repo from `main` / root (1.09), so every file at the root is
+# published unless it is listed below. The excluded files are working notes, not
+# pages a reader should land on: the two get-well documents carry the open
+# questions — what this is called, whether it is monetized — and the three
+# READMEs record build traps for whoever re-exports next.
+#
+# Excluding a file keeps it in the repo and in git history. It only keeps it off
+# the live site.
+#
+# Two things worth knowing before editing this list:
+#
+#   * Setting `exclude` REPLACES Jekyll's default list rather than adding to it.
+#     Nothing in the default (Gemfile, node_modules, vendor/) exists here today,
+#     but if 1.10 adds a build step, re-add the defaults by hand.
+#   * `ink/` is deliberately NOT excluded. The .ink sources are the actual work,
+#     they are already readable on a public repo, and serving them costs nothing.
+
+exclude:
+  - GET_WELL_PLAN.md
+  - GET_WELL_CHECKLIST.md
+  - PAGINATION_PLAN.md
+  - assets/README.md
+  - tools/README.md
+  - web/README.md
