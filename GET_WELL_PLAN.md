@@ -135,10 +135,26 @@ Nothing in Stage 2 matters until a stranger can open a link.
       from the live story instead of merely orphaned. Nothing is published yet, so nobody can see
       them, but the Universal strip is now the thing standing between the hub and a Disney-only
       story.
-- [ ] **1.06** ~~INCLUDE + link the two orphaned files~~ *(done in 1.05)*. In `where_to_stay.ink` delete the
-      `stay_universal_on_property` and `stay_universal_strategy` knots, the "On-Property at
-      Universal" choice, the "Compare to Universal" divert in `stay_disney_tiers`, the Universal
-      clause in the intro paragraph, and the Universal mention in `stay_disney_tradeoffs`
+- [x] **1.06** ~~INCLUDE + link the two orphaned files~~ *(done in 1.05)*. ~~In `where_to_stay.ink`
+      delete the `stay_universal_on_property` and `stay_universal_strategy` knots, the "On-Property
+      at Universal" choice, the "Compare to Universal" divert, the Universal clause in the intro
+      paragraph, and the Universal mention in `stay_disney_tradeoffs`~~ — **done.** All five landed.
+      One correction to the task text: the "Compare to Universal On-Property" divert lives in
+      `stay_disney_on_property`, not `stay_disney_tiers` — same divert, wrong knot named. Deleting
+      it leaves that knot with two choices (on to the tiers, back to the hub), which is the shape
+      every other knot in the file already has. The tradeoffs list lost "Anyone who's going to be at
+      Universal half the time" from *who should not stay on-property*, leaving two entries that
+      still carry the point. **Beyond the five, three off-property clauses that only make sense on a
+      Universal trip:** the definition ("everything not on Disney *or Universal* land"), the parking
+      line ("$30+ per day, *Universal is similar*"), and I-Drive's closing recommendation ("the
+      practical pick for travelers splitting time between Disney and Universal") — that last one is
+      advice for a resort this guide no longer covers, and the other two are half-sentences that go
+      stale the moment the Universal sections do. **What stayed, on purpose:** two geographic
+      anchors — I-Drive sits "roughly equidistant between Disney and Universal", Kissimmee is
+      "closer to Disney than Universal". Those are facts about where Orlando's hotel zones are, not
+      Universal trip planning, and 1.03 already made this call for the five mentions in
+      `getting_to_orlando.ink`. `where_to_stay.ink` is 173 -> 133 lines, 9 knots -> 7. Compiles
+      clean, no warnings, and a scripted play-through reaches all seven knots and returns to the hub.
 - [ ] **1.07** Add `-> END` terminals and a way home on every guide's last page
 - [ ] **1.08** Inky -> File -> Export for web. Commit the exported folder.
 - [ ] **1.09** Settings -> Pages -> Deploy from a branch -> `main` / root. **You now have a live URL.**

@@ -2,10 +2,9 @@
 
 Where to Stay
 
-Hotel choice shapes the entire trip. The decision is bigger than people realize, because where you sleep determines how you transport, when you arrive at the parks, what perks you get, what you pay for food, and how easy it is to take a midday break. The first cut is on-property versus off-property. The second cut, if you're going on-property, is which tier and which resort. This page walks through Disney on-property, Universal on-property, off-property, and DVC. Pick whichever section applies and read that one first.
+Hotel choice shapes the entire trip. The decision is bigger than people realize, because where you sleep determines how you transport, when you arrive at the parks, what perks you get, what you pay for food, and how easy it is to take a midday break. The first cut is on-property versus off-property. The second cut, if you're going on-property, is which tier and which resort. This page walks through Disney on-property, off-property, and DVC. Pick whichever section applies and read that one first.
 
 + [On-Property at Disney] -> stay_disney_on_property
-+ [On-Property at Universal] -> stay_universal_on_property
 + [Off-Property] -> stay_off_property
 + [DVC and Disney Deluxe Villas] -> stay_dvc
 + [Back to start] -> start
@@ -31,7 +30,6 @@ Extended Evening Hours, Deluxe and Deluxe Villa resorts only: Two additional hou
 The catch: Disney resort prices are 30 to 60 percent higher than comparable off-property hotels in the same square-footage range. You're paying for the perks and the location.
 
 + [Continue to Disney Resort Tiers →] -> stay_disney_tiers
-+ [Compare to Universal On-Property →] -> stay_universal_on_property
 + [Back to Where to Stay] -> where_to_stay
 
 == stay_disney_tiers ==
@@ -63,61 +61,23 @@ Cons: The price premium is also real. Food on Disney property is more expensive 
 
 Who should stay on-property: First-time visitors who want the full experience. Families with young kids who benefit from the midday break to a nearby room. Anyone going for a full week. Multi-generational groups where some members will skip park days and want to enjoy the resort.
 
-Who should not: Couples doing a quick 3-day trip on a budget. Anyone who's going to be at Universal half the time. Larger groups who'd save significant money in a vacation rental.
+Who should not: Couples doing a quick 3-day trip on a budget. Larger groups who'd save significant money in a vacation rental.
 
 + [Compare to Off-Property →] -> stay_off_property
 + [DVC Option →] -> stay_dvc
-+ [Back to Where to Stay] -> where_to_stay
-
-== stay_universal_on_property ==
-
-On-Property at Universal
-
-Universal runs ten on-property hotels, sorted into four tiers. The perks are different from Disney's and in some cases more valuable.
-
-Value tier: Endless Summer Resort (Surfside Inn and Suites, Dockside Inn and Suites). Cheapest on-property option, two-room suites available for families, walking distance to Volcano Bay water park, shuttle to the parks.
-
-Prime Value tier: Cabana Bay Beach Resort, Stella Nova Resort, Terra Luna Resort. Cabana Bay is the retro-themed one with bowling and a lazy river. Stella Nova and Terra Luna are the new Epic Universe-adjacent hotels that opened in 2025. All three sit between Value and Preferred on price.
-
-Preferred tier: Sapphire Falls, Aventura, Helios Grand at Epic Universe. Boats and shuttles to the parks, modern design, larger pools. Aventura is the budget pick of the three.
-
-Premier tier: Hard Rock Hotel, Loews Portofino Bay Resort, Loews Royal Pacific Resort. These are the only three Universal hotels that include Universal Express Unlimited Pass with your stay, free, for every guest in your room, every day of your stay.
-
-Universal Express Unlimited is the killer perk. It's the skip-the-line system that, if purchased separately, costs $100 to $300 per person per day depending on date. For a family of four on a 3-day trip, that's $1,200 to $3,600 in saved Express Pass cost. The math on the Premier hotels often breaks even or beats off-property when you factor this in.
-
-Other Universal on-property perks, every tier: Early Park Admission to Epic Universe daily and to one of the other parks daily. Charge to room throughout the parks. Walking distance or short shuttle to CityWalk and the parks (varies by hotel).
-
-+ [Continue to Universal Hotel Strategy →] -> stay_universal_strategy
-+ [Back to Where to Stay] -> where_to_stay
-
-== stay_universal_strategy ==
-
-Universal Hotel Strategy
-
-The decision tree at Universal is simpler than at Disney because Express Unlimited is the deciding variable.
-
-If you're going to Universal for 2 or more days and you'd otherwise buy Express Pass: Stay at a Premier hotel. The math almost always wins. Hard Rock is closest to the action and the loudest. Portofino Bay is the most refined and the most expensive. Royal Pacific is the value pick of the three.
-
-If you're going to Universal for 1 day or you don't care about Express Pass: Skip the Premier tier. Endless Summer or Cabana Bay deliver the on-property perks (Early Park Admission, walking access to parks or Volcano Bay) without the Premier price tag.
-
-If you're prioritizing Epic Universe: Stella Nova, Terra Luna, or Helios Grand are walking distance to Epic Universe. Helios Grand is technically inside the park's themed area, the most immersive option Universal has ever built. The Premier hotels are not at Epic Universe, they're at the original two-park campus.
-
-Combo trips with Disney: Some travelers split a trip between Universal Premier (for the Express Pass perk) and a Disney resort (for the bubble). Two check-ins in one trip is a hassle but the math can work for longer stays.
-
-+ [Continue to Off-Property →] -> stay_off_property
 + [Back to Where to Stay] -> where_to_stay
 
 == stay_off_property ==
 
 Off-Property
 
-Off-property is everything not on Disney or Universal land. Orlando has thousands of hotel rooms in the surrounding area, plus a massive vacation rental market. The reason to go off-property is cost and space. The reason not to is convenience.
+Off-property is everything not on Disney land. Orlando has thousands of hotel rooms in the surrounding area, plus a massive vacation rental market. The reason to go off-property is cost and space. The reason not to is convenience.
 
 The off-property hotel zones, ranked by proximity:
 
 Lake Buena Vista: Closest to Disney property, often within a mile or two of the gates. Includes the Disney Springs hotel collection (B Resort, DoubleTree, Hilton Buena Vista Palace, Hilton Orlando, Wyndham Lake Buena Vista, Drury Plaza), which gets minor Disney perks like Early Entry but not Extended Evening Hours. These are the closest you can get to Disney without staying on actual Disney property.
 
-International Drive (I-Drive): Strip of hotels and attractions roughly equidistant between Disney and Universal, closer to Universal. Massive selection from budget to luxury. The Hilton, Hyatt Regency, Rosen Shingle Creek, and several others are conference-caliber properties. I-Drive is the practical pick for travelers splitting time between Disney and Universal.
+International Drive (I-Drive): Strip of hotels and attractions roughly equidistant between Disney and Universal, closer to Universal. Massive selection from budget to luxury. The Hilton, Hyatt Regency, Rosen Shingle Creek, and several others are conference-caliber properties.
 
 Kissimmee: Stretches south and east of Disney property along US-192. Cheapest on average, biggest selection of vacation rental homes (covered below). Closer to Disney than Universal.
 
@@ -125,7 +85,7 @@ Celebration: Disney's old planned community, just south of Disney property. High
 
 Vacation rentals: Vrbo, Airbnb, and dedicated vacation home companies (Encantada, Solterra, Reunion Resort, Champions Gate) operate thousands of pool homes, mostly in Kissimmee and Davenport. For groups of 6 or more, or for trips of a week or more, the math beats hotels by a wide margin. A 5-bedroom pool home in Kissimmee for $300 to $500 per night sleeps 10 to 12 people and includes a private pool, full kitchen, and laundry. The same 10 people in hotel rooms costs three times as much.
 
-Off-property tradeoffs: You need a rental car. Parking at the Disney parks is $30+ per day, Universal is similar. You don't get Early Entry at Disney parks (with the exception of the Disney Springs hotels). You don't get Extended Evening Hours. You do get more space, lower nightly cost, and a kitchen.
+Off-property tradeoffs: You need a rental car. Parking at the Disney parks is $30+ per day. You don't get Early Entry at Disney parks (with the exception of the Disney Springs hotels). You don't get Extended Evening Hours. You do get more space, lower nightly cost, and a kitchen.
 
 Best for: Larger groups, longer trips, families who plan to do non-park days, travelers who want to keep food costs down by cooking some meals.
 
