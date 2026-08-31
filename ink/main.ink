@@ -1,3 +1,5 @@
+# title: Walt Disney World Trip Planner
+
 VAR park = ""
 VAR group_type = ""
 VAR current_location = ""
@@ -14,8 +16,6 @@ INCLUDE where_to_stay.ink
 == start ==
 ~ park = ""
 ~ group_type = ""
-
-Walt Disney World Trip Planner
 
 Four parks, dozens of hotels, and a few hundred small decisions that add up to either a good week or an expensive slog. This guide covers the three that matter most: which park gets each day, how you get to Orlando, and where you sleep once you're here.
 

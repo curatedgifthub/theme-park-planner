@@ -188,7 +188,38 @@ Nothing in Stage 2 matters until a stranger can open a link.
       `main.ink` 49 -> 67 lines, 93 knots -> 94. Compiles clean, no warnings, and three scripted
       play-throughs — a park terminal, a `where_to_stay` terminal, a `getting_to_orlando` terminal —
       each reach `the_end` and stop, with no "ran out of content" warning.
-- [ ] **1.08** Inky -> File -> Export for web. Commit the exported folder.
+- [x] **1.08** ~~Inky -> File -> Export for web. Commit the exported folder.~~ — **done.** Five
+      files, at the **repo root** rather than in `web/`. That settles the question 1.02 parked:
+      1.09 deploys from `main` / root, and the alternative — export to the root *and* keep copies
+      in `web/` — meant two of everything with nothing to reconcile them, at a point where not one
+      of the three hand-editable files has been hand-edited. `web/README.md` now carries the
+      decision, a table of which file comes from where, and the re-export trap.
+      **What the five are:** `story.js` (403 KB, `var storyContent = <compiled main.ink>;`) is
+      generated; `ink.js` is the inkjs 2.2.3 runtime vendored verbatim; `index.html`, `style.css`
+      and `main.js` are Inky's export template. Only `story.js` changes when the ink changes.
+      **How it was produced:** headlessly, with the binary and flags Inky's own menu item uses —
+      the `inkjs-compatible` `inklecate_mac` (not the default one; web export needs the JSON
+      dialect inkjs reads), `-c -o`, then the same two substitutions into the same template. Same
+      inputs, same code path, same output as clicking the menu.
+      **Two source edits it forced, both caused by the export itself:**
+      1. `# title: Walt Disney World Trip Planner` added as a global tag to `main.ink`. Inky reads
+         that tag for `<title>` and `<h1>`, and *falls back to the export folder's name* when it
+         is absent — which at the root would have shipped a page titled "theme-park-planner". The
+         title now comes from the source, not from wherever the export lands.
+      2. `start`'s opening line, the bare "Walt Disney World Trip Planner", deleted. It was the
+         story's own heading back when there was no shell around it; with the template's permanent
+         `<h1>` above it, the landing page printed the title twice, the second time as body copy.
+      **Verified three ways:** the compile is clean with no warnings; 20,000 scripted paths driven
+      through the exported `story.js` by the exported `ink.js` produced zero runtime errors, with
+      82 of them reaching `-> END`; and the page was loaded, played through a park branch, and
+      checked at 375 px, where it stays inside its measure with no horizontal overflow.
+      **Deliberately not done:** no build script in `tools/`. `tools/README.md` says empty on
+      purpose until 1.10, and a shell wrapper around a GUI app's bundled binary is the wrong
+      permanent answer — 1.10 wants inkjs, which runs on a CI box too. The CLI recipe is written
+      down in `web/README.md` so it isn't lost. No `.nojekyll` either: nothing at the root has
+      Liquid syntax or a leading underscore, so Jekyll is harmless here, and the real question it
+      raises — a root deploy also serves the three planning `.md` files — is 1.09's call, flagged
+      on 1.09's row in the checklist.
 - [ ] **1.09** Settings -> Pages -> Deploy from a branch -> `main` / root. **You now have a live URL.**
 - [ ] **1.10** *(defer to Stage 2 unless the manual export already annoys you)* Replace the Inky
       export with inkjs + Actions: `npm run build` compiles `ink/main.ink` -> `dist/story.json`, Action deploys `dist/`,
