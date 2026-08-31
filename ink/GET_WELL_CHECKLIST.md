@@ -12,8 +12,8 @@ says *where we are*. Update the status cell when you start and when you finish �
 | Doing | Actively in flight this session. |
 | Done | Finished and verified in the files. |
 
-**Where we are:** Stage 1 — 1 of 14 done (all of it inside 1.04). Stage 2 — 0 of 12 done.
-Nothing is committed, compiled, or published.
+**Where we are:** Stage 1 — 2 of 14 done (1.01 and 1.04a). Stage 2 — 0 of 12 done.
+One commit exists locally. Nothing is compiled, pushed, or published.
 
 ---
 
@@ -21,7 +21,7 @@ Nothing is committed, compiled, or published.
 
 | # | Task | Status | Evidence / notes |
 |---|---|---|---|
-| 1.01 | `git init` and commit everything as-is | To do | Not a git repository. Nothing is under version control. |
+| 1.01 | `git init` and commit everything as-is | **Done** | Repo root is `theme-park-planner/`, so the existing `ink/` folder is already the one 1.02 wants. Commit `77df200` "Import: 64k words of park guides, pre-refactor" — 13 files, 4,901 lines, branch `main`. `.gitignore` holds `dist/ node_modules/ .DS_Store assets/_source/`. No remote yet; nothing pushed. |
 | 1.02 | Restructure into `ink/` `web/` `assets/` `tools/`, gitignore `dist/` | To do | All nine `.ink` files sit at the root; no `.gitignore`. |
 | 1.03 | Delete the two Universal files, both INCLUDEs, and `universal_park_picker` | To do | `universal_usf.ink` and `universal_ioa.ink` still present; INCLUDEs at `main.ink:10-11`; knot at `main.ink:183`. |
 | 1.04a | Delete `resort_comparison_summer` | **Done** | Removed; `resort_comparison` now diverts straight to `resort_comparison_size`. |
@@ -30,7 +30,7 @@ Nothing is committed, compiled, or published.
 | 1.06 | INCLUDE and link the two orphaned files; strip Universal from `where_to_stay.ink` | To do | No INCLUDE for `getting_to_orlando.ink` or `where_to_stay.ink` — 24 KB of finished content is unreachable. |
 | 1.07 | `-> END` terminals and a way home on every guide's last page | To do | Zero `-> END` in the entire project. |
 | 1.08 | Inky → Export for web; commit the exported folder | To do | Nothing compiled. No exported folder in the tree. |
-| 1.09 | Pages → Deploy from a branch → `main` / root — **live URL** | To do | Blocked by 1.01 and 1.08. |
+| 1.09 | Pages → Deploy from a branch → `main` / root — **live URL** | To do | Blocked by 1.08, and by a GitHub remote that does not exist yet (see Q1). |
 | 1.10 | Replace the manual export with inkjs + Actions | To do *(deferred)* | Optional by design — do it when the manual re-export starts to sting, or when 2.09 needs CI. |
 | 1.11 | Read the whole thing on your phone, start to finish; take pacing notes | To do | Blocked by 1.09. |
 | 1.12 | Purge every expired date | To do | All of it is in `disney_mk.ink`: 7 "Spring 2026", 4 "Current Closures as of Early 2026" (lines 314, 677, 945, 1279). Wider sweep: 13 `202x` hits in `disney_mk.ink`, 3 in `disney_hs.ink`, 1 each in `main.ink` and `where_to_stay.ink`. |
@@ -66,7 +66,7 @@ Do 2.01 **before** 2.02 — deduplicate first, then add conditionals.
 
 | # | Question | Status | Why it's blocking |
 |---|---|---|---|
-| Q1 | What is this called, and where does it live? | Open | Highest-leverage IP decision. The wordmark can't be drawn until it's settled, and it decides standalone repo vs. folder in the CGH site — which 1.01 and 1.02 both assume an answer to. |
+| Q1 | What is this called, and where does it live? | Open | Highest-leverage IP decision; the wordmark can't be drawn until it's settled. Locally it is now a standalone repo — nothing else in the CGH tree is under git, so that was the only arrangement available, and it is reversible. Still open: the name, and the remote it gets pushed to, which 1.09 needs. |
 | Q2 | Is this monetized? | Open | Sets the disclaimer wording (1.13) and whether affiliate links belong in the heat, storm, and big-group knots. |
 | Q3 | Ship date? | Open | Stage 1 alone gets a shareable URL; Stage 2 is where it gets good. |
 

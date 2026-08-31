@@ -74,7 +74,9 @@ Starting with the Inky export wastes nothing either way — same story JSON, sam
 
 Nothing in Stage 2 matters until a stranger can open a link.
 
-- [ ] **1.01** `git init` and commit everything as-is, before any edit
+- [x] **1.01** ~~`git init` and commit everything as-is, before any edit~~ — **done.** Repo root is
+      `theme-park-planner/`, branch `main`, commit `77df200`. The import captures the tree with 1.04a
+      already applied, since that edit predates the repo. Local only — no remote until Q1 is answered.
 - [ ] **1.02** Restructure: `ink/` `web/` `assets/` `tools/`, gitignore `dist/`
 - [ ] **1.03** Delete `universal_usf.ink` and `universal_ioa.ink`, both INCLUDEs, and the
       `universal_park_picker` knot in `main.ink`
