@@ -12,7 +12,7 @@ says *where we are*. Update the status cell when you start and when you finish �
 | Doing | Actively in flight this session. |
 | Done | Finished and verified in the files. |
 
-**Where we are:** Stage 1 — 3 of 14 done (1.01, 1.02 and 1.04a). Stage 2 — 0 of 12 done.
+**Where we are:** Stage 1 — 6 of 14 done (1.01, 1.02, 1.03, 1.04a, 1.04b and 1.05). Stage 2 — 0 of 12 done.
 The repo is local only — no remote. Nothing is compiled, pushed, or published.
 
 ---
@@ -23,17 +23,17 @@ The repo is local only — no remote. Nothing is compiled, pushed, or published.
 |---|---|---|---|
 | 1.01 | `git init` and commit everything as-is | **Done** | Repo root is `theme-park-planner/`, so the existing `ink/` folder is already the one 1.02 wants. Commit `77df200` "Import: 64k words of park guides, pre-refactor" — 13 files, 4,901 lines, branch `main`. `.gitignore` holds `dist/ node_modules/ .DS_Store assets/_source/`. No remote yet; nothing pushed. |
 | 1.02 | Restructure into `ink/` `web/` `assets/` `tools/`, gitignore `dist/` | **Done** | `ink/` came free with 1.01. Added `web/` `assets/` `tools/`, each with a README naming what lands there and which task fills it — git won't track an empty directory. Moved `GET_WELL_PLAN.md`, `GET_WELL_CHECKLIST.md` and `PAGINATION_PLAN.md` out of `ink/` to the repo root, so `ink/` is source only; `git mv`, so history follows. `.gitignore` already had `dist/`. INCLUDEs are bare filenames and all nine `.ink` files stayed put, so no rewiring. Surfaced for 1.08: 1.09's root deploy wants `index.html` at the root, not in `web/`. |
-| 1.03 | Delete the two Universal files, both INCLUDEs, and `universal_park_picker` | To do | `universal_usf.ink` and `universal_ioa.ink` still present; INCLUDEs at `main.ink:10-11`; knot at `main.ink:183`. |
+| 1.03 | Delete the two Universal files, both INCLUDEs, and `universal_park_picker` | **Done** | Both files were 9-line "coming soon" placeholders — nothing salvaged. Removed the files, the two INCLUDEs, the knot, and its only inbound divert (the "Universal Orlando (Coming soon)" choice in `choose_destination`), which the task list didn't name but which would have broken the compile. `main.ink` 194 → 176 lines; compiles clean via Inky's `inklecate`. Universal prose left standing on purpose — it belongs to 1.04b, 1.05 and 1.06. |
 | 1.04a | Delete `resort_comparison_summer` | **Done** | Removed; `resort_comparison` now diverts straight to `resort_comparison_size`. |
-| 1.04b | Delete the remaining 7 `resort_comparison_*` knots, `choose_destination`, and `VAR resort` | To do | 7 knots run from `main.ink:28` to `main.ink:149`; `choose_destination` at `main.ink:150`; `VAR resort` at `main.ink:1`. Four inbound diverts to clean up: `main.ink:26`, `main.ink:160`, `getting_to_orlando.ink:91`, `where_to_stay.ink:173`. |
-| 1.05 | Rewrite `start` as a Disney hub (park / getting there / where to stay) | To do | `main.ink:15` still opens on Disney vs. Universal. Blocked by 1.03 and 1.04b. |
-| 1.06 | INCLUDE and link the two orphaned files; strip Universal from `where_to_stay.ink` | To do | No INCLUDE for `getting_to_orlando.ink` or `where_to_stay.ink` — 24 KB of finished content is unreachable. |
+| 1.04b | Delete the remaining 7 `resort_comparison_*` knots, `choose_destination`, and `VAR resort` | **Done** | All 7 knots, `choose_destination` and `VAR resort` gone, plus all four inbound diverts. `start`'s two choices became one `-> disney_park_picker`; the tails of `getting_to_orlando.ink` and `where_to_stay.ink` got the same choice in place of their destination/comparison pair — those two aren't INCLUDEd yet, so they were 1.06 traps rather than live breakage. `main.ink` 176 -> 42 lines; compiles clean, and a forward-compile with both orphan files INCLUDEd also passes. Left for 1.05: `start`'s prose is still the Universal comparison opener, and `disney_park_picker`'s "Back to resort picker" label. |
+| 1.05 | Rewrite `start` as a Disney hub (park / getting there / where to stay) | **Done** | Whole knot replaced: new title `Walt Disney World Trip Planner`, three paragraphs of Disney-only prose, and three choices — `disney_park_picker`, `getting_to_orlando`, `where_to_stay`. Choices sit in the order the task named, with the prose arguing for reading the two logistics sections first anyway. `disney_park_picker`'s last choice is now "Back to start", matching the label both guide files already used. **Absorbed from 1.06:** the two `INCLUDE` lines, without which the two new diverts don't compile. `main.ink` 42 → 49 lines; compiles clean, no warnings, and a play-through confirms all three branches round-trip back to the hub. |
+| 1.06 | INCLUDE and link the two orphaned files; strip Universal from `where_to_stay.ink` | To do | INCLUDE and link both landed with 1.05 — both files are reachable from the hub and both route back. What's left is the Universal strip in `where_to_stay.ink`, now more urgent than it was: the two `stay_universal_*` knots (lines 72 and 93) are live in the story rather than orphaned. Also the "On-Property at Universal" choice, the "Compare to Universal" divert in `stay_disney_tiers`, the Universal clause in the intro paragraph, and the mention in `stay_disney_tradeoffs`. |
 | 1.07 | `-> END` terminals and a way home on every guide's last page | To do | Zero `-> END` in the entire project. |
 | 1.08 | Inky → Export for web; commit the exported folder | To do | Nothing compiled. No exported folder in the tree. |
 | 1.09 | Pages → Deploy from a branch → `main` / root — **live URL** | To do | Blocked by 1.08, and by a GitHub remote that does not exist yet (see Q1). |
 | 1.10 | Replace the manual export with inkjs + Actions | To do *(deferred)* | Optional by design — do it when the manual re-export starts to sting, or when 2.09 needs CI. |
 | 1.11 | Read the whole thing on your phone, start to finish; take pacing notes | To do | Blocked by 1.09. |
-| 1.12 | Purge every expired date | To do | All of it is in `disney_mk.ink`: 7 "Spring 2026", 4 "Current Closures as of Early 2026" (lines 314, 677, 945, 1279). Wider sweep: 13 `202x` hits in `disney_mk.ink`, 3 in `disney_hs.ink`, 1 each in `main.ink` and `where_to_stay.ink`. |
+| 1.12 | Purge every expired date | To do | All of it is in `disney_mk.ink`: 7 "Spring 2026", 4 "Current Closures as of Early 2026" (lines 314, 677, 945, 1279). Wider sweep: 13 `202x` hits in `disney_mk.ink`, 3 in `disney_hs.ink`, 1 in `where_to_stay.ink`. `main.ink`'s single hit ("Epic Universe ... opened in 2025") went out with 1.04b. |
 | 1.13 | Footer on every page: last-updated, trademark disclaimer, sources | To do | Depends on the export shipping first (1.08). |
 
 **Done when:** you can text someone a link, they open it on a phone, pick a park and a group
@@ -48,7 +48,7 @@ Do 2.01 **before** 2.02 — deduplicate first, then add conditionals.
 | # | Task | Status | Evidence / notes |
 |---|---|---|---|
 | 2.01 | Tunnel the repeated blocks (closures, hours, Rider Swap, TTC parking, Skyliner, buses) | To do | Zero tunnels (`->->`) in the project. |
-| 2.02 | Party `LIST` + 30-second intake, replacing the four-way `group_type` fork | To do | Zero LISTs. `VAR group_type` at `main.ink:3`. |
+| 2.02 | Party `LIST` + 30-second intake, replacing the four-way `group_type` fork | To do | Zero LISTs. `VAR group_type` at `main.ink:2`. |
 | 2.03 | Actually read the variables; give `current_location` a real job | To do | 4 variables declared, 0 read. |
 | 2.04 | One tag per fact-bearing knot: `# VERIFIED: YYYY-MM-DD` | To do | Zero tags in the project. |
 | 2.05 | Typography pass on the CSS — the entire presentation layer | To do | Starts from Inky's exported `style.css`, so blocked by 1.08. |

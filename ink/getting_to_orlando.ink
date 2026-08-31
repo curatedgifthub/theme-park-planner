@@ -87,6 +87,5 @@ Fuel and food breaks: Last good fuel and food stop before Orlando is usually aro
 
 Arrival timing: Avoid hitting Orlando between 4 p.m. and 7 p.m. on a weekday. I-4 traffic during evening rush makes a 30-minute drive into 90 minutes. Aim for a mid-morning or late-evening arrival.
 
-+ [I'm ready to pick a destination →] -> choose_destination
-+ [Read the resort comparison] -> resort_comparison
++ [Pick a park →] -> disney_park_picker
 + [Back to Getting to Orlando] -> getting_to_orlando

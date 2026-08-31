@@ -169,6 +169,5 @@ When DVC rental makes sense: Trips of 4 nights or more (the per-point math impro
 
 When it doesn't: Last-minute trips. Trips with high cancellation risk. Single-night stays.
 
-+ [I'm ready to pick a destination →] -> choose_destination
-+ [Read the resort comparison] -> resort_comparison
++ [Pick a park →] -> disney_park_picker
 + [Back to Where to Stay] -> where_to_stay
