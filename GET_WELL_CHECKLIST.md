@@ -12,8 +12,8 @@ says *where we are*. Update the status cell when you start and when you finish �
 | Doing | Actively in flight this session. |
 | Done | Finished and verified in the files. |
 
-**Where we are:** Stage 1 — 2 of 14 done (1.01 and 1.04a). Stage 2 — 0 of 12 done.
-One commit exists locally. Nothing is compiled, pushed, or published.
+**Where we are:** Stage 1 — 3 of 14 done (1.01, 1.02 and 1.04a). Stage 2 — 0 of 12 done.
+The repo is local only — no remote. Nothing is compiled, pushed, or published.
 
 ---
 
@@ -22,7 +22,7 @@ One commit exists locally. Nothing is compiled, pushed, or published.
 | # | Task | Status | Evidence / notes |
 |---|---|---|---|
 | 1.01 | `git init` and commit everything as-is | **Done** | Repo root is `theme-park-planner/`, so the existing `ink/` folder is already the one 1.02 wants. Commit `77df200` "Import: 64k words of park guides, pre-refactor" — 13 files, 4,901 lines, branch `main`. `.gitignore` holds `dist/ node_modules/ .DS_Store assets/_source/`. No remote yet; nothing pushed. |
-| 1.02 | Restructure into `ink/` `web/` `assets/` `tools/`, gitignore `dist/` | To do | All nine `.ink` files sit at the root; no `.gitignore`. |
+| 1.02 | Restructure into `ink/` `web/` `assets/` `tools/`, gitignore `dist/` | **Done** | `ink/` came free with 1.01. Added `web/` `assets/` `tools/`, each with a README naming what lands there and which task fills it — git won't track an empty directory. Moved `GET_WELL_PLAN.md`, `GET_WELL_CHECKLIST.md` and `PAGINATION_PLAN.md` out of `ink/` to the repo root, so `ink/` is source only; `git mv`, so history follows. `.gitignore` already had `dist/`. INCLUDEs are bare filenames and all nine `.ink` files stayed put, so no rewiring. Surfaced for 1.08: 1.09's root deploy wants `index.html` at the root, not in `web/`. |
 | 1.03 | Delete the two Universal files, both INCLUDEs, and `universal_park_picker` | To do | `universal_usf.ink` and `universal_ioa.ink` still present; INCLUDEs at `main.ink:10-11`; knot at `main.ink:183`. |
 | 1.04a | Delete `resort_comparison_summer` | **Done** | Removed; `resort_comparison` now diverts straight to `resort_comparison_size`. |
 | 1.04b | Delete the remaining 7 `resort_comparison_*` knots, `choose_destination`, and `VAR resort` | To do | 7 knots run from `main.ink:28` to `main.ink:149`; `choose_destination` at `main.ink:150`; `VAR resort` at `main.ink:1`. Four inbound diverts to clean up: `main.ink:26`, `main.ink:160`, `getting_to_orlando.ink:91`, `where_to_stay.ink:173`. |

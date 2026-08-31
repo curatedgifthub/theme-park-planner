@@ -77,7 +77,15 @@ Nothing in Stage 2 matters until a stranger can open a link.
 - [x] **1.01** ~~`git init` and commit everything as-is, before any edit~~ — **done.** Repo root is
       `theme-park-planner/`, branch `main`, commit `77df200`. The import captures the tree with 1.04a
       already applied, since that edit predates the repo. Local only — no remote until Q1 is answered.
-- [ ] **1.02** Restructure: `ink/` `web/` `assets/` `tools/`, gitignore `dist/`
+- [x] **1.02** ~~Restructure: `ink/` `web/` `assets/` `tools/`, gitignore `dist/`~~ — **done.**
+      1.01 had already made the repo root `theme-park-planner/`, so `ink/` existed; this was the
+      other three folders plus one cleanup — the three planning docs moved out of `ink/` up to the
+      root, leaving `ink/` as ink source and nothing else. `web/` `assets/` `tools/` each carry a
+      README saying what lands there and which task fills it, since git won't track an empty
+      directory. `.gitignore` already held `dist/`. The six `INCLUDE` lines are bare filenames and
+      every `.ink` file stayed together, so nothing needed rewiring. **One thing this surfaced, and
+      it lands in 1.08:** 1.09 deploys from `main` / root, which wants `index.html` at the repo
+      root rather than in `web/` — `web/README.md` lays out the two ways to settle that.
 - [ ] **1.03** Delete `universal_usf.ink` and `universal_ioa.ink`, both INCLUDEs, and the
       `universal_park_picker` knot in `main.ink`
 - [x] **1.04a** ~~Delete `resort_comparison_summer`~~ — **done.** Nothing was salvaged and nothing
