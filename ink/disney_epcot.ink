@@ -90,6 +90,11 @@ Who this is for: Couples, adult friends, or solo travelers. No children in your 
 
 The core opportunity: EPCOT is the park built for you. The World Showcase is essentially a food and drink festival wrapped around a lagoon. The rides are world class. The restaurants are the best on Disney property. And the entire vibe skews older in a way none of the other parks do. Without kids, you can drink around the world, linger at pavilions, eat a real meal, and ride everything worth riding, all without worrying about height requirements, nap schedules, or character meet lines. This is the most relaxing day you'll have at Disney World, and it doesn't have to sacrifice a single thrill ride to get there.
 
++ [Continue to Getting There →] -> ep_no_kids_getting_there
++ [Pick a different group type] -> ep_pick_group
+
+== ep_no_kids_getting_there ==
+
 Getting There
 
 Check park hours first: Go to disneyworld.disney.go.com/calendars and find EPCOT's opening time for your specific date. Early Entry for Disney resort guests begins 30 minutes before the official park opening time.
@@ -103,6 +108,11 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin can 
 Important for walkers and Skyliner guests: Entering through International Gateway puts you at the back of the park. Cosmic Rewind is at the front. That's a long walk first thing in the morning. If Cosmic Rewind is your priority, factor in the walk time or consider taking a bus to the front entrance instead.
 
 Goal: Be at the park gates before official opening. Disney often lets guests into the entry plaza before the clock hits the posted time. Being near the front of the crowd matters more at EPCOT than most parks because Cosmic Rewind fills up fast.
+
++ [Continue to Lightning Lane & Rope Drop →] -> ep_no_kids_rope_drop
++ [Pick a different group type] -> ep_pick_group
+
+== ep_no_kids_rope_drop ==
 
 Lightning Lane Priorities for Adults
 
@@ -130,6 +140,11 @@ Ride priority: Guardians of the Galaxy: Cosmic Rewind is must do, reverse launch
 
 Knock out before noon: Cosmic Rewind (if you didn't get it during Early Entry), Test Track, Frozen Ever After, Remy's Ratatouille Adventure. Everything else at EPCOT has manageable waits most of the day. Spaceship Earth, Living with the Land, Gran Fiesta Tour, and The Seas are walk on or near walk on during most time slots, save them for afternoon AC breaks.
 
++ [Continue to The World Showcase →] -> ep_no_kids_showcase
++ [Pick a different group type] -> ep_pick_group
+
+== ep_no_kids_showcase ==
+
 The World Showcase
 
 The World Showcase opens later than the rest of the park, usually at 11 a.m., sometimes earlier. Check the app for your date.
@@ -143,6 +158,11 @@ This is a real thing people plan their trips around. The concept: one drink at e
 Pace yourself. Eleven drinks is a lot, especially in summer heat. Eat as you go. The festival booths and quick service spots between pavilions are there for a reason. Hydrate. Alternate drinks with water. You're outside in Florida summer heat. Dehydration sneaks up fast. You don't have to do all 11. Pick the ones that interest you and actually enjoy them instead of racing through.
 
 Standout drinks by pavilion: Mexico, tequila flights or frozen margaritas at La Cava del Tequila (inside the pyramid), this is one of the best bars on Disney property. Norway, Viking coffee or a beer at the bar near Frozen Ever After. China, plum wine or a Kung Fu Punch. Germany, beer, the beer garden pours German drafts and the pretzels are excellent. Italy, wine, limoncello, or an Aperol spritz. American Adventure, craft beer at the Fife & Drum or Block & Hans kiosk. Japan, sake flights or Japanese beer, the Kabuki Cafe has kakigori (shaved ice with flavoring). Morocco, mint tea or a Mediterranean cocktail. France, champagne, wine, or a Grand Marnier slush from L'Artisan des Glaces. United Kingdom, Bass ale, a cider, or a Pimm's Cup at the Rose & Crown pub. Canada, Canadian beer, ice wine, or a maple popcorn from the kiosk.
+
++ [Continue to Festival Booths →] -> ep_no_kids_festivals
++ [Pick a different group type] -> ep_pick_group
+
+== ep_no_kids_festivals ==
 
 Festival Booths
 
@@ -194,6 +214,11 @@ Keep eating and drinking. The festival booths and pavilion bars are open through
 
 Re ride if you want. Cosmic Rewind and Test Track waits typically decrease in the evening. If you want a second ride, this is the time.
 
++ [Continue to Extended Hours & Dining →] -> ep_no_kids_dining
++ [Pick a different group type] -> ep_pick_group
+
+== ep_no_kids_dining ==
+
 Extended Evening Hours (Deluxe Resort Guests Only)
 
 If you're staying at a Deluxe Disney resort (BoardWalk, Yacht & Beach Club, Swan & Dolphin, etc.), you get Extended Evening Hours on select nights, extra time in the park after regular close. The park stays open an additional 2 hours for deluxe resort guests only. Crowds are minimal. Walk on or near walk on waits for most rides. Check the Disney calendar for your dates. If your visit includes an EEH night at EPCOT, save Cosmic Rewind for then. Walk on the best ride in the park with no crowds.
@@ -207,6 +232,11 @@ Table service (reservation strongly recommended): Le Cellier Steakhouse in Canad
 Quick service worth eating: Les Halles Boulangerie Patisserie in France, pastries, sandwiches, quiche, one of the best quick service spots at Disney World. Katsura Grill in Japan, sushi, udon, teriyaki, tucked in the back of the Japan pavilion, easy to miss. Tangierine Cafe in Morocco, Mediterranean wraps and platters, flavorful and different. Regal Eagle Smokehouse at the American Adventure, BBQ, solid portions, good flavor. Sunshine Seasons in The Land, multiple stations, Asian, Mediterranean, sandwiches, consistently good and inside The Land pavilion with full AC.
 
 Where to drink (beyond the pavilion bars): La Cava del Tequila, tequila bar inside the Mexico pyramid, small, intimate, excellent drinks, can have a wait to get in. Rose & Crown Pub, the pub side has a bar with beers and cocktails, patio seating near the lagoon. Festival Booths, small plate dishes and specialty drinks, the variety changes with each festival.
+
++ [Continue to When the Plan Breaks →] -> ep_no_kids_wrapup
++ [Pick a different group type] -> ep_pick_group
+
+== ep_no_kids_wrapup ==
 
 When the Plan Breaks
 
@@ -297,6 +327,11 @@ If You're Staying Off Property
 
 Your disadvantage: No Early Entry. Resort guests have had 30 minutes of riding before you walk in.
 
++ [Continue to Driving & Arrival →] -> ep_young_kids_driving
++ [Pick a different group type] -> ep_pick_group
+
+== ep_young_kids_driving ==
+
 Driving to EPCOT
 
 For GPS, search EPCOT Parking or use the address for EPCOT at Walt Disney World.
@@ -320,6 +355,11 @@ Where to Go First
 Frozen Ever After. No question. This is the ride your kids want, and the wait will only get worse as the day goes on. Head straight to the Norway pavilion.
 
 After Frozen, work through the no height requirement rides while morning waits are still manageable. Remy's Ratatouille Adventure, The Seas with Nemo and Friends, then Gran Fiesta Tour.
+
++ [Continue to Early Entry →] -> ep_young_kids_early_entry
++ [Pick a different group type] -> ep_pick_group
+
+== ep_young_kids_early_entry ==
 
 If You're Staying at a Disney Resort Hotel
 
@@ -434,6 +474,11 @@ Luminous with young kids: Find your spot early and let kids sit in the stroller 
 
 When to call it: If your kids are fading, leave before the show. Fighting through post show crowds with an exhausted toddler in a stroller is nobody's idea of a good time. There will be other nights.
 
++ [Continue to Lightning Lane & Dining →] -> ep_young_kids_dining
++ [Pick a different group type] -> ep_pick_group
+
+== ep_young_kids_dining ==
+
 Lightning Lane Priorities for Young Kids
 
 First priority is Frozen Ever After. It's the longest wait your kids will face. This is the number one Lightning Lane pick for young families.
@@ -470,6 +515,11 @@ Biergarten in Germany is buffet style with communal tables and live entertainmen
 
 Via Napoli in Italy has pizza. Kids eat pizza. Problem solved.
 
++ [Continue to When the Plan Breaks →] -> ep_young_kids_troubleshooting
++ [Pick a different group type] -> ep_pick_group
+
+== ep_young_kids_troubleshooting ==
+
 When the Plan Breaks
 
 My kid is melting down and we just got here. It happens. Step out of the flow of foot traffic. Find shade or AC. The Seas aquarium is perfect for this. It's calm, dark, cool, with fish to look at. Snack, water, comfort item. Don't try to push through to the next ride. Five minutes of reset can save the next two hours.
@@ -481,6 +531,11 @@ It's too hot and my kid won't drink water. Get creative. The frozen lemonade sta
 We can't find a character and my kid is devastated. Character schedules change daily. Check the My Disney Experience app constantly. If a character just left, ask a Cast Member when they'll return. Most character breaks are short. In the meantime, distract with a snack or a ride.
 
 My kid is scared of Spaceship Earth, Remy's, or the American Adventure. All three have dark sections. For Spaceship Earth, the darkness is the whole ride. If your kid doesn't like dark rides, skip it. For Remy's, the 3D trackless movement can be startling. For the American Adventure, it's a theater show that is dark but nothing jumps out. Know your kid's limits and don't push them just because you're already in line.
+
++ [Continue to End of Night & Day at a Glance →] -> ep_young_kids_glance
++ [Pick a different group type] -> ep_pick_group
+
+== ep_young_kids_glance ==
 
 End of Night Transportation
 
@@ -794,6 +849,11 @@ Teppan Edo in Japan has a chef who cooks at your table with fire, tricks, and th
 
 Space 220 in World Discovery is a simulated space station. The elevator gimmick is genuinely cool for all ages. Hard reservation to get.
 
++ [Continue to When the Plan Breaks →] -> ep_mixed_ages_troubleshooting
++ [Pick a different group type] -> ep_pick_group
+
+== ep_mixed_ages_troubleshooting ==
+
 When the Plan Breaks
 
 The little kids are done and the teenagers want to stay. This is the classic mixed age problem. One parent takes the young kids back to the hotel while the other stays with teens. If leaving isn't possible, find an indoor cool-down spot for the little ones like The Seas aquarium while the older kids ride.
@@ -805,6 +865,11 @@ The teenager is bored. Send them to the Japan pavilion shops, let them try festi
 The toddler is melting down. Step off the path. Find shade or AC. The Seas aquarium is the best reset spot. It's calm, dark, cool, and visually engaging. A snack break inside The Land pavilion also works. Don't try to push through to the next ride. Reset first.
 
 It's too hot for the kids but the adults want to keep exploring. Split the group. One adult takes kids to the aquarium, Living with the Land, or back to the hotel. The other adult explores pavilions, hits a bar, or catches the American Adventure. You're at EPCOT. The park is designed for exactly this kind of flexibility.
+
++ [Continue to End of Night & Day at a Glance →] -> ep_mixed_ages_glance
++ [Pick a different group type] -> ep_pick_group
+
+== ep_mixed_ages_glance ==
 
 End of Night Transportation
 
@@ -905,6 +970,11 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin can 
 
 Goal: Be at the park gates before official opening. With a big group, someone will be late, someone will need a bathroom, and someone will forget something in the car. Build in extra buffer. If anyone gets separated during entry, meet at the fountain at the base of Spaceship Earth, it's the first thing you see after entering.
 
++ [Continue to Lightning Lane & Rope Drop →] -> ep_big_group_ll
++ [Pick a different group type] -> ep_pick_group
+
+== ep_big_group_ll ==
+
 Lightning Lane for Big Groups
 
 Lightning Lane Multi Pass has a limited number of slots per ride per time window. With 8+ people, you may not all get the same return time.
@@ -926,6 +996,11 @@ Strategy 2, split for efficiency: One group does Cosmic Rewind, then Test Track,
 If you're staying off property (no Early Entry): With 8+ people, not everyone wants the same first ride. Don't force it. Thrill seekers go to Cosmic Rewind, get in the standby line immediately, it's already long. Families and non riders go to Frozen Ever After, head to Norway before the family crowd builds. Chill crew goes to Spaceship Earth or The Seas, low waits, air conditioned, no rush.
 
 Regroup point: The area near the front of the World Showcase (between the ride area and the World Showcase loop). Set a time to meet.
+
++ [Continue to Morning Strategy →] -> ep_big_group_morning
++ [Pick a different group type] -> ep_pick_group
+
+== ep_big_group_morning ==
 
 Morning (Park Open to 11:00 a.m.)
 
@@ -956,6 +1031,11 @@ If your group is all adults or mostly adults, drinking around the World Showcase
 
 Pace varies. Some people want to linger at every stop. Others want to move fast. Don't force everyone to drink at every pavilion, let people skip or sip water. Budget divergence. Some people will spend $15 per drink at every stop. Others will nurse one beer all afternoon. Have the budget conversation in advance or agree to split nothing and pay your own way. Food is essential. Don't drink on an empty stomach in Florida summer heat. Hit the festival booths or quick service spots between drinks. Dehydration sneaks up on everyone. Hydrate. Alternate drinks with water. This is non negotiable in summer.
 
++ [Continue to Afternoon Strategy →] -> ep_big_group_midday
++ [Pick a different group type] -> ep_pick_group
+
+== ep_big_group_midday ==
+
 Afternoon (11:00 a.m. to 5:00 p.m.)
 
 With a big group, a coordinated hotel break is logistically difficult. People are staying at different hotels. Transportation takes forever. Regrouping is chaos.
@@ -985,6 +1065,11 @@ Luminous: The Symphony of Us. The nighttime fireworks and fountain show over the
 
 Post show rides. Cosmic Rewind and Test Track waits drop during and after the nighttime show. If anyone wants a re ride or missed one earlier, this is the window.
 
++ [Continue to Dining for Big Groups →] -> ep_big_group_dining
++ [Pick a different group type] -> ep_pick_group
+
+== ep_big_group_dining ==
+
 Dining for Big Groups
 
 This is the hardest part of a big group EPCOT day. The World Showcase has incredible restaurants, but seating 8+ people is a challenge everywhere.
@@ -994,6 +1079,11 @@ Most Disney restaurants cap online reservations at 6 people. For a party of 8+: 
 Table service: Biergarten in Germany, buffet style, communal seating, live entertainment, communal tables mean big groups can actually sit together more easily, fun, loud, social. Via Napoli in Italy, wood fired pizza, large portions, shareable, works for every age. Garden Grill in The Land, character dining, family style platters work well for groups, rotating restaurant overlooking Living with the Land. Teppan Edo in Japan, teppanyaki tables seat about 8, a full group can sometimes get one table, chef cooks at your table with fire and tricks. Rose & Crown in the UK, pub atmosphere, fish and chips, patio has lagoon views. San Angel Inn in Mexico, inside the pyramid, atmospheric, may need to split across two tables. Space 220 in World Discovery, the space station gimmick is great for groups, very hard reservation to get for large parties.
 
 Quick service for big groups: Sunshine Seasons in The Land pavilion, multiple food stations, everyone orders what they want, large indoor seating area, best quick service option for big groups. Connections Cafe in World Celebration, burgers, pizza, standard fare, largest seating area at EPCOT. Regal Eagle Smokehouse at the American Adventure, BBQ, outdoor seating with some covered areas. Festival booths along the World Showcase, everyone orders their own small plates and finds a spot, this is actually the most flexible "dining" option for big groups, no reservation, no shared table, everyone eats what they want.
+
++ [Continue to Budget & When the Plan Breaks →] -> ep_big_group_budget
++ [Pick a different group type] -> ep_pick_group
+
+== ep_big_group_budget ==
 
 Budget
 
@@ -1015,6 +1105,11 @@ When the Plan Breaks
 
 "It's pouring rain and we're scattered across the park." Text the group: "Storm, take cover wherever you are, regroup at [landmark] when it passes." EPCOT has more indoor options than any other park. Everyone will find cover.
 
++ [Continue to End of Night →] -> ep_big_group_end_of_night
++ [Pick a different group type] -> ep_pick_group
+
+== ep_big_group_end_of_night ==
+
 End of Night
 
 If you drove with multiple cars: Walk to the tram together. Trams take you to the parking lot. If your cars are in different rows, say your goodbyes at the tram drop off rather than trying to walk together through the lot. After the nighttime show, the tram line can be long. If you're not in a rush, wait near the entrance shops for the crowd to thin.
@@ -1027,3 +1122,4 @@ If someone leaves before the rest of the group, they text the group thread so no
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
+

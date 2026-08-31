@@ -109,6 +109,11 @@ The core advantage: Animal Kingdom is surprisingly great for big groups. The saf
 
 The core challenge: Animal Kingdom has the fewest rides of any park and often the shortest hours. With a big group, the limited ride count means less to split up over, but also means the day can feel shorter. Flight of Passage lines are brutal for large parties, and the park's early closings can cut your evening short.
 
++ [Continue to Before the Trip →] -> ak_big_group_before
++ [Pick a different group type] -> ak_pick_group
+
+== ak_big_group_before ==
+
 Before the Trip
 
 Big groups need to align before they arrive. Have this conversation ahead of time.
@@ -124,6 +129,11 @@ Who's the point person? One person handles Lightning Lane booking at 7 a.m., che
 Set up a group text thread with everyone in it. Turn on location sharing for the day. Point person makes dining calls. Don't send 30 messages about where to eat. If you're leaving the group, text the group. If you spot a short wait, text the group. If a storm is coming, text the group.
 
 Meeting landmarks to know: Tree of Life (central hub, visible from almost everywhere), the bridge between Discovery Island and Africa, and the Pandora entrance.
+
++ [Continue to Getting There & Lightning Lane →] -> ak_big_group_getting_there
++ [Pick a different group type] -> ak_pick_group
+
+== ak_big_group_getting_there ==
 
 Getting There
 
@@ -167,11 +177,21 @@ SciFi fans might want to head to Flight of Passage and get in the standby line i
 
 Regroup point: Tree of Life on Discovery Island. Set a time.
 
++ [Continue to The Safari →] -> ak_big_group_safari
++ [Pick a different group type] -> ak_pick_group
+
+== ak_big_group_safari ==
+
 The Safari
 
 Kilimanjaro Safaris deserves its own callout for big groups because it's unique at Disney World. The safari vehicles are large open air trucks. Your whole group of 8, 10, or even 15+ can ride on the same vehicle. No height requirements, everyone from toddlers to grandparents rides. Every ride is different depending on where the animals are. Your group shares a unique experience. A driver narrates the whole thing, nobody's left out.
 
 Sit toward the outside edges for the best animal views. Both sides of the vehicle see different things, compare notes afterward. Morning is best for animal activity, make this your first stop. If your morning ride was quiet, a post storm afternoon ride can be completely different.
+
++ [Continue to Morning Strategy →] -> ak_big_group_together
++ [Pick a different group type] -> ak_pick_group
+
+== ak_big_group_together ==
 
 Morning (Park Open to 11:00 a.m.)
 
@@ -201,6 +221,11 @@ Animal Kingdom doesn't have a food and drink loop like EPCOT. The park is more c
 The 3:00 to 5:00 p.m. Storm Window
 
 Don't try to keep 8+ people together. Let sub groups duck into the nearest indoor space. Group text: "Storm, take cover wherever you are, regroup at Tree of Life when it passes." The safari and outdoor trails close during lightning. After the storm: temperature drops, animals come back out. A post storm safari can be excellent.
+
++ [Continue to Evening & Dining →] -> ak_big_group_evening
++ [Pick a different group type] -> ak_pick_group
+
+== ak_big_group_evening ==
 
 Evening
 
@@ -274,6 +299,11 @@ The vast majority of Animal Kingdom has no height requirements. The split only m
 
 If your kid is anywhere near 44", measure them at home in the shoes they'll wear at the park. Being turned away at Flight of Passage after waiting is devastating for kids (and for the parent who just waited with them).
 
++ [Continue to Rider Swap & Getting There →] -> ak_mixed_ages_rider_swap
++ [Pick a different group type] -> ak_pick_group
+
+== ak_mixed_ages_rider_swap ==
+
 Rider Swap
 
 If some family members can't ride Flight of Passage or Everest, Rider Swap keeps everyone together.
@@ -321,6 +351,11 @@ If you're staying off property (no Early Entry): Your disadvantage is that resor
 
 If everyone wants animals first, go to Kilimanjaro Safaris. Morning animals are the best animals, then Gorilla Falls Trail right after. If someone needs Flight of Passage, get in line. Non riders explore Pandora. For most mixed age families, the safari first is the right call. It's the one experience everyone can do together, and the morning is when it's best.
 
++ [Continue to Morning Strategy →] -> ak_mixed_ages_together
++ [Pick a different group type] -> ak_pick_group
+
+== ak_mixed_ages_together ==
+
 Morning (Park Open to 11:00 a.m.)
 
 Animal Kingdom's morning is magic for mixed age families. The safari, the trails, and the shows all work for every age. This is the window where your whole family has the most fun together.
@@ -328,6 +363,11 @@ Animal Kingdom's morning is magic for mixed age families. The safari, the trails
 What everyone can do together: Kilimanjaro Safaris, the great equalizer, every age loves real animals, morning is best. Gorilla Falls Exploration Trail, right after the safari, let younger kids watch the gorillas, teens appreciate the animals too. Na'vi River Journey, gentle boat ride, beautiful for all ages, no scares. Maharajah Jungle Trek, tigers, bats, aviary, teens think tigers are cool, little kids agree, some small kids scared of the bats. Discovery Island Trails, kangaroos, tortoises along the walkways, quick and easy for everyone. Feathered Friends in Flight!, bird show, free flying birds over the audience, all ages enjoy it. Winged Encounters, macaw flyover on Discovery Island, check app for times.
 
 What requires splitting up: Flight of Passage (44"), Rider Swap if little ones can't ride, if everyone can, ride together, it's the best ride in the park. Expedition Everest (44"), same approach, Rider Swap or ride together. Kali River Rapids (38"), lower bar, some younger kids can ride, everyone will get soaked.
+
++ [Continue to The Shows →] -> ak_mixed_ages_shows
++ [Pick a different group type] -> ak_pick_group
+
+== ak_mixed_ages_shows ==
 
 The Shows
 
@@ -366,6 +406,11 @@ The 3:00 to 5:00 p.m. Storm Window
 
 Most summer days, a thunderstorm rolls through in the afternoon. Get everyone inside before it hits, a show theater, a restaurant, or Discovery Island shops. The safari and outdoor trails close during lightning. Young kids may be scared of thunder, have snacks and comfort ready. Teens and adults can use storm time for the Zootopia show (indoor) or a drink at Nomad Lounge. After the storm: temperature drops, animals come back out, crowds thin.
 
++ [Continue to Evening & Dining →] -> ak_mixed_ages_evening
++ [Pick a different group type] -> ak_pick_group
+
+== ak_mixed_ages_evening ==
+
 Evening
 
 Check the park hours. Animal Kingdom's evening depends on your date.
@@ -379,6 +424,11 @@ Dining for Mixed Ages
 Quick service: Satu'li Canteen in Pandora, customizable bowls, something for every palate, indoor seating, best all around pick. Flame Tree Barbecue on Discovery Island, BBQ, covered waterfront seating, every age eats BBQ. Harambe Market in Africa, multiple food windows, outdoor covered seating, good for picky young eaters, standard options available.
 
 Table service (reservation recommended): Tusker House in Africa, character dining buffet, Mickey, Minnie, Donald, Goofy in safari outfits, young kids love the characters, food is surprisingly good for a buffet. Yak & Yeti in Asia, pan Asian, full bar for the adults, kid friendly options, fun atmosphere. Tiffins on Discovery Island, best food at Animal Kingdom, more of an adult restaurant but could work for older kids with adventurous palates.
+
++ [Continue to When the Plan Breaks →] -> ak_mixed_ages_wrapup
++ [Pick a different group type] -> ak_pick_group
+
+== ak_mixed_ages_wrapup ==
 
 When the Plan Breaks
 
@@ -412,6 +462,11 @@ Animal Kingdom is surprisingly one of the best parks for young kids, and most fa
 
 Flight of Passage (44") and Expedition Everest (44") are the two headliners most young kids can't ride. That's a real loss, Kali River Rapids, 38", some older preschoolers and kindergartners will make it, you WILL get soaked. But everything else at Animal Kingdom works for small children, and the non ride experiences are where this park truly shines for families.
 
++ [Continue to What Can My Kid Ride? →] -> ak_young_kids_can_ride
++ [Pick a different group type] -> ak_pick_group
+
+== ak_young_kids_can_ride ==
+
 What Can My Kid Actually Ride?
 
 No height requirement (everyone rides): Kilimanjaro Safaris, open air vehicle through a savanna with real animals, the highlight of Animal Kingdom for kids, giraffes, elephants, lions, rhinos, every ride is different, kids are mesmerized. Na'vi River Journey, gentle boat ride through Pandora, glowing plants, bioluminescent forest, beautiful animatronic at the end, calm, no drops, no scares. Gorilla Falls Exploration Trail, walking trail with gorillas, hippos, meerkats, right after the safari, kids love the animals, take your time. Maharajah Jungle Trek, walking trail with tigers, bats, Komodo dragons, tigers behind glass are a highlight, the aviary is gentle and beautiful, some kids are scared of the fruit bats, they're big. Discovery Island Trails, animals along the walkways, kangaroos, Galapagos tortoises, easy to walk past without noticing, point them out to your kids. Festival of the Lion King, stage show, incredible production, singers, dancers, acrobats, fire, indoor, air conditioned, kids love it. Finding Nemo show, stage show, puppetry and live performers retelling the Nemo story, indoor, air conditioned, perfect for young kids. Zootopia: Better Zoogether!, 4D show inside the Tree of Life, Judy Hopps and Nick Wilde, indoor, air conditioned. Feathered Friends in Flight!, bird show, free flying birds over the audience, the dollar bill stealing bit gets every kid, covered outdoor theater. Winged Encounters, macaw flyover, short, on Discovery Island, check times, kids love the colorful birds.
@@ -421,6 +476,11 @@ Rider Swap
 If one parent wants to ride Flight of Passage or Expedition Everest while the other stays with the kids, use Rider Swap. Your whole family goes to the ride entrance. Tell the Cast Member you need Rider Swap. Parent A rides while Parent B waits with the kids nearby. When Parent A finishes, Parent B rides using the Lightning Lane entrance, no second wait.
 
 This is especially useful for Flight of Passage. Both parents get to ride one of the best experiences at Disney World without leaving anyone stranded.
+
++ [Continue to Getting There & Lightning Lane →] -> ak_young_kids_getting_there
++ [Pick a different group type] -> ak_pick_group
+
+== ak_young_kids_getting_there ==
 
 Getting There
 
@@ -461,6 +521,11 @@ This is the best time at Animal Kingdom. The animals are active, the temperature
 Kilimanjaro Safaris, first priority, always, morning animals are the best animals. Gorilla Falls Exploration Trail, right after the safari, gorillas, hippos, meerkats, take your time, let kids watch. Na'vi River Journey, gentle boat ride, beautiful for kids, no scares. Discovery Island Trails, kangaroos, tortoises along the walkways, point them out, kids miss them otherwise. Maharajah Jungle Trek, tigers, fruit bats, aviary, some kids find the bats scary (they're large), the tigers are a highlight. Winged Encounters, check the app for times, the macaw flyover is quick and kids love the colorful birds.
 
 Let kids set the pace on trails. The trails are self paced. There's no line, no schedule, and no rush. If your kid wants to watch the gorillas for a long time, let them. If they want to run ahead to the next animal, let them (within reason). This is one of the few places at Disney World where there's no pressure to move to the next thing.
+
++ [Continue to The Shows →] -> ak_young_kids_shows
++ [Pick a different group type] -> ak_pick_group
+
+== ak_young_kids_shows ==
 
 The Shows
 
@@ -597,6 +662,11 @@ Best morning experience: Kilimanjaro Safaris. Animals are most active in the mor
 Thrill ride: Expedition Everest. Shorter morning waits than Flight of Passage.
 
 The honest call: If you can only pick one thing to do first, do the safari. You can Lightning Lane Flight of Passage or ride it in the evening. You can't make the animals active again at 2 p.m.
+
++ [Continue to Staying at a Disney Resort →] -> ak_no_kids_on_property
++ [Pick a different group type] -> ak_pick_group
+
+== ak_no_kids_on_property ==
 
 SECTION B: If You're Staying at a Disney Resort Hotel
 

@@ -129,6 +129,11 @@ For GPS, search Magic Kingdom Parking or Transportation and Ticket Center Walt D
 
 Check current parking pricing on the Disney website or app. Rates change periodically. Preferred Parking costs more but puts you closer to the TTC. Annual Passholders get free standard parking. Disney Resort guests also park free.
 
++ [Continue to Parking, Tram & Ferry →] -> mk_no_kids_ttc
++ [Pick a different group type] -> mk_pick_group
+
+== mk_no_kids_ttc ==
+
 The TTC Parking Lot
 
 The lot is divided into Heroes (Blue) and Villains (Red). Each has six named lots. Heroes side has Aladdin, Mulan, Peter Pan, Rapunzel, Simba, and Woody. Villains side has Jafar, Cruella, Hook, Scar, Ursula, and Zurg.
@@ -146,6 +151,11 @@ Monorail vs Ferry from TTC to Magic Kingdom
 The monorail is best for speed and rain protection. The ferry is best when the monorail line is wrapped around the station. Pick based on line length when you arrive. Don't overthink it.
 
 When leaving after fireworks, take the ferry. The monorail line after fireworks is typically much longer.
+
++ [Continue to Planning Your Arrival →] -> mk_no_kids_arrival
++ [Pick a different group type] -> mk_pick_group
+
+== mk_no_kids_arrival ==
 
 Planning Your Arrival
 
@@ -193,6 +203,11 @@ Swan, Swan Reserve, and Dolphin are Marriott properties on Disney land. Their bu
 
 Give yourself buffer time on your first morning until you know your own pace. Walking distance and monorail resorts need less lead time. Bus resorts farther from Magic Kingdom need more.
 
++ [Continue to When to Uber →] -> mk_no_kids_uber
++ [Pick a different group type] -> mk_pick_group
+
+== mk_no_kids_uber ==
+
 When to Uber Even from a Disney Resort
 
 Sometimes the free bus isn't worth the wait. If you've been waiting a long time and no bus has shown up, Uber to the Contemporary and walk to Magic Kingdom. This saves your Early Entry window. If you're at one of the farther resorts like the All-Stars or Animal Kingdom Lodge and running late, Uber eliminates the bus wait even if the ride itself is still long. If the bus line after fireworks is very long, walk to the Contemporary from Magic Kingdom and Uber from there. If you're park hopping and need to get somewhere fast, Uber between parks is often faster than Disney bus connections.
@@ -208,6 +223,11 @@ Critical: TRON Lightcycle Run and Tiana's Bayou Adventure do not open during Ear
 The optimal Early Entry route: First ride Seven Dwarfs Mine Train. It has the longest waits in the park. A 10 minute Early Entry wait becomes 70 or more minutes by midday. Second ride Space Mountain. Get it while waits are short. Third ride Peter Pan's Flight. Low capacity means long waits all day. Knock it out now if you care.
 
 If you finish before general public entry, add Haunted Mansion or another priority.
+
++ [Continue to Single Rider Lines →] -> mk_no_kids_single_rider
++ [Pick a different group type] -> mk_pick_group
+
+== mk_no_kids_single_rider ==
 
 Single Rider Lines
 
@@ -249,6 +269,11 @@ TRON is Magic Kingdom's newest and most hyped ride. It doesn't open during Early
 Rope drop it by being at the TRON entrance when the park opens. Expect a significant wait. Worth it if it's your priority. Lightning Lane Single Pass lets you skip the wait entirely. Check the app for current pricing and book at 7 a.m. Evening in the last 2 hours often sees waits drop, and the ride at night is spectacular.
 
 TRON at night is better than TRON during the day. The lighting effects are the whole point.
+
++ [Continue to Afternoon Strategy →] -> mk_no_kids_afternoon
++ [Pick a different group type] -> mk_pick_group
+
+== mk_no_kids_afternoon ==
 
 Afternoon Strategy 11:00 a.m. to 5:00 p.m.
 
@@ -386,7 +411,7 @@ Where to Drink
 
 Aloha Isle has Dole Whip with rum. Skipper Canteen has a full bar with craft cocktails. Be Our Guest at dinner has beer and wine. Golden Oak Outpost occasionally has beer.
 
-+ [Continue to Troubleshooting & Day Summary →] -> mk_no_kids_day_glance
++ [Continue to When the Plan Breaks →] -> mk_no_kids_day_glance
 + [Pick a different group type] -> mk_pick_group
 
 == mk_no_kids_day_glance ==
@@ -418,6 +443,11 @@ The Skip the Crush Move
 Leave 10 minutes before fireworks end. Catch most of the show while walking toward the exit. Beat the stampede. Ferry or bus with minimal wait.
 
 Or stay for Extended Evening Hours if you qualify and leave when the park actually closes.
+
++ [Continue to The Day at a Glance →] -> mk_no_kids_final
++ [Pick a different group type] -> mk_pick_group
+
+== mk_no_kids_final ==
 
 The Day at a Glance
 
@@ -472,6 +502,11 @@ Check park hours at disneyworld.disney.go.com/calendars and find Magic Kingdom's
 
 Your transportation is also more complex because you're driving to the Transportation and Ticket Center, parking, and taking secondary transport to the park.
 
++ [Continue to Driving & the TTC →] -> mk_young_kids_driving
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_driving ==
+
 Driving to Magic Kingdom and the TTC
 
 You will drive to the Transportation and Ticket Center, known as the TTC, park your car, and then take either the monorail or ferry to Magic Kingdom.
@@ -481,6 +516,11 @@ For GPS, search Magic Kingdom Parking or Transportation and Ticket Center Walt D
 Check current parking pricing on the Disney website or app. Rates change periodically. Preferred Parking costs more but puts you closer to the TTC. Annual Passholders get free standard parking. Disney Resort guests also park free.
 
 You pay at the toll plaza before entering the lot. All booths accept cash, credit cards, and can scan your MagicBand to verify if you qualify for free parking.
+
++ [Continue to The TTC Parking Lot →] -> mk_young_kids_parking
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_parking ==
 
 The TTC Parking Lot
 
@@ -498,6 +538,11 @@ Each lot has numbered rows. Row numbers are unique across the entire lot so ther
 
 Take a photo of the row sign when you park. You will not remember Scar 247 at 9 p.m. when you're carrying a sleeping child. The My Disney Experience app has a Car Locator feature you can use as backup.
 
++ [Continue to Tram vs Walking →] -> mk_young_kids_tram
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_tram ==
+
 Tram vs Walking to the TTC
 
 Once parked, you need to reach the TTC building where monorails and ferries depart.
@@ -506,6 +551,11 @@ If you parked in Aladdin, Jafar, or Zurg, walk. There's no tram service to these
 
 When returning to your car, the TTC tram loading splits into two areas. Heroes trams board on the right with Blue signs. Villains trams board on the left with Red signs. Exit when the tram announces your lot name, then walk to your row number.
 
++ [Continue to Monorail vs Ferry →] -> mk_young_kids_monorail
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_monorail ==
+
 Monorail vs Ferry from TTC to Magic Kingdom
 
 At the TTC, you choose between the monorail which holds about 300 guests or the ferry boat which holds about 600 guests. Both are free. Both drop you at the same place at Magic Kingdom's front entrance.
@@ -513,6 +563,11 @@ At the TTC, you choose between the monorail which holds about 300 guests or the 
 Travel time is nearly identical. Choose based on line length at the moment you arrive. If the monorail line is short, take the monorail. If the monorail line is wrapped around the station, take the ferry. If the ferry is currently loading or about to depart, board the ferry immediately. If you have a stroller, the ferry is often the better choice with easier boarding, more space, and kids love the boat ride. If it's raining, the monorail is covered the entire way. When leaving after fireworks, take the ferry. The monorail line after fireworks is typically much longer.
 
 The ferry is often the better choice for young families regardless of lines. Kids love the boat ride, there's room to move around, and loading a stroller is easier than cramming into a monorail car.
+
++ [Continue to Planning Your Arrival →] -> mk_young_kids_arrival
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_arrival ==
 
 Planning Your Arrival
 
@@ -531,6 +586,11 @@ You can skip the TTC entirely by taking a rideshare. Uber and Lyft cannot drop y
 This makes sense if you're running late and the kids are already cranky because it eliminates parking, tram, and the monorail or ferry. It's great when leaving after fireworks with sleeping kids by walking to the Contemporary and taking an Uber from there. It works well if you don't have a rental car since it simplifies everything. If you have 6 or more people and need an Uber XL, do the math because parking may be cheaper.
 
 Check current rideshare pricing as it varies by distance and surge.
+
++ [Continue to Where to Go First →] -> mk_young_kids_first
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_first ==
 
 Where to Go First (Off Property, No Early Entry)
 
@@ -560,6 +620,11 @@ Resort Transportation to Magic Kingdom
 
 How you get to Magic Kingdom depends on your resort. There is no Skyliner service to Magic Kingdom. The Skyliner only connects to EPCOT and Hollywood Studios. If you're at a Skyliner resort, you're taking the bus to Magic Kingdom.
 
++ [Continue to Resorts You Can Walk From →] -> mk_young_kids_walk
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_walk ==
+
 Resorts You Can Walk From
 
 Contemporary Resort and Bay Lake Tower have a paved flat path along the water that's stroller friendly. This is the most convenient location for Magic Kingdom. Walking is always faster than the monorail from here because the monorail travels away from Magic Kingdom first. Always walk. The path is easy, scenic, and faster than waiting for the monorail.
@@ -568,11 +633,21 @@ Grand Floridian Resort and Spa can walk to Magic Kingdom, take the monorail whic
 
 Polynesian Village Resort can walk to Magic Kingdom, take the monorail which is one stop, or take a boat. The monorail is the best option most mornings. Save the boat for a relaxed evening return.
 
++ [Continue to Resorts with Boat Service →] -> mk_young_kids_boat
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_boat ==
+
 Resorts with Boat Service
 
 Wilderness Lodge takes the boat as the best option. It runs periodically, drops you right at Magic Kingdom, and kids love it. Bus service also exists as backup. Boat resorts require more lead time than walking distance resorts so check the boat schedule and give yourself buffer.
 
 Fort Wilderness Resort and Campground is huge. Your best option depends on your location within the resort. If you're near the marina or Settlement area, take the boat. If you're in the campground Loops, take the internal bus to the Settlement, then either the boat or bus to Magic Kingdom. Don't underestimate internal transit time within Fort Wilderness. Give yourself plenty of buffer on your first morning due to the resort's size.
+
++ [Continue to Bus Resorts →] -> mk_young_kids_bus
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_bus ==
 
 Bus Resorts
 
@@ -587,6 +662,11 @@ Buses typically run every 20 minutes and as often as every 10 minutes during pea
 If the bus doesn't show after a long wait, Uber to the Contemporary and walk to Magic Kingdom.
 
 Strollers on a crowded bus: The best spot is just in front of the middle sliding doors where one adult stays with the stroller while the other sits with the kids. Sometimes you can't get that spot and just have to make do. Fold the stroller if possible, but on a packed morning bus you may be standing with it awkwardly wedged wherever it fits.
+
++ [Continue to Where to Go First →] -> mk_young_kids_first_on
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_first_on ==
 
 Where to Go First (On Property, Early Entry)
 
@@ -620,6 +700,11 @@ In Liberty Square: Haunted Mansion has moderate waits and may be too scary for s
 In Tomorrowland: Buzz Lightyear's Space Ranger Spin is currently closed for a major refurbishment. Check Disney's site for reopening status. Monsters Inc. Laugh Floor has low waits and is an interactive comedy show that's air conditioned. Tomorrowland Transit Authority PeopleMover has low waits and is a 10 minute ride with a breeze that's great for tired legs. Carousel of Progress has low waits and gives 20 minutes of sitting in air conditioning.
 
 Tomorrowland Speedway has an outdoor queue with no shade and requires 32 inches to ride and 54 inches to drive alone. The queue can be rough in the heat, but kids love driving. If your little one is excited about it, go for it. Try to hit it earlier in the day or in the evening when it's cooler.
+
++ [Continue to Character Meets & Baby Care →] -> mk_young_kids_characters
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_characters ==
 
 What to Skip in the Morning
 
@@ -734,6 +819,11 @@ Walt Disney World Railroad is running in modified shuttle mode between Main Stre
 
 Buzz Lightyear's Space Ranger Spin is closed for a major refurbishment. Check Disney's site for reopening status.
 
++ [Continue to When Things Go Wrong →] -> mk_young_kids_troubleshooting
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_troubleshooting ==
+
 When Things Go Wrong
 
 My toddler is melting down before we've done anything. Stop trying to do things. Find shade, offer a snack, remove stimulation. The Baby Care Center between Casey's Corner and Crystal Palace has quiet space, nursing rooms, and supplies. Sometimes the best move is a 30 minute reset doing nothing.
@@ -745,6 +835,11 @@ The storm won't stop. Rare but possible. Indoor attractions get crowded. If seve
 My kid is scared of a ride we waited 30 minutes for. Don't force it. Exit through the chicken exit that most rides have. Cast Members understand. Forcing a scared child onto a ride creates trauma, not memories.
 
 We're exhausted and it's only 2 p.m. Leave. Go back to the hotel. This is not failure, it's wisdom. A bad afternoon doesn't ruin a good evening. Return after 5 p.m. for a completely different, much better experience.
+
++ [Continue to End of Night Transportation →] -> mk_young_kids_end_of_night
++ [Pick a different group type] -> mk_pick_group
+
+== mk_young_kids_end_of_night ==
 
 End of Night Transportation
 
@@ -828,6 +923,11 @@ If You're Staying Off Property
 
 Your disadvantage: No Early Entry. You enter with the general public. Your transportation is also more complex because you're driving to the Transportation and Ticket Center, parking, and taking secondary transport to the park.
 
++ [Continue to Driving & the TTC →] -> mk_mixed_ages_driving
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_driving ==
+
 Driving to Magic Kingdom and the TTC
 
 You will drive to the Transportation and Ticket Center, known as the TTC, park your car, and then take either the monorail or ferry to Magic Kingdom.
@@ -837,6 +937,11 @@ For GPS, search Magic Kingdom Parking or Transportation and Ticket Center Walt D
 Check current parking pricing on the Disney website or app. Rates change periodically. Preferred Parking costs more but puts you closer to the TTC. Annual Passholders get free standard parking. Disney Resort guests also park free.
 
 You pay at the toll plaza before entering the lot. All booths accept cash, credit cards, and can scan your MagicBand to verify if you qualify for free parking.
+
++ [Continue to The TTC Parking Lot →] -> mk_mixed_ages_parking
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_parking ==
 
 The TTC Parking Lot
 
@@ -854,6 +959,11 @@ Each lot has numbered rows. Row numbers are unique across the entire lot so ther
 
 Take a photo of the row sign when you park. You will not remember Scar 247 at 11 p.m. The My Disney Experience app has a Car Locator feature you can use as backup.
 
++ [Continue to Tram vs Walking →] -> mk_mixed_ages_tram
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_tram ==
+
 Tram vs Walking to the TTC
 
 Once parked, you need to reach the TTC building where monorails and ferries depart.
@@ -861,6 +971,11 @@ Once parked, you need to reach the TTC building where monorails and ferries depa
 If you parked in Aladdin, Jafar, or Zurg, walk. There's no tram service to these lots. If you parked in the first 10 to 15 rows of any standard lot, walk. It's faster than waiting for the tram, which makes multiple stops. If you're in rows 15 to 30 in the middle of the lot, assess the tram line. Short line means take the tram. If there are 50 or more people waiting, walk. If you're in rows 30 and beyond at the back of the lot, take the tram. It's a long walk in the Florida heat so save your energy. If you're arriving at rope drop and the tram line is 50 or more people, walk. At peak morning you'll watch two trams load while still waiting and walking beats that. When leaving at park close, take the tram if it's running because your feet are destroyed. But trams sometimes stop before the lot clears so be prepared to walk. If you have a stroller or wheelchair, take the tram. Accessible vehicles are available and it saves significant effort.
 
 When returning to your car, the TTC tram loading splits into two areas. Heroes trams board on the right with Blue signs. Villains trams board on the left with Red signs. Exit when the tram announces your lot name, then walk to your row number.
+
++ [Continue to Monorail vs Ferry →] -> mk_mixed_ages_monorail
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_monorail ==
 
 Monorail vs Ferry from TTC to Magic Kingdom
 
@@ -871,6 +986,11 @@ Travel time is nearly identical. Choose based on line length at the moment you a
 At rope drop, both lines have backups. As you approach the TTC, visually assess both lines. If the monorail line is snaking outside the station, go directly to the ferry. If both look equal, take the monorail for marginally faster transit time. Pick one and commit. Switching lines costs more time than either option.
 
 After fireworks, the monorail becomes a disaster. Thousands funneling into one station. The line can exceed 30 minutes just to board. The ferry line is almost always shorter at night. Yes the ride is slower but you get back to TTC faster because you skip the massive queue. Power move: leave 10 minutes before fireworks end. You catch most of the show while walking to the exit and beat the crush entirely.
+
++ [Continue to Planning Your Arrival →] -> mk_mixed_ages_arrival
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_arrival ==
 
 Planning Your Arrival from Off Property
 
@@ -889,6 +1009,11 @@ You can skip the TTC entirely by taking a rideshare. Uber and Lyft cannot drop y
 This makes sense if you're a party of 2 to 4 and the cost is acceptable because it's faster than the full TTC route. It also works if you're running late and need to recover time since it eliminates parking, tram, and monorail or ferry. It's great when leaving after fireworks if you want to skip the ferry and monorail crush by walking to the Contemporary and taking an Uber from there. It works well if you don't have a rental car since it simplifies everything. If you have 6 or more people and need an Uber XL, do the math because parking may be cheaper. If you already have a rental car you need for other days, it's probably not worth it since you've already paid for the car.
 
 Check current rideshare pricing as it varies by distance and surge. The main benefit is simpler logistics with no parking, no tram, and no monorail or ferry decision.
+
++ [Continue to Where to Go First →] -> mk_mixed_ages_first
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_first ==
 
 Where to Go First (Off Property, No Early Entry)
 
@@ -914,6 +1039,11 @@ Resort Transportation to Magic Kingdom
 
 How you get to Magic Kingdom depends on your resort. Unlike the other parks, there is no Skyliner service to Magic Kingdom. The Skyliner only connects to EPCOT and Hollywood Studios. So if you're at a Skyliner resort, you're taking the bus to Magic Kingdom.
 
++ [Continue to Resorts You Can Walk From →] -> mk_mixed_ages_walk
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_walk ==
+
 Resorts You Can Walk From
 
 Contemporary Resort and Bay Lake Tower have a paved flat path along the water. This is the most convenient location for Magic Kingdom. Walking is always faster than the monorail from here because the monorail travels away from Magic Kingdom first through Polynesian, Grand Floridian, and TTC before looping back. Always walk, even with small children, even with a stroller.
@@ -922,11 +1052,21 @@ Grand Floridian Resort and Spa has a walking path to Magic Kingdom. You can also
 
 Polynesian Village Resort has a walking path to Magic Kingdom. You can also take the monorail, which is one stop, or a boat. The monorail station is near the Great Ceremonial House. End of night option: if the Magic Kingdom monorail line is very long after fireworks, you can walk to the Contemporary and take the resort monorail loop back or just walk from there.
 
++ [Continue to Resorts with Boat Service →] -> mk_mixed_ages_boat
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_boat ==
+
 Resorts with Boat Service
 
 Wilderness Lodge, Boulder Ridge Villas, and Copper Creek Villas take the boat as the best option. It runs periodically, drops you right at Magic Kingdom, and is pleasant and consistent. Bus service also exists as backup. Arrive at the boat dock early. If the line is long and a bus is sitting at the stop ready to depart, take the bus. Otherwise take the boat. Boat resorts require more lead time than walking distance resorts so check the boat schedule and give yourself buffer for the ride plus security.
 
 Fort Wilderness Resort and Campground is huge at over 700 acres. Your best option depends on where you're staying within the resort. If you're in the cabins or near the Settlement and Marina area, walk to the boat dock and take the boat. If you're in campsites in the Loops, take the internal bus to the Settlement, then either the boat or bus to Magic Kingdom. Don't underestimate internal transit time within Fort Wilderness. Give yourself plenty of buffer on your first morning until you learn the rhythm.
+
++ [Continue to Bus Resorts →] -> mk_mixed_ages_bus
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_bus ==
 
 Bus Resorts
 
@@ -940,11 +1080,21 @@ Bus resorts require more lead time than monorail or walking distance resorts. Fa
 
 Strollers on a crowded bus: The best spot is just in front of the middle sliding doors where one adult stays with the stroller while the other sits with the kids. Sometimes you can't get that spot and just have to make do. Fold the stroller if possible, but on a packed morning bus you may be standing with it awkwardly wedged wherever it fits.
 
++ [Continue to When to Uber →] -> mk_mixed_ages_uber
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_uber ==
+
 When to Uber Even from a Disney Resort
 
 Sometimes free bus transportation isn't worth the wait. If you've waited a long time and no bus has arrived, Uber to the Contemporary and walk to Magic Kingdom. This saves your Early Entry window. If you're at an All-Star resort and running late, Uber eliminates the bus wait even if the ride itself is still long. If the bus line after fireworks is very long, walk to the Contemporary from Magic Kingdom and Uber from there. If you have a sleeping child and can't face a crowded bus, it's worth it for sanity. Check current rideshare pricing. If you're park hopping and need to get somewhere fast, Uber between parks is often faster than Disney bus connections.
 
 You cannot Uber directly to or from Magic Kingdom. Your best option is to walk to the Contemporary, which is a short walk from the Magic Kingdom entrance, and Uber from there. The other option is to take the monorail or ferry to the TTC and Uber from the TTC rideshare area, but that's slower.
+
++ [Continue to Where to Go First →] -> mk_mixed_ages_first_on
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_first_on ==
 
 Where to Go First (On Property, Early Entry)
 
@@ -1022,6 +1172,11 @@ Why this works: You skip the worst heat from 1 to 3 p.m. You skip the afternoon 
 
 Why families resist it: They feel like they paid for a full day. You did. A broken crying child at 2 p.m. means you paid for a miserable day. The midday break often lets you stay later when the park is at its best.
 
++ [Continue to Option B: Ride It Out →] -> mk_mixed_ages_option_b
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_option_b ==
+
 Option B Ride It Out Inside the Park
 
 Best for off property families where the commute kills too much time, or older kids who can push through.
@@ -1037,6 +1192,13 @@ Indoor attractions for mixed ages: Carousel of Progress is 20 minutes of AC. Old
 DVC Member Lounge: Disney Vacation Club members can access McKim's Mile House in Frontierland near the Country Bear Jamboree. It offers air conditioned seating, phone charging stations, complimentary soft drinks, coffee, snacks, and a quiet escape from the chaos. Check in at the door with your DVC membership. It's not huge but on a brutal summer afternoon it's a lifesaver if you qualify.
 
 Character meets if your young one needs them: Town Square Theater for Mickey has an indoor queue. Princess Fairytale Hall is fully indoors. Check wait times and schedule return time if available.
+
++ [Continue to The Storm Window →] -> mk_mixed_ages_storm
++ [Pick a different group type] -> mk_pick_group
+
+== mk_mixed_ages_storm ==
+
+The Storm Window
 
 From 3:00 to 5:00 p.m. is storm watch. Most summer days the sky turns gray between 3 and 5 p.m. A storm dumps rain for 20 to 45 minutes then clears.
 
@@ -1186,6 +1348,11 @@ The point person has the My Disney Experience app set up with everyone's tickets
 
 The point person is also the one who handles Lightning Lane bookings in the morning. More on that below.
 
++ [Continue to Before the Trip →] -> mk_big_group_planning
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_planning ==
+
 Have the Conversation Before the Trip
 
 Get alignment on these questions before you are standing in 95 degree heat.
@@ -1230,6 +1397,11 @@ Budget Conversation
 
 Lightning Lane across 10 or more people adds up fast. Get this conversation out of the way before the trip. Everyone pays their own way unless the group agrees otherwise. TRON Single Pass is an extra charge per person, so do not buy it for someone who is on the fence about riding. Split checks at restaurants and decide that before you sit down, not after the bill arrives.
 
++ [Continue to Transportation →] -> mk_big_group_buses
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_buses ==
+
 Transportation
 
 When a big group boards a Disney bus, you may hear that your party might get split up.
@@ -1240,6 +1412,13 @@ You can handle this a few ways. Accept the split by designating who goes on the 
 
 Strollers on a crowded bus for the families in your group: the best spot is just in front of the middle sliding doors. One adult stays with the stroller while the other sits with the kids. Sometimes you cannot get that spot and just have to make do.
 
++ [Continue to Driving, Boats & Rideshare →] -> mk_big_group_driving
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_driving ==
+
+Driving, Boats and Rideshare
+
 If you are driving, you will park at the Transportation and Ticket Center. From there you take either the monorail or the ferryboat across Seven Seas Lagoon to reach Magic Kingdom's entrance. You cannot drive or walk directly to the park. The monorail is faster but loads in batches and can have a long queue on busy mornings. The ferry is slower on the water but often has a shorter wait to board. For a big group, the ferry is sometimes easier because you can all walk on together without getting split across monorail cars.
 
 Guests staying at the Polynesian Village Resort can take the resort boat launch directly to Magic Kingdom, which skips the TTC entirely. The Contemporary and Grand Floridian also have walking paths or monorail access to the park. If anyone in your group is staying at one of these resorts, that can be a useful alternate route, especially when bus lines are long.
@@ -1248,7 +1427,7 @@ For rideshare with a group of 7 or more, you will need multiple vehicles. Standa
 
 Rideshare makes sense when running late and you cannot afford to wait for buses, leaving after fireworks with exhausted people, or when the per person cost ends up similar to parking anyway. Rideshare drops you at the Transportation and Ticket Center, not at the park directly. You will need to take the monorail or ferry from there to Magic Kingdom's entrance.
 
-+ [Continue to Navigation & Group Dynamics →] -> mk_big_group_navigation
++ [Continue to How to Not Lose Each Other →] -> mk_big_group_navigation
 + [Pick a different group type] -> mk_pick_group
 
 == mk_big_group_navigation ==
@@ -1267,6 +1446,11 @@ Build in buffer. Say 12:15 but expect some people at 12:25. That is fine. It is 
 
 If someone does not show, agree in advance to wait 15 minutes at the meeting point, check phones since you have a group text going, and if still no contact send one person to look while others stay put. Do not have everyone scatter to search because that makes it worse.
 
++ [Continue to The Parade & Fireworks Trap →] -> mk_big_group_parade
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_parade ==
+
 The Parade and Fireworks Trap
 
 This is where big groups get separated without warning.
@@ -1276,6 +1460,11 @@ Before parades and fireworks, Cast Members rope off walkways. The park essential
 To prevent this, stay physically close during parade and fireworks times. This is not stay in the same land, it is stay within arm's reach. Walk in the back of your group, not the front, so if ropes drop you will see it happen to your group instead of walking ahead obliviously. Know the parade times and check the app before you start walking anywhere 30 minutes before showtime. Pick a side and commit. If you are planning to watch, get your whole group to the viewing area early. If you hear parade in 15 minutes, stop walking, regroup first, then decide together where you are going.
 
 If you get split, do not panic because the parade will end. Text your location. Do not try to find each other during the parade because you will make it worse. Meet at a designated point after the parade clears, which is why you set those meeting points in advance.
+
++ [Continue to Sprinters vs. Slow Pokes →] -> mk_big_group_speeds
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_speeds ==
 
 The Sprinters vs. the Slow Pokes
 
@@ -1291,7 +1480,7 @@ The solution is planned separation. At the start of the day, divide into speed c
 
 Meet for meals and key moments. Lunch together with a reservation booked for your whole group. Dinner together. Fireworks where everyone picks a spot and arrives 30 minutes early. One group photo in front of the castle. The rest of the day, let people do what they actually want.
 
-+ [Continue to Rides, Dining & Sample Day →] -> mk_big_group_rides_dining
++ [Continue to What the Group Can Do Together →] -> mk_big_group_rides_dining
 + [Pick a different group type] -> mk_pick_group
 
 == mk_big_group_rides_dining ==
@@ -1304,6 +1493,11 @@ These attractions split the group by height requirement: Seven Dwarfs Mine Train
 
 For the rides with height requirements, Rider Swap is a great tool for big groups. Here is how it works: your full group enters the standby or Lightning Lane queue together. When you reach the front, one adult stays behind with the little ones while everyone else rides. When the first group finishes, the waiting adult and up to two others can board immediately without waiting in line again. This means multiple adults can rotate through on one Rider Swap cycle while one person watches the kids. The best Rider Swap rides at Magic Kingdom are Seven Dwarfs Mine Train, Space Mountain, TRON Lightcycle Run, and Tiana's Bayou Adventure.
 
++ [Continue to Making Decisions as a Group →] -> mk_big_group_decisions
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_decisions ==
+
 Making Decisions as a Group
 
 The Everyone Gets One Veto Rule: Before the trip, each person identifies their one thing they absolutely do not want to do. No questions asked, no arguments. I will not wait more than 30 minutes for any ride. I am not doing Haunted Mansion. I need a midday break, I am going back to the hotel from 1 to 4. Everyone else respects it. This prevents the passive aggressive martyrdom of fine, I will just do whatever everyone else wants.
@@ -1311,6 +1505,11 @@ The Everyone Gets One Veto Rule: Before the trip, each person identifies their o
 The Point Person Breaks Ties Rule: When the group cannot decide, 30 seconds of discussion. If no consensus, point person decides. Everyone commits, no complaining. This sounds harsh but it is the only way groups of 10 or more actually move through the day.
 
 Pre assign decisions so you do not debate everything in the moment. Before the trip, assign who picks what. Morning first ride goes to dad the thrill seeker. Lunch restaurant goes to mom who has dietary restrictions to manage. Afternoon activity goes to grandma who wanted shows. Dinner goes to the kids since they have been patient all day. Evening ride goes to the teens. Everyone gets a turn, no one dominates, decisions happen fast.
+
++ [Continue to Dining with Big Groups →] -> mk_big_group_dining
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_dining ==
 
 Dining with Big Groups
 
@@ -1330,7 +1529,7 @@ Current Closures as of Early 2026
 
 Big Thunder Mountain Railroad is closed for refurbishment with a reopening expected in Spring 2026. Tom Sawyer Island is permanently closed and is being reimagined as Piston Peak National Park. Rivers of America and the Liberty Square Riverboat are permanently closed. Walt Disney World Railroad is running in shuttle mode between Main Street and Fantasyland only. Buzz Lightyear's Space Ranger Spin is closed for a major refurbishment.
 
-+ [Continue to Troubleshooting & Sample Day →] -> mk_big_group_final
++ [Continue to When Things Go Wrong →] -> mk_big_group_final
 + [Pick a different group type] -> mk_pick_group
 
 == mk_big_group_final ==
@@ -1344,6 +1543,11 @@ Someone is having a meltdown, adult edition: Heat, exhaustion, and group dynamic
 Someone is sick: The Baby Care Center has supplies and a quiet space. First Aid next to Crystal Palace handles more serious needs. An adult takes the sick person back to the hotel and the rest of the group continues. Do not make 10 people end their day because one person does not feel well.
 
 The plan falls apart: It will. A ride closes, someone is late, the weather turns. The point person makes a call. Change of plans, we are doing indoor stuff now. Skip the meet up and regroup at dinner instead. Thrill seekers keep going, everyone else take a break. Flexibility is required. Rigid plans plus big groups equals conflict.
+
++ [Continue to Sample Day: Group of 12 →] -> mk_big_group_sample_day
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_sample_day ==
 
 Sample Day: Group of 12, Three Families
 
@@ -1360,6 +1564,11 @@ Afternoon: Families A and B take a hotel break. Grandparents stay in the park si
 7:30 p.m. secure a fireworks spot together on Main Street near the flagpole. Everyone arrives 30 or more minutes early, no excuses.
 
 After fireworks the thrill seekers do one more ride during the exit rush. Everyone else heads to buses and meets back at the hotel.
+
++ [Continue to Supplies & The Real Secret →] -> mk_big_group_secret
++ [Pick a different group type] -> mk_pick_group
+
+== mk_big_group_secret ==
 
 Supplies for Big Groups
 
@@ -1381,3 +1590,4 @@ Give people permission to have their own experience. Come together when it matte
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
+

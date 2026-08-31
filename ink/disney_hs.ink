@@ -126,6 +126,11 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin can 
 
 Goal: Be at the park gates before official opening. Disney often lets guests into the entry plaza and even partway down Hollywood Boulevard before official opening. Being at the gates early means you're closer to the front when they open the rope.
 
++ [Continue to Lightning Lane & Rope Drop →] -> hs_no_kids_rope_drop
++ [Pick a different group type] -> hs_pick_group
+
+== hs_no_kids_rope_drop ==
+
 Lightning Lane Priorities for Adults
 
 Book at 7 a.m. Slinky Dog Dash first, consistently long waits, outdoor queue with no shade. Millennium Falcon: Smugglers Run second, skip the line and re ride for a different role. Tower of Terror third, if you want multiple rides without the wait. Star Tours fourth, lower priority but useful if waits spike.
@@ -162,6 +167,11 @@ You'll be assigned one of three roles: Pilot, Gunner, or Engineer. Pilot (left o
 
 How to get pilot: When the Cast Member assigns groups in the briefing room, the first two people in each group get pilot seats. Position yourself at the front of your group of six. For couples, stand together at the front. You'll both pilot.
 
++ [Continue to Galaxy's Edge →] -> hs_no_kids_galaxys_edge
++ [Pick a different group type] -> hs_pick_group
+
+== hs_no_kids_galaxys_edge ==
+
 Galaxy's Edge
 
 Galaxy's Edge is worth spending time in even when you're not in a ride queue. This is especially true for adults who can appreciate the environmental details.
@@ -173,6 +183,11 @@ Savi's Workshop is the lightsaber building experience. It costs extra (check cur
 Docking Bay 7 is the quick service restaurant in Galaxy's Edge. The food is themed but actually decent, better than most quick service at Hollywood Studios.
 
 The Milk Stand sells blue and green milk. They're frozen, sweet, and non dairy. Try one for the experience. You'll either love it or wonder what you just drank.
+
++ [Continue to Afternoon Strategy →] -> hs_no_kids_afternoon
++ [Pick a different group type] -> hs_pick_group
+
+== hs_no_kids_afternoon ==
 
 Afternoon (11:00 a.m. to 5:00 p.m.)
 
@@ -213,6 +228,11 @@ Fantasmic! (if running): Check your date for showtimes. Fantasmic! is a water, f
 
 Skip the show move: Ride during Fantasmic!. Everyone's in the theater. Tower of Terror and other rides can see significant wait time drops.
 
++ [Continue to Extended Evening Hours →] -> hs_no_kids_extended
++ [Pick a different group type] -> hs_pick_group
+
+== hs_no_kids_extended ==
+
 Extended Evening Hours (Deluxe Resort Guests Only)
 
 If you're staying at a Deluxe Disney resort (BoardWalk, Yacht & Beach Club, Swan & Dolphin, etc.), you get Extended Evening Hours on select nights, extra time in the park after regular close. The park stays open 2 additional hours for deluxe resort guests only. Crowds are minimal. Walk on or near walk on waits for most rides. Check the Disney calendar for your dates. If your visit includes an EEH night at Hollywood Studios, save Rise of the Resistance for then. You'll walk onto one of the best rides at Disney World.
@@ -220,6 +240,11 @@ If you're staying at a Deluxe Disney resort (BoardWalk, Yacht & Beach Club, Swan
 Wait Time Patterns
 
 Early Entry: Shortest waits of the day. Your best window for Rise of the Resistance. First hour after general opening: Waits building fast. Slinky Dog and Rise already long. Late morning through mid afternoon: Peak waits. Headliners can have very long lines. 3 to 5 p.m. (storm window): Variable, can drop significantly if rain clears crowds. Evening (after 6 p.m.): Waits typically decrease as families leave. During Fantasmic!: Notable drops on major rides, everyone's in the theater. Final hours before close: Often the second best window after Early Entry. Extended Evening (if available): Minimal waits, deluxe resort guests only. Check the My Disney Experience app for real time wait times throughout the day.
+
++ [Continue to Dining for Adults →] -> hs_no_kids_dining
++ [Pick a different group type] -> hs_pick_group
+
+== hs_no_kids_dining ==
 
 Dining for Adults
 
@@ -230,6 +255,11 @@ Quick service worth eating: Docking Bay 7 in Galaxy's Edge, themed but genuinely
 Table service (reservation recommended): 50's Prime Time Cafe, comfort food served by "mom" who scolds you for not eating your vegetables, it's a bit, you'll either love it or hate it, full bar. Sci Fi Dine In Theater, you eat in mock convertibles watching B movie clips, atmosphere is the draw, food is fine, full bar. Hollywood Brown Derby, the nicest restaurant in the park, best food, most expensive, Cobb salad is the signature.
 
 Where to drink: Oga's Cantina, themed cocktails in Galaxy's Edge, reservation strongly recommended. BaseLine Tap House, craft beer and wine, chill indoor space, best casual drink spot in the park. 50's Prime Time Cafe, full bar with themed drinks. Sci Fi Dine In, full bar, drink in a fake convertible.
+
++ [Continue to When the Plan Breaks →] -> hs_no_kids_wrapup
++ [Pick a different group type] -> hs_pick_group
+
+== hs_no_kids_wrapup ==
 
 When the Plan Breaks
 
@@ -259,6 +289,11 @@ Who this is for: A family with young children, typically under 6 years old, most
 
 Hollywood Studios is a hard park to plan for with young kids. More than half of the headliner rides have height requirements that exclude small children. Rise of the Resistance (40"), Tower of Terror (40"), Slinky Dog Dash (38"), and Millennium Falcon (38") all have minimums your kids likely won't meet. Rock 'n' Roller Coaster on Sunset Boulevard is permanently closed and being rebuilt as a Muppets themed coaster, check Disney's site for opening updates. That can feel limiting, but there's still a solid day here if you know where to focus. Toy Story Land, Mickey & Minnie's Runaway Railway, Star Tours (for kids at 40"), character meets, and the shows can fill a satisfying day. You just need a different strategy than the thrill ride crowd.
 
++ [Continue to What Your Kids CAN Ride →] -> hs_young_kids_can_ride
++ [Pick a different group type] -> hs_pick_group
+
+== hs_young_kids_can_ride ==
+
 What Your Kids CAN Ride
 
 This is the list that matters. Forget what they can't do, here's what they can.
@@ -269,6 +304,11 @@ If your child is 38" or taller: Slinky Dog Dash, family coaster, looks mild, rid
 
 If your child is 40" or taller: Star Tours, flight simulator, great for kids who meet it but it can be intense for very small kids, some motion, some dark moments, use your judgment. Rise of the Resistance, trackless dark ride + drop, this is intense, dark environments, loud sounds, a drop sequence, some kids at 40" love it, some are scared, you know your child, if they handle Haunted Mansion at Magic Kingdom fine they'll probably be okay here. Tower of Terror, drop ride, genuinely scary for many kids, dark pre show, sudden drops, the feeling of falling, this is not a ride to push a borderline kid onto.
 
++ [Continue to Rider Swap →] -> hs_young_kids_rider_swap
++ [Pick a different group type] -> hs_pick_group
+
+== hs_young_kids_rider_swap ==
+
 Rider Swap
 
 If one parent wants to ride something the kids can't, Rider Swap lets you do it without waiting in line twice.
@@ -278,6 +318,11 @@ How it works: Your whole party goes to the ride entrance. Tell the Cast Member y
 Best Rider Swap rides at Hollywood Studios: Rise of the Resistance, skip the long standby wait on the second ride. Tower of Terror, one parent can experience it without dragging the kids through the queue. Slinky Dog Dash, if only one kid meets the height requirement.
 
 While Parent A rides, Parent B takes the kids to do something nearby. Plan what that "something" is in advance so you're not standing around.
+
++ [Continue to Getting There & Lightning Lane →] -> hs_young_kids_getting_there
++ [Pick a different group type] -> hs_pick_group
+
+== hs_young_kids_getting_there ==
 
 Getting There
 
@@ -312,6 +357,11 @@ If your child is 38" or taller, consider starting with Slinky Dog Dash during Ea
 If you're staying off property (no Early Entry): Resort guests have had 30 minutes of Early Entry. The headliner queues are already building. But most of those crowds are at Rise of the Resistance and Slinky Dog Dash. You're not going to those rides (height requirements). That actually works in your favor.
 
 Toy Story Mania first, no height requirement, indoor queue, fun for all ages, lines build fast, get it first. Alien Swirling Saucers second, right next door in Toy Story Land, gentle spinner, short wait early morning. Mickey & Minnie's Runaway Railway third, no height requirement, trackless dark ride, colorful and fun for small kids. This gets you three rides done before the park fills up.
+
++ [Continue to Character Meets & Shows →] -> hs_young_kids_characters
++ [Pick a different group type] -> hs_pick_group
+
+== hs_young_kids_characters ==
 
 Morning (Park Open to 11:00 a.m.)
 
@@ -350,6 +400,11 @@ Option B, stay in the park: If leaving and returning isn't realistic (off proper
 
 Afternoon survival rotation: 11:30 a.m., lunch at a table service restaurant with AC (Sci Fi Dine In is fun for kids, they eat in fake cars watching movie clips). 12:30 p.m., character meets (indoor ones: Olaf, Mickey & Minnie). 1:30 p.m., Disney Jr. Mickey Mouse Clubhouse Live! (check the app to confirm it's running on your dates). 2:00 p.m., Star Tours (if height allows) or Toy Story Mania re ride. 2:30 p.m., Indiana Jones Epic Stunt Spectacular. 3:00 to 4:00 p.m., storm window, duck inside, ride out the rain. 4:00 p.m., re ride favorites as afternoon crowds thin.
 
++ [Continue to Stroller Strategy & Packing →] -> hs_young_kids_strollers
++ [Pick a different group type] -> hs_pick_group
+
+== hs_young_kids_strollers ==
+
 Stroller Strategy
 
 Bring your own stroller. Rental strollers at the park are hard plastic and uncomfortable for naps. Your own stroller doubles as a mobile base for bags, snacks, water bottles, and a sleeping child.
@@ -360,6 +415,11 @@ Packing Checklist for Young Kids at Hollywood Studios
 
 Stroller with rain cover. Refillable water bottles (refill at water fountains throughout the park). Sunscreen (reapply every 2 hours, you will forget, set a phone alarm). Portable fan or misting fan. Ponchos for afternoon storms (buy before you arrive, park prices are marked up). Snacks, more than you think, pack double what seems reasonable. Change of clothes (storms, spills, accidents). Diapers/wipes if applicable. Favorite small toy or comfort item for wait times. Portable phone charger (the My Disney Experience app drains battery).
 
++ [Continue to Evening & Dining →] -> hs_young_kids_dining
++ [Pick a different group type] -> hs_pick_group
+
+== hs_young_kids_dining ==
+
 Evening
 
 Return around 4:30 to 5:00 p.m. if you took a hotel break. Re ride favorites (Toy Story Mania, Alien Swirling Saucers). Dinner at Sci Fi Dine In or Woody's Lunch Box. Fantasmic! if your child can handle a late show. Or leave after dinner when the park is calm and your kid is still happy.
@@ -369,6 +429,11 @@ Dining with Young Kids
 Quick service: Woody's Lunch Box in Toy Story Land, kids love eating in Toy Story Land, totchos, grilled cheese, lunch box tarts, outdoor but themed. Docking Bay 7 in Galaxy's Edge, indoor AC, the theming is cool for kids, food is decent. Backlot Express near Star Tours, indoor seating, standard kid friendly options, less crowded than other spots.
 
 Table service (reservation recommended): Sci Fi Dine In Theater, you eat in fake convertible cars while B movie clips play on screen, kids love the cars, the novelty alone makes the meal, reservation strongly recommended. 50's Prime Time Cafe, servers play "mom" and scold you for not eating your vegetables, some kids think this is hilarious, some find it confusing, know your kid. Hollywood & Vine, character dining, Disney Junior characters during certain meals, check for current character dining availability, if it's running this is the best dining option for young kids at Hollywood Studios.
+
++ [Continue to When the Plan Breaks →] -> hs_young_kids_wrapup
++ [Pick a different group type] -> hs_pick_group
+
+== hs_young_kids_wrapup ==
 
 When the Plan Breaks
 
@@ -411,6 +476,11 @@ Under 38": Toy Story Mania, Alien Swirling Saucers, Runaway Railway, shows, char
 
 The borderline kid: If your child is right at 38" or 40", they will be measured at the ride entrance. Cast Members are precise. Don't argue, it's a safety requirement. If they're a quarter inch short, they're a quarter inch short. Have a backup plan so the disappointment doesn't ruin the day.
 
++ [Continue to Rider Swap →] -> hs_mixed_ages_rider_swap
++ [Pick a different group type] -> hs_pick_group
+
+== hs_mixed_ages_rider_swap ==
+
 Rider Swap
 
 Rider Swap (also called Rider Switch) is how mixed age families survive Hollywood Studios. If you're not using it, you're doing this park wrong.
@@ -423,11 +493,21 @@ Rider Swap plan for your day: Rise of the Resistance, Parent A and tall kids rid
 
 Plan what the non riding group does during each Rider Swap in advance. "We'll figure it out" leads to standing around in the heat. Have a specific ride, show, or character meet designated for each swap.
 
++ [Continue to What Everyone Can Do Together →] -> hs_mixed_ages_together
++ [Pick a different group type] -> hs_pick_group
+
+== hs_mixed_ages_together ==
+
 What Everyone Can Do Together
 
 These are the rides and experiences where your whole group stays together regardless of height. Build the skeleton of your day around these.
 
 Toy Story Mania, 3D shooting gallery, no height requirement, fun for all ages, competitive older kids vs. younger kids is entertaining. Mickey & Minnie's Runaway Railway, trackless dark ride, no height requirement, colorful, funny, works for toddlers and teenagers. Alien Swirling Saucers, gentle spinner, no height requirement, little kids love it, older kids and teens may find it boring, manage expectations. Star Tours, flight simulator, 40" requirement, if your youngest meets it this is a great all ages ride, randomized scenarios mean older kids can ride it twice and get different experiences. Indiana Jones Epic Stunt Spectacular, live show, no age restriction, explosions and stunts entertain all ages, warn very young kids about loud noises. Disney Jr. Mickey Mouse Clubhouse Live! (if running on your dates, check the app), interactive show, aimed at preschoolers, your teen will survive, your 4 year old will be ecstatic. Fantasmic!, nighttime show, all ages but evaluate whether your youngest can handle a late, loud, dark show after a full day.
+
++ [Continue to Getting There & Lightning Lane →] -> hs_mixed_ages_getting_there
++ [Pick a different group type] -> hs_pick_group
+
+== hs_mixed_ages_getting_there ==
 
 Getting There
 
@@ -538,6 +618,11 @@ The core challenge: Hollywood Studios is the worst park for big groups. It's the
 
 The solution is the same as every big group at Disney: Plan to split up. Stay together for meals, Fantasmic!, and a group photo. Split for rides. Meet at specific times and places. The groups that try to keep 10+ people together all day are the groups that ride three things and spend four hours arguing.
 
++ [Continue to Before You Arrive →] -> hs_big_group_before
++ [Pick a different group type] -> hs_pick_group
+
+== hs_big_group_before ==
+
 Before You Arrive
 
 Big groups fail at Hollywood Studios because they skip this step. Someone says "we'll figure it out when we get there" and then 12 people stand in the hub arguing about which direction to walk while the rope drop window evaporates.
@@ -553,6 +638,11 @@ Accept that you'll split up. Groups of 8+ that try to stay together all day at H
 Groups that plan to split up: Thrill seekers hit Rise of the Resistance and Tower of Terror. Families with little kids do Toy Story Land. The Star Wars fans disappear into Galaxy's Edge. Everyone meets for dinner, actually happy.
 
 The sweet spot: Stay together for key moments (meals, Fantasmic!, a group photo on Hollywood Boulevard), split up for rides and attractions.
+
++ [Continue to Communication & Getting There →] -> hs_big_group_comms
++ [Pick a different group type] -> hs_pick_group
+
+== hs_big_group_comms ==
 
 Communication Plan
 
@@ -571,6 +661,11 @@ Hollywood Studios is simpler to reach than Magic Kingdom, you can drive directly
 If driving with multiple cars: Park near each other, arrive around the same time and you'll be directed to adjacent spots. Take photos of every car's row sign. Check current pricing. Preferred Parking puts you closer to the entrance, which matters more when your group's walking pace is set by the slowest member.
 
 If you're at a Disney resort: Bus, groups of 8+ may get split across buses, this is fine, designate a meeting point at the park entrance and don't wait for the whole group to arrive before entering. Skyliner, gondolas hold a limited number of people, a large group may need multiple gondolas, strollers must be folded. Walking from BoardWalk area resorts is the best option for big groups, everyone walks together, no capacity limits.
+
++ [Continue to Lightning Lane & Rider Swap →] -> hs_big_group_ll
++ [Pick a different group type] -> hs_pick_group
+
+== hs_big_group_ll ==
 
 Lightning Lane for Big Groups
 
@@ -618,6 +713,11 @@ Build the group moments around these, no height requirements, no splitting neede
 
 Toy Story Mania, 3D shooting gallery, seats groups of 2 per vehicle but the line moves fast, your group can ride in sequence and compare scores. Mickey & Minnie's Runaway Railway, trackless dark ride, vehicles seat multiple people, your group may split across 2 to 3 cars but you ride at the same time. Indiana Jones Epic Stunt Spectacular, live show, huge stadium, your group can sit together easily, arrive early for seats together. Fantasmic!, nighttime show, massive amphitheater, arrive well before showtime if you want your whole group seated together, worth it. Disney Villains: Unfairly Ever After, stage show, Sunset Boulevard, easy to watch as a group.
 
++ [Continue to Morning & Midday →] -> hs_big_group_midday
++ [Pick a different group type] -> hs_pick_group
+
+== hs_big_group_midday ==
+
 Morning (Park Open to 11:00 a.m.)
 
 Phase 1, split for rides (first 90 minutes): Pre assign sub groups the night before. Everyone knows where they're going at park open. Thrill seekers do Rise of the Resistance then Tower of Terror. Star Wars fans do Millennium Falcon then Galaxy's Edge exploring. Families with little kids do Toy Story Mania then Alien Swirling Saucers then Runaway Railway. The "I'll do anything" group does Slinky Dog Dash then Star Tours.
@@ -649,6 +749,11 @@ Savi's Workshop: Expensive and limited to one builder + one guest per session. I
 
 What works for the whole group: Walking through Batuu together, getting blue and green milk from the Milk Stand, browsing the shops, interacting with characters. Galaxy's Edge at night is spectacular as a group experience, the lighting, the sounds, the atmosphere. Designate a "Galaxy's Edge hour" for the whole group after dinner.
 
++ [Continue to Dining for 8+ →] -> hs_big_group_dining
++ [Pick a different group type] -> hs_pick_group
+
+== hs_big_group_dining ==
+
 Dining for 8+ People
 
 Disney table service restaurants cap online reservations at a certain party size. For groups larger than that, call Disney Dining at (407) 939 3463 to book large party reservations, split into two reservations at the same restaurant staggered apart, or use quick service restaurants where you don't need a reservation at all.
@@ -656,6 +761,11 @@ Disney table service restaurants cap online reservations at a certain party size
 Quick service (no reservation, flexible): Docking Bay 7, large indoor seating area, your group can grab food at their own pace and congregate at tables. Woody's Lunch Box, outdoor seating only, finding 8+ seats together is hard, better for sub groups. Backlot Express, large indoor seating area, usually less crowded, good fallback for big groups.
 
 Budget conversation: With 8+ people, costs add up fast. Before the trip, decide: Are you splitting meals or separate checks? Is everyone doing Lightning Lane, or just the thrill seekers? Savi's Workshop is expensive per person, who's doing it and who's skipping? Are adults pooling money for a group Oga's Cantina visit? Getting this settled before the trip prevents awkward conversations in 95 degree heat.
+
++ [Continue to When the Plan Breaks →] -> hs_big_group_wrapup
++ [Pick a different group type] -> hs_pick_group
+
+== hs_big_group_wrapup ==
 
 When the Plan Breaks
 
@@ -679,3 +789,4 @@ If you're at a Disney resort: Bus, groups may get split across buses, pick a mee
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
+
