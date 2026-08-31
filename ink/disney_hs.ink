@@ -7,7 +7,23 @@ Hollywood Studios is the smallest park by acreage but packs in the highest conce
 
 The problem is that everyone knows this. Hollywood Studios regularly hits capacity limits. Wait times for top rides can exceed two hours by mid morning. The park is small enough that it feels packed even on moderate crowd days, and there's less to do between the rides, fewer trails, fewer exploration areas, less room to breathe compared to Animal Kingdom or EPCOT. If Magic Kingdom is a full day of varied experiences, Hollywood Studios is a focused sprint through the best rides Disney has to offer.
 
++ [Continue to Rise of the Resistance →] -> hs_intro_rise
++ [Skip to picking your group →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_intro_rise ==
+
+Rise of the Resistance
+
 Rise of the Resistance is the ride people travel to Orlando for. You're captured by the First Order, loaded onto a transport, and dropped into a full scale Star Destroyer hangar before a trackless dark ride sends you careening through blaster fire and a multi story drop. Even people who don't care about Star Wars come off this ride stunned. It regularly posts the longest wait times in all of Disney World.
+
++ [Continue to Sunset Boulevard →] -> hs_intro_sunset
++ [Skip to picking your group →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_intro_sunset ==
+
+Sunset Boulevard
 
 Tower of Terror, on Sunset Boulevard, drops you in a randomized sequence inside a haunted hotel elevator shaft. It's been open since 1994 and still delivers one of the best atmospheric experiences at any theme park, the theming is immaculate, the pre show is genuinely creepy, and the drop profiles change every ride.
 
@@ -15,19 +31,64 @@ Also on Sunset Boulevard, Rock 'n' Roller Coaster is being transformed from its 
 
 Right next to Tower of Terror and the coaster, Disney Villains: Unfairly Ever After is a stage show on Sunset Boulevard featuring Cruella de Vil, Captain Hook, and Maleficent singing on stage. It's just past the giant guitar to the right, easy to spot, and a fun sit down break from the ride lines.
 
++ [Continue to Toy Story Land →] -> hs_intro_toystory
++ [Skip to picking your group →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_intro_toystory ==
+
+Toy Story Land
+
 Toy Story Land is the family hub of Hollywood Studios. The whole area is designed to make you feel like you've been shrunk to the size of a toy in Andy's backyard, oversized building blocks, giant Tinker Toys, and Woody and Buzz everywhere. Slinky Dog Dash is the land's headliner, a family coaster that looks mild but rides surprisingly well. It draws some of the longest waits in the park because it threads the needle between thrilling enough for adults and accessible enough for kids at 38 inches. Toy Story Mania is a 3D shooting gallery on a moving vehicle, you wear 3D glasses and compete for points by launching darts, rings, and balls at animated targets. It's pure fun, competitive, endlessly replayable, and one of the few rides in the park that works equally well for every age. Alien Swirling Saucers is the gentlest ride in the land, a spinning saucer ride set to music that's aimed squarely at younger kids. It's short and simple, but small children love it.
+
++ [Continue to The Other Rides →] -> hs_intro_rides
++ [Skip to picking your group →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_intro_rides ==
+
+The Other Rides
 
 Mickey & Minnie's Runaway Railway is near the front of the park and deserves more than a passing mention. It's the first ride through attraction starring Mickey Mouse, and it's a trackless dark ride that sends you through cartoon scenes where the physics go haywire, walls stretch, floors tilt, and the car goes places you don't expect. No height requirement, no big scares, and genuinely fun for all ages.
 
 Star Tours The Adventures Continue is the park's long running Star Wars flight simulator. You board a Starspeeder and get thrown into randomized Star Wars scenarios, the combinations of scenes change, so you can ride it multiple times and get a different experience. It's fully indoor, air conditioned, and rarely has the punishing wait times that Rise of the Resistance draws.
 
++ [Continue to Galaxy's Edge →] -> hs_intro_galaxys_edge
++ [Skip to picking your group →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_intro_galaxys_edge ==
+
+Galaxy's Edge
+
 Galaxy's Edge, the Star Wars land, deserves its own section. It's not just a ride queue; it's a fully realized environment. The architecture, the ambient sounds, the cast members who stay in character, the shops selling genuinely detailed merchandise, you can easily spend an hour just walking through Batuu without riding anything. Oga's Cantina serves themed cocktails in an immersive bar setting. Savi's Workshop lets you build a custom lightsaber in a theatrical ceremony that Star Wars fans describe as a once in a lifetime experience. Millennium Falcon: Smugglers Run puts you in the cockpit, pilots actually steer. The ride experience depends heavily on your role (pilot is best, engineer is least exciting), and the queue through the Falcon itself is worth the wait even if the ride is the weakest of the land's offerings.
 
++ [Continue to The Shows →] -> hs_intro_shows
++ [Skip to picking your group →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_intro_shows ==
+
+The Shows
+
 The shows at Hollywood Studios round out the day. The Little Mermaid A Musical Adventure is a reimagined stage show in Animation Courtyard featuring live performers, puppetry, and projections retelling the Little Mermaid story. It's fully indoor, air conditioned, and a solid sit down break. Indiana Jones Epic Stunt Spectacular is an outdoor stadium show recreating action sequences from the Indiana Jones films with live stunt performers, real explosions, and audience volunteers pulled on stage. It's big, loud, and entertaining even if you've never seen the movies. The stadium is open air but the seats are shaded, and it's a solid break from the ride lines. Fantasmic! is the park's nighttime spectacular, a water, fire, and projection show in a massive amphitheater. If it's running on your date, build your evening around it. It runs late, the theater seats thousands, and it gives you a reason to stay in the park through the cooler evening hours when the ride lines thin out.
+
++ [Continue to Summer & Who It Suits →] -> hs_intro_summer
++ [Skip to picking your group →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_intro_summer ==
+
+Summer, and Who This Park Is For
 
 Summer at Hollywood Studios is tough. The park has the least shade of any Disney park. Many queue lines are partially or fully outdoors. The compact footprint means you're always near a crowd and there's nowhere to escape the press of people. The strategy that works is front loading your day: be at rope drop, hit the headliners in the first two hours when wait times are at their lowest, then switch to indoor attractions, Toy Story Mania, Mickey & Minnie's Runaway Railway, Star Tours, through mid morning. During the afternoon heat peak, Galaxy's Edge actually has better shade than most of the park, so retreat there, grab a drink at Oga's, or catch one of the shows, Indiana Jones and the Villains show are both good afternoon options. Save Tower of Terror for after 7 p.m. when lines drop along with the temperature.
 
 Hollywood Studios is the right call for teens, young adults, Star Wars fans, thrill seekers, and anyone doing a shorter trip who wants to pack the most punch into a single day. It's the wrong call if your group is mostly small children who can't meet height requirements, or if you want a relaxed, wandering kind of day, this park doesn't do relaxed.
+
++ [Continue Planning Your Day →] -> hs_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== hs_pick_group ==
 
 Continue Planning Your Hollywood Studios Day
 
@@ -82,7 +143,7 @@ If you're a Star Wars fan, go to Rise of the Resistance first, the wait is alrea
 Do NOT go to Slinky Dog Dash first thing without Early Entry. The line builds immediately and you'll burn your best hour waiting for a family coaster when you could be riding Tower of Terror or Star Tours with shorter waits.
 
 + [Continue to Morning Strategy →] -> hs_no_kids_morning
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == hs_no_kids_morning ==
@@ -132,7 +193,7 @@ Most summer days, a thunderstorm rolls through between 3 and 5 p.m. Rain dumps f
 After the storm: Crowds thin significantly, some families leave entirely. Wait times can drop across the board. Temperature drops. This is your window to hit outdoor rides.
 
 + [Continue to Evening Strategy →] -> hs_no_kids_evening
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 
 == hs_no_kids_evening ==
 
@@ -186,7 +247,7 @@ If you drove: Walk to your car. Hollywood Studios' parking lot is a straight wal
 
 If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, walk back, it's close and you avoid all lines. Skyliner resorts, Skyliner, can have lines after Fantasmic! but usually moves fast. Bus resorts, standard bus service, lines can be long after park close, be patient or wait 15 minutes for the rush to clear.
 
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -235,7 +296,7 @@ Lightning Lane Priorities for Young Kids
 Book at 7 a.m. Slinky Dog Dash first (if child meets 38"), longest waits in the park for rides your kids can do. Toy Story Mania second, indoor, fun for everyone, saves you from the midday line. Mickey & Minnie's Runaway Railway third, the other ride every member of your family can do. Millennium Falcon: Smugglers Run fourth (if child meets 38"), your kids will talk about piloting the Falcon for months. Lightning Lane pricing varies by date. Check the My Disney Experience app for current prices.
 
 + [Continue to Rope Drop & Morning →] -> hs_young_kids_morning
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == hs_young_kids_morning ==
@@ -275,7 +336,7 @@ Disney Villains: Unfairly Ever After is a stage show on Sunset Boulevard with Cr
 Fantasmic! (if running on your date) is the evening show. Water, fire, projections, characters in boats. It's spectacular but loud, dark, and runs late. Evaluate whether your child can handle a late show after a full day. If they can, it's magical. If they're going to melt down in the amphitheater, skip it and leave early while the park is quiet.
 
 + [Continue to Afternoon & Evening →] -> hs_young_kids_evening
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 
 == hs_young_kids_evening ==
 
@@ -325,7 +386,7 @@ If you drove: Walk to your car. No trams, no ferries. The simplest exit of any D
 
 If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, walk back, close, no lines. Skyliner resorts, Skyliner, can have a line after Fantasmic! but moves fast. Bus resorts, bus, lines can be long at park close, wait a bit for the rush to clear if you can.
 
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -387,7 +448,7 @@ Book at 7 a.m. Slinky Dog Dash first, longest wait for a ride the whole family (
 Rise of the Resistance is Lightning Lane Single Pass only. If you're doing Rider Swap, one Lightning Lane pass means both parents get to ride quickly. Worth the money for mixed age families. Lightning Lane pricing varies by date. Check the My Disney Experience app for current prices.
 
 + [Continue to Rope Drop & Morning →] -> hs_mixed_ages_morning
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == hs_mixed_ages_morning ==
@@ -431,7 +492,7 @@ Older kids and teens group (with a parent): Millennium Falcon: Smugglers Run, St
 Set a reunion time and place for mid afternoon. Toy Story Land entrance, a specific restaurant, or the Indiana Jones theater are all good landmarks.
 
 + [Continue to Evening & Dining →] -> hs_mixed_ages_evening
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 
 == hs_mixed_ages_evening ==
 
@@ -463,7 +524,7 @@ If you drove: Walk to your car. No trams, no ferries. The simplest exit of any D
 
 If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, walk back, close, no lines. Skyliner resorts, Skyliner, can have a line after Fantasmic! but moves fast. Bus resorts, bus, lines can be long at park close, wait a bit for the rush to clear if you can.
 
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -530,7 +591,7 @@ Big group advantage: With multiple adults, you can rotate Rider Swap efficiently
 Best Rider Swap rides: Rise of the Resistance, the notoriously long standby line makes Rider Swap incredibly valuable here. Tower of Terror, multiple adults can cycle through on one Rider Swap. Slinky Dog Dash, if some kids meet 38" and some don't.
 
 + [Continue to Rope Drop & Morning →] -> hs_big_group_morning
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == hs_big_group_morning ==
@@ -570,7 +631,7 @@ Option A, group lunch + hotel break: Get a table service reservation for the ful
 Option B, stay in the park, split by interest: Little kids group does Disney Jr. Mickey Mouse Clubhouse Live! (if running on your dates), character meets, re rides in Toy Story Land. Thrill group does any headliners they missed, Galaxy's Edge, Star Tours. The tired people do Indiana Jones show (shaded, sit down) or BaseLine Tap House (drinks, AC).
 
 + [Continue to Evening & Wrap Up →] -> hs_big_group_evening
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 
 == hs_big_group_evening ==
 
@@ -614,7 +675,7 @@ If you drove: Walk to your cars. Hollywood Studios' lot is the simplest exit of 
 
 If you're at a Disney resort: Bus, groups may get split across buses, pick a meeting spot at your resort (lobby, pool) rather than waiting for everyone at the bus stop. Skyliner, gondolas hold a limited number of people, larger groups will need multiple gondolas. Walking from BoardWalk area is the best option, everyone walks together, no capacity issues.
 
-+ [Pick a different group type] -> hs_intro
++ [Pick a different group type] -> hs_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end

@@ -7,29 +7,82 @@ Animal Kingdom is the park that most first timers underestimate and most repeat 
 
 The headline is Kilimanjaro Safaris, which puts you on an open air vehicle driving through a 110 acre savanna with giraffes, elephants, lions, rhinos, and dozens of other species roaming freely. Every single ride is different depending on where the animals decide to be that morning. But the safari is just the beginning. Animal Kingdom has real animals woven into the park at every level, and most guests walk right past the best of it.
 
++ [Continue to The Walking Trails →] -> ak_intro_trails
++ [Skip to picking your group →] -> ak_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ak_intro_trails ==
+
+The Walking Trails
+
 Gorilla Falls Exploration Trail picks up right at the safari exit and takes you on foot through a series of habitats. The gorillas are the headliner, a full family troop in a forested outdoor habitat, but the trail also has hippos, meerkats, exotic birds, and more. It's free, it's shaded in places, and most people blow through it in a few minutes when it deserves much longer. The Maharajah Jungle Trek, over in the Asia section of the park, is built around a similar idea but centered on tigers. You'll walk through ruins and come face to face with Bengal tigers separated by nothing but glass, and the trail also includes giant fruit bats, Komodo dragons, and a walk through aviary. These trails are some of the best free experiences at Disney World and they almost never have a wait.
 
 Over on Discovery Island, the park's central crossroads that connects to every other themed area, the Discovery Island Trails let you see kangaroos, Galapagos tortoises, and other animals right along the walkways. Most guests are rushing through Discovery Island to get somewhere else and never realize the animals are there.
 
 In the Anandapur area of Asia, look for the siamang gibbons. They're housed in an exhibit right by the entrances to Kali River Rapids and the Maharajah Jungle Trek, and watching them swing from their tower structure is one of those unexpected moments that stops people in their tracks.
 
++ [Continue to The Bird Experiences →] -> ak_intro_birds
++ [Skip to picking your group →] -> ak_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ak_intro_birds ==
+
+The Bird Experiences
+
 The park also has two bird experiences worth knowing about. Winged Encounters The Kingdom Takes Flight is a short macaw flyover on Discovery Island. You can't miss where it happens, it's right at the park's crossroads, but you can absolutely miss when it happens. Check the times board or the app, because if you're not there at the right moment, you'll walk past the spot without knowing it existed. Feathered Friends in Flight! is the seated bird show at the Anandapur Theater in Asia. It's the one where a cast member gets their dollar bill "stolen" by a bird, and the whole show features free flying birds soaring over the audience. It's funny, it's impressive, and the theater is outdoors but covered, a decent heat break.
+
++ [Continue to Pandora and the Rides →] -> ak_intro_rides
++ [Skip to picking your group →] -> ak_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ak_intro_rides ==
+
+Pandora and the Rides
 
 Beyond the animals, Pandora The World of Avatar contains Flight of Passage, one of the best rides Disney has ever built. You're strapped onto a motorcycle style seat, "linked" to a banshee, and sent soaring over an alien landscape. It's technically a 3D motion simulator, but calling it that undersells the experience, the sensation of flight is visceral and unlike anything else at Disney World. The land itself is staggering. Bioluminescent plants, floating mountains, and an attention to detail that makes the rest of the park look understated by comparison. Na'vi River Journey, the gentler boat ride through Pandora, is beautiful but draws wait times that don't match the ride length, save it for a rain delay or the last hour of the night.
 
 Expedition Everest is a solid roller coaster with a backwards section and a broken track moment that catches first timers off guard. It's a good thrill ride, though not as intense as the headliners at Hollywood Studios.
 
++ [Continue to The Stage Shows →] -> ak_intro_shows
++ [Skip to picking your group →] -> ak_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ak_intro_shows ==
+
+The Stage Shows
+
 The stage shows at Animal Kingdom deserve more than a passing mention. Festival of the Lion King is one of the best live performances at any Disney park, period. It's a full scale theater in the round production with singers, dancers, acrobats, stilt walkers, elaborate floats, and fire effects, all set to the Lion King soundtrack. The performers are genuinely talented, this isn't a character meet with some background music. It's a Broadway caliber show that happens to be inside a theme park, and it routinely makes people emotional who weren't expecting to feel anything. The theater is fully indoors and air conditioned, which in summer makes it both the best show in the park and one of the best places to be during the 2 p.m. heat. Finding Nemo: The Big Blue and Beyond! is the other major stage show, also indoors, also air conditioned, combining puppetry, projections, and live performers in a retelling of the Nemo story.
 
 Inside the Tree of Life, the massive carved tree at the center of Discovery Island, is the Tree of Life Theater, which now houses Zootopia: Better Zoogether!, a 4D show featuring Judy Hopps and Nick Wilde. It's a newer addition, fully indoors, and another solid air conditioned escape right at the park's central hub.
 
++ [Continue to If You're Bringing Kids →] -> ak_intro_kids
++ [Skip to picking your group →] -> ak_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ak_intro_kids ==
+
+If You're Bringing Kids
+
 If you're traveling with kids, pick up a Wilderness Explorers field guide on your way into the park. The headquarters is on the bridge between the Oasis and Discovery Island, right at the entrance. Wilderness Explorers is a free scavenger hunt based on Up where kids earn sticker badges by completing short activities at stations throughout every land. It's not something you plan your day around. It's what fills the gaps, the walks between lands, the dead time before a Lightning Lane window, the moments where kids would otherwise be asking what's next. Stations are everywhere, and each one takes a few minutes. Pick up the guide on the way in and let it work in the background all day.
+
++ [Continue to The Tradeoff →] -> ak_intro_tradeoff
++ [Skip to picking your group →] -> ak_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ak_intro_tradeoff ==
+
+The Tradeoff, and How to Pace It
 
 The tradeoff with Animal Kingdom is ride count. It has fewer total attractions than any other park. If your measure of a good day is "how many rides did we do," this park will disappoint you. But if your measure is "did we experience something we couldn't experience anywhere else," Animal Kingdom wins. The landscaping alone took decades to grow in. Entire areas are designed so you can't see any other section of the park, you genuinely feel like you've been dropped into a different continent. The people who love this park love it because they slowed down, walked the trails, watched the gorillas, caught the gibbons mid swing, stumbled onto the macaw flyover, and realized the whole park is alive in a way nowhere else at Disney World is.
 
 Summer changes the calculus here. The safari is open air with no AC. Many walkways are exposed. Animals are most active in the early morning and tend to find shade as temperatures climb, an 8:30 a.m. safari and a 2:00 p.m. safari are practically different rides. The park often opens earliest and closes earliest of the four, so check the calendar for your date. If Animal Kingdom closes at 7 p.m. while EPCOT stays open until 11, consider doing Animal Kingdom in the morning and hopping to EPCOT for the evening.
 
 The best strategy here is to arrive at park open, knock out the safari and Flight of Passage in the first two hours, walk Gorilla Falls and the Maharajah Jungle Trek before the afternoon heat sets in, then use the indoor shows and Feathered Friends in Flight as your afternoon heat shelter. If you pace it right, Animal Kingdom can deliver a full day that feels completely unlike anything you'd get at the other three parks.
+
++ [Continue Planning Your Day →] -> ak_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ak_pick_group ==
 
 Continue Planning Your Animal Kingdom Day
 
@@ -95,7 +148,7 @@ Lightning Lane Multi Pass priorities: Kilimanjaro Safaris first, everyone rides 
 Flight of Passage is Lightning Lane Single Pass only. Book at 7 a.m. Only buy for group members who actually want to ride. The pricing adds up fast across a big party. Lightning Lane pricing varies by date. Check the My Disney Experience app.
 
 + [Continue to Rope Drop & Morning Strategy →] -> ak_big_group_morning
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ak_big_group_morning ==
@@ -131,7 +184,7 @@ What may split the group: Flight of Passage (44 inch height requirement), not ev
 Wilderness Explorers, free scavenger hunt for kids based on Up, pick up a field guide at the headquarters between the Oasis and Discovery Island on the way in, kids earn sticker badges at stations in every land, don't build the day around it, it's a gap filler for the younger kids in any subgroup during walks between lands, Lightning Lane waits, and Rider Swaps.
 
 + [Continue to Afternoon & Evening →] -> ak_big_group_afternoon
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_big_group_afternoon ==
 
@@ -166,7 +219,7 @@ Table service: Tusker House in Africa, character dining buffet, buffet means eve
 Quick service: Satu'li Canteen in Pandora, everyone orders their own bowl, large indoor seating area, best quick service option for big groups. Flame Tree Barbecue on Discovery Island, BBQ, large covered seating area overlooking the water, spread out, there's room. Harambe Market in Africa, multiple food windows with different options, large outdoor covered seating, good for groups where everyone wants something different.
 
 + [Continue to Budget & When the Plan Breaks →] -> ak_big_group_wrapup
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_big_group_wrapup ==
 
@@ -196,7 +249,7 @@ If you're at a Disney resort: Animal Kingdom Lodge, bus, short ride, group fits 
 
 If you're leaving early, text the group. Don't make everyone wait for you at the end of the night.
 
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -251,7 +304,7 @@ Multi Pass priorities: Kilimanjaro Safaris first, skip the line and ride during 
 Flight of Passage is Lightning Lane Single Pass only. Book at 7 a.m. Worth it for anyone in the family who meets the 44" height requirement. Use Rider Swap if needed. Lightning Lane pricing varies by date. Check the My Disney Experience app.
 
 + [Continue to Rope Drop & Morning →] -> ak_mixed_ages_morning
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ak_mixed_ages_morning ==
@@ -291,7 +344,7 @@ Feathered Friends in Flight!: Bird show in Asia. All ages enjoy free flying bird
 Wilderness Explorers: Free scavenger hunt based on Up. Kids pick up a field guide near the park entrance and earn sticker badges at stations throughout the park. Don't plan around it, just pick up the field guide on the way in at the headquarters between the Oasis and Discovery Island and let it fill the gaps. Walking between lands, waiting for a Lightning Lane window, killing time during a Rider Swap, there's almost always a station nearby. It gives the younger kids something to do during the in between moments so you're not managing boredom. Free, no lines, every land.
 
 + [Continue to Afternoon & Evening →] -> ak_mixed_ages_afternoon
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_mixed_ages_afternoon ==
 
@@ -345,7 +398,7 @@ If you drove: Walk to the tram, ride to your car. Straightforward.
 
 If you're at a Disney resort: Animal Kingdom Lodge, bus, short ride. All other resorts, bus from the main entrance. Lines can build after close. If your youngest is fading, leave before close to beat the rush.
 
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -390,7 +443,7 @@ Book at 7 a.m. Kilimanjaro Safaris first, skip the line and ride during peak ani
 Flight of Passage is Lightning Lane Single Pass only. Only useful if a parent is using Rider Swap. If so, book at 7 a.m. Lightning Lane pricing varies by date. Check the My Disney Experience app for current prices.
 
 + [Continue to Rope Drop & Morning →] -> ak_young_kids_morning
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ak_young_kids_morning ==
@@ -424,7 +477,7 @@ Feathered Friends in Flight!: The bird show in Asia. Free flying birds over the 
 Wilderness Explorers is a free scavenger hunt based on the movie Up. Kids pick up a field guide near the bridge to Africa and earn sticker badges by completing short activities at stations throughout the park. Cast members run each station, the activities take a few minutes, and there are stations in every land. Don't build your day around it. Do it on the way to other things. Walking from Africa to Pandora? There's a station on the route. Killing time before a Lightning Lane window? Find a nearby station. Your kid is getting restless between rides? Badge station. It fills the gaps in your day, the transition walks, the in between moments, the stretches where your kid would otherwise be asking "what's next." Pick up the field guide at the headquarters on the bridge between the Oasis and Discovery Island on your way into the park.
 
 + [Continue to Afternoon & Evening →] -> ak_young_kids_afternoon
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_young_kids_afternoon ==
 
@@ -461,7 +514,7 @@ If the park has evening hours: Pandora at dusk and after dark is magical for kid
 If the park closes early: Don't force it. If kids are fading, head out. Park hop to EPCOT for an evening of Frozen Ever After, the aquarium, and World Showcase lights if kids have energy.
 
 + [Continue to Dining & Wrap-Up →] -> ak_young_kids_wrapup
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_young_kids_wrapup ==
 
@@ -489,7 +542,7 @@ If you drove: Walk to the tram with your stroller. Fold for the tram, ride to yo
 
 If you're at a Disney resort: Animal Kingdom Lodge, bus, short ride home. All other resorts, bus from the main entrance. Lines can build after park close. If your kid is fading, consider leaving before close to beat the bus rush.
 
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -506,7 +559,7 @@ Animal Kingdom is the most beautiful park on Disney property, and without kids y
 Animal Kingdom has the fewest rides and typically the shortest park hours. If your idea of a good day is "maximum rides per hour," this isn't your park. But if you're the kind of adult who'd rather have a memorable experience than check boxes off a list, Animal Kingdom delivers.
 
 + [Continue to Getting There & Arrival →] -> ak_no_kids_arrival
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ak_no_kids_arrival ==
@@ -581,7 +634,7 @@ The Optimal Early Entry Route
 If you finish before general public entry, add Expedition Everest in Asia.
 
 + [Continue to Morning Strategy →] -> ak_no_kids_morning
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_no_kids_morning ==
 
@@ -620,7 +673,7 @@ Expedition Everest
 Maharajah Jungle Trek
 
 + [Continue to Birds & Shows →] -> ak_no_kids_shows
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_no_kids_shows ==
 
@@ -641,7 +694,7 @@ Finding Nemo: The Big Blue… and Beyond! is the other major stage show. Indoor,
 Zootopia: Better Zoogether! is a 4D show inside the Tree of Life Theater on Discovery Island. Fully indoor, air-conditioned, and right at the park's center.
 
 + [Continue to Afternoon Strategy →] -> ak_no_kids_afternoon
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_no_kids_afternoon ==
 
@@ -701,7 +754,7 @@ Some families leave entirely
 If the safari has reopened, a post-storm ride can be excellent. The cooler air brings animals back out
 
 + [Continue to Evening →] -> ak_no_kids_evening
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_no_kids_evening ==
 
@@ -720,7 +773,7 @@ Expedition Everest at night is a different experience. The darkness makes the ri
 The Tree of Life awakening projections happen periodically throughout the evening. Animated scenes project onto the carved tree
 
 + [Continue to Ride Reference & Dining →] -> ak_no_kids_dining
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_no_kids_dining ==
 
@@ -774,7 +827,7 @@ Pongu Pongu: Pandora. Frozen drinks (including the Night Blossom, sweet, frozen,
 Thirsty River Bar: Asia, near Expedition Everest. Quick drink stop.
 
 + [Continue to When the Plan Breaks & Day Summary →] -> ak_no_kids_wrapup
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 
 == ak_no_kids_wrapup ==
 
@@ -866,7 +919,7 @@ Return for evening if hours allow
 Evening:
 Same as above. Pandora at night, re-rides, or park hop to EPCOT
 
-+ [Pick a different group type] -> ak_intro
++ [Pick a different group type] -> ak_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end

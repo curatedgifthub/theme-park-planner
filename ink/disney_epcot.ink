@@ -7,17 +7,62 @@ EPCOT is two parks stitched together. The front half, World Celebration, World D
 
 The World Showcase is the reason EPCOT has a reputation as "the adult park." The loop contains pavilions representing Mexico, Norway, China, Germany, Italy, the American Adventure, Japan, Morocco, France, the United Kingdom, and Canada. Each one has at least one restaurant or bar, many have shops staffed by people actually from that country, and some have rides or films tucked inside. The dining here is genuinely good, not just "good for a theme park." People build entire days around eating and drinking their way around the lagoon. The tequila flights in Mexico, the pastries in France, the beer in Germany, the sake in Japan, it's a legitimate food and drink experience that happens to be inside a theme park.
 
++ [Continue to Inside the World Showcase →] -> ep_intro_showcase
++ [Skip to picking your group →] -> ep_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ep_intro_showcase ==
+
+Inside the World Showcase
+
 But the World Showcase isn't just restaurants and bars. Several pavilions have attractions hidden inside them that casual visitors walk right past. The Mexico pavilion is the biggest example, step inside the pyramid and you'll find an entire indoor market with shops and a restaurant, and in the back, Gran Fiesta Tour Starring The Three Caballeros, a gentle boat ride through scenes of Mexico set to music. It's a walk on most of the day and a perfect air conditioned escape. The China and Canada pavilions have Circle Vision 360° films that put you in the middle of sweeping landscape footage, they're dated in format but genuinely beautiful and almost always empty. The American Adventure, in the center of the World Showcase, is a lengthy Audio Animatronic stage show tracing American history. It's one of the most technically impressive things Disney has ever built, and the theater is massive, air conditioned, and a lifesaver in summer.
+
++ [Continue to The Festivals →] -> ep_intro_festivals
++ [Skip to picking your group →] -> ep_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ep_intro_festivals ==
+
+The Festivals
 
 EPCOT also runs festivals throughout most of the year, and there's almost always one happening in summer. These festivals add temporary food and drink booths all along the World Showcase, small plate dishes and specialty cocktails from cuisines that go beyond what the permanent pavilions offer. The festival booths are part of what makes "drinking around the world" a thing people actually plan their trip around. Most festivals also include a live concert series at the America Gardens Theatre near the American Adventure pavilion, typically three performances per evening, included with park admission. The specific concert lineup depends on which festival is running during your dates. Disney also offers dining packages that pair a meal at a participating EPCOT restaurant with guaranteed concert seating, which is worth looking into if a performer you like is scheduled. Check the Disney calendar for your dates to see which festival and concert series is running.
 
++ [Continue to The Rides →] -> ep_intro_rides
++ [Skip to picking your group →] -> ep_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ep_intro_rides ==
+
+The Rides
+
 On the ride side, EPCOT has some of Disney World's best. Guardians of the Galaxy: Cosmic Rewind is a reverse launch indoor roller coaster set to a classic rock soundtrack that changes each ride. It's one of the newest and most popular attractions at Disney World, and the wait times reflect it, you need Lightning Lane or a rope drop strategy, there's no middle ground. Test Track lets you design a virtual car and then ride it through a series of tests, culminating in an outdoor high speed lap around the building. Frozen Ever After is a boat ride through Arendelle in the Norway pavilion, charming and well done, but the wait times are wildly disproportionate to the ride length because every family with small children makes a beeline for it. Remy's Ratatouille Adventure, in the France pavilion expansion, shrinks you to rat size and sends you through Gusteau's restaurant on a trackless dark ride. And Spaceship Earth, the giant golf ball that is the park's icon, is a gentle ride through the history of human communication. It's not a thrill ride; it's a long, air conditioned journey through beautifully detailed scenes, and in summer, that AC alone makes it worth a walk on.
 
++ [Continue to The Front Half →] -> ep_intro_front
++ [Skip to picking your group →] -> ep_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ep_intro_front ==
+
+The Front Half
+
 The front half of the park has a few more attractions worth knowing about. The Seas with Nemo & Friends is a gentle clamshell ride through an animated undersea story that deposits you into one of the largest aquariums in the world, the actual exhibit space after the ride is enormous, with dolphins, sea turtles, manatees, sharks, and rays, and you can spend as long as you want walking through it. It's fully indoor and a great stop for families with young kids or anyone who wants to get out of the heat. Living with the Land is a boat ride through working greenhouses where Disney grows actual produce using experimental agricultural techniques. It sounds dry on paper but it's surprisingly fascinating, almost never has a wait, and the greenhouse section is genuinely cool, temperature wise and otherwise. Journey of Water, Inspired by Moana is an outdoor walk through trail in the World Nature area where you play and interact with water along the path, kids love the spots where they can splash and manipulate water features. It's not a ride; it's a self paced walkthrough, and in summer heat it's a welcome excuse to get wet. Note that some parts may close during storms, and there's a separate dry path for wheelchairs and service animals.
+
++ [Continue to Summer at EPCOT →] -> ep_intro_summer
++ [Skip to picking your group →] -> ep_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ep_intro_summer ==
+
+Summer at EPCOT
 
 EPCOT handles summer heat better than any other park. The World Showcase pavilions have air conditioned interiors. Every headliner ride is indoors. The restaurants give you an excuse to sit in AC for an hour while eating something actually worth eating. The Seas aquarium, the American Adventure theater, and the pavilion interiors all serve as extended cool down zones that don't feel like you're killing time, you're actually doing something worth doing. The weak spot is the World Showcase lagoon walk itself, that long loop around the water is exposed, and at 2 p.m. in July it can feel punishing.
 
 The best summer strategy at EPCOT is to ride the headliners in the morning, Cosmic Rewind at rope drop, Test Track next, then migrate to the World Showcase for lunch and the afternoon, ducking into pavilions, the American Adventure, and the festival booths when the heat peaks. Evening at EPCOT is arguably the best evening at any Disney park. The World Showcase comes alive after dark. Temperatures drop, the pavilions light up, and Luminous: The Symphony of Us, the nighttime fireworks and fountain show over the lagoon, can be watched from almost anywhere along the World Showcase with a drink in your hand. EPCOT also tends to have the latest park hours, often staying open until 10 or 11 p.m., making it the best park hop destination for evenings even if you spent the morning somewhere else.
+
++ [Continue Planning Your Day →] -> ep_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== ep_pick_group ==
 
 EPCOT is the park most likely to surprise people who think Disney World is just for kids. If your group skews older, if food matters to you, or if you want a day that feels more like travel than a theme park, this is where you should be.
 
@@ -72,7 +117,7 @@ If you're staying at a Disney resort (Early Entry): You have 30 precious minutes
 If you're staying off property (no Early Entry): Resort guests have been on Cosmic Rewind for 30 minutes. The standby line is already building. If you're a thrill ride fan, go to Guardians of the Galaxy: Cosmic Rewind first, the wait is already long but it only gets worse. If Frozen can wait, go to Test Track, most rope drop crowds go to Cosmic Rewind, Test Track morning waits are more manageable. For efficiency, do Remy's Ratatouille Adventure or Frozen Ever After, knock out a France/Norway ride while crowds flood World Discovery.
 
 + [Continue to Morning Strategy →] -> ep_no_kids_morning
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ep_no_kids_morning ==
@@ -108,7 +153,7 @@ Most EPCOT festivals also include a live concert series at the America Gardens T
 Check the Disney website for which festival and concert series is running on your dates. Many people build their entire EPCOT day around eating their way through the booths and catching the evening concert.
 
 + [Continue to Afternoon Strategy →] -> ep_no_kids_afternoon
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_no_kids_afternoon ==
 
@@ -131,7 +176,7 @@ Most summer days in Orlando, a thunderstorm rolls through in the mid to late aft
 After the storm: Crowds thin, some families leave entirely. Wait times can drop across the board. Temperature drops. The post storm window is some of the best time in the park.
 
 + [Continue to Evening →] -> ep_no_kids_evening
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_no_kids_evening ==
 
@@ -181,7 +226,7 @@ If you drove: Walk to the tram, ride to your car. EPCOT's parking lot uses trams
 
 If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, walk out through International Gateway, short walk, no lines, no waiting, this is the best exit at any Disney park. Skyliner resorts, Skyliner from International Gateway, can have lines after the nighttime show but usually moves steadily. Bus resorts, buses from the main entrance, lines can be long after park close, be patient or wait a bit for the rush to clear.
 
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -227,7 +272,7 @@ If one parent wants to ride Cosmic Rewind or Test Track while the other stays wi
 This lets both parents ride without standing in line twice and without leaving anyone alone with the kids in an unfamiliar spot.
 
 + [Continue to Getting There →] -> ep_young_kids_getting_there
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ep_young_kids_getting_there ==
@@ -287,7 +332,7 @@ The optimal Early Entry route for young kids is Frozen Ever After first because 
 If your kids meet height requirements and want thrills, swap in Test Track or Cosmic Rewind using Rider Swap.
 
 + [Continue to Morning Strategy →] -> ep_young_kids_morning
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_young_kids_morning ==
 
@@ -340,7 +385,7 @@ Characters in the World Showcase
 EPCOT has character meet and greets scattered through the World Showcase pavilions. These rotate and change, so check the My Disney Experience app on your day for who's out and where. Characters you might find include princesses in their home countries like Belle in France, Mulan in China, Snow White in Germany, and others. The lines tend to be shorter than Magic Kingdom character meets.
 
 + [Continue to Afternoon Strategy →] -> ep_young_kids_afternoon
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_young_kids_afternoon ==
 
@@ -375,7 +420,7 @@ When you see it coming, get inside before it hits. Use a pavilion, The Seas, a r
 After the storm, the temperature drops. This is your best outdoor window if you're still in the park. Some families leave after storms, so lines may shorten.
 
 + [Continue to Evening →] -> ep_young_kids_evening
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_young_kids_evening ==
 
@@ -473,7 +518,7 @@ Midday: World Showcase. Visit 2 to 3 pavilions, lunch, characters. Journey of Wa
 
 Evening: Return for evening EPCOT if kids are up for it. Luminous or head home based on kid energy levels.
 
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -531,7 +576,7 @@ For Test Track, thrill seekers ride first while a parent waits with little kids.
 The beauty of EPCOT is that Rider Swap only matters for two rides. Everything else, the whole family does together.
 
 + [Continue to Getting There →] -> ep_mixed_ages_getting_there
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ep_mixed_ages_getting_there ==
@@ -591,7 +636,7 @@ Meet up at a designated spot. The fountain area near the front of World Showcase
 Make sure both groups have a charged phone and location sharing enabled. The park is big enough that "we're by the big ball" isn't specific enough.
 
 + [Continue to Morning Strategy →] -> ep_mixed_ages_morning
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_mixed_ages_morning ==
 
@@ -654,7 +699,7 @@ A parent with young kids can do characters, treat stops, a Gran Fiesta Tour re-r
 Set a meet-up time and location. The World Showcase is a loop. You'll find each other eventually, but a specific spot and time saves hassle.
 
 + [Continue to Afternoon Strategy →] -> ep_mixed_ages_afternoon
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_mixed_ages_afternoon ==
 
@@ -697,7 +742,7 @@ Third, Luminous The Symphony of Us. This is the nighttime fireworks and fountain
 Mixed age viewing tips: Find a spot with enough room for your whole group along the lagoon railing anywhere in the World Showcase. The area between Mexico and Canada is most crowded. Sides like Japan, France, and Morocco are usually better. For young kids in strollers, park the stroller where you can see it and keep kids on your lap or shoulders. Bring noise dampening headphones for little ones who are sensitive to loud fireworks. Teens and adults can grab a drink from a nearby pavilion before the show.
 
 + [Continue to Lightning Lane & Dining →] -> ep_mixed_ages_dining
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_mixed_ages_dining ==
 
@@ -799,7 +844,7 @@ Afternoon: Hotel break or indoor survival mode. Return for evening.
 
 Evening: World Showcase, Luminous, head home.
 
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -843,7 +888,7 @@ Meeting landmarks: Agree on 2 to 3 specific landmarks for meeting points. Spaces
 Day of communication rules: If you're leaving the group, text the group. If you're heading to a ride or restaurant, text the group. If you spot a short wait on a popular ride, text the group. If a storm is coming, text the group. Don't send 47 messages about where to eat. The point person makes the call.
 
 + [Continue to Getting There →] -> ep_big_group_getting_there
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == ep_big_group_getting_there ==
@@ -891,7 +936,7 @@ Rides the whole group can do together: Frozen Ever After, everyone rides, family
 Rides that may split the group: Cosmic Rewind (42" height requirement), not everyone will want to ride or meet the height, use Rider Swap if needed. Test Track (40" height requirement), same situation, non riders can still do the car design experience in the post ride area.
 
 + [Continue to World Showcase & Afternoon →] -> ep_big_group_afternoon
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_big_group_afternoon ==
 
@@ -924,7 +969,7 @@ The 3:00 to 5:00 p.m. Storm Window
 Most summer days, a thunderstorm rolls through in the afternoon. Don't try to keep 8+ people together during a storm. Let sub groups duck into whichever pavilion they're nearest to. Group text: "Storm hitting, take cover wherever you are, regroup at [location] when it passes." EPCOT handles storms better than any other park, every pavilion has an interior, every ride is indoors. After the storm: crowds thin, temperature drops. This is a great time to hit rides again.
 
 + [Continue to Evening & Dining →] -> ep_big_group_evening
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 
 == ep_big_group_evening ==
 
@@ -978,7 +1023,7 @@ If you're at a Disney resort: Walking distance resorts (BoardWalk, Yacht & Beach
 
 If someone leaves before the rest of the group, they text the group thread so nobody's waiting for them at the end of the night.
 
-+ [Pick a different group type] -> ep_intro
++ [Pick a different group type] -> ep_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end

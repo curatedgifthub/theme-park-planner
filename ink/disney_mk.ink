@@ -7,6 +7,14 @@ Magic Kingdom is the park. It's the one on the postcards, the one in the commerc
 
 It's also the biggest park by ride count. Over 25 attractions spread across six themed lands, each with its own personality. Adventureland is tropical and exotic, jungle vibes, tiki torches, and the sounds of steel drums. Frontierland is the rugged American frontier with log cabins and a riverboat. Liberty Square is colonial America tucked between Frontierland and Fantasyland. Fantasyland is the castle courtyard, fairy tales, spinning rides, and the heart of the park for young kids. Tomorrowland is retro futuristic, all swooping lines and neon. And Main Street U.S.A. is the entrance boulevard lined with shops and bakeries that smells like vanilla and nostalgia from the moment you walk in.
 
++ [Continue to The Big Rides →] -> mk_intro_coasters
++ [Skip to picking your group →] -> mk_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== mk_intro_coasters ==
+
+The Big Rides
+
 The big rides are spread across these lands, and each one delivers something different.
 
 TRON Lightcycle / Run, in Tomorrowland, is a legitimate launch coaster and one of the fastest rides at Disney World. You lean forward onto a motorcycle style vehicle and launch through a neon lit environment. It's short but intense, and the wait times reflect the demand, Lightning Lane or early morning are the only strategies that work.
@@ -17,6 +25,14 @@ Space Mountain, in Tomorrowland, has been running since 1975 and still delivers.
 
 Big Thunder Mountain Railroad, in Frontierland, is the perfect family thrill ride. It's a runaway mine train coaster that's exciting enough for adults and gentle enough for kids who meet the 40 inch height requirement. Best ridden after dark when the theming comes alive and the rocks glow. Note: Big Thunder has been undergoing a major refurbishment with a full track replacement and new effects. Disney has announced a spring 2026 reopening, check the Disney website for current status before your trip.
 
++ [Continue to The Classics →] -> mk_intro_classics
++ [Skip to picking your group →] -> mk_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== mk_intro_classics ==
+
+The Classics
+
 Tiana's Bayou Adventure, in Frontierland, is the newest major ride, it replaced Splash Mountain and takes you on a log flume journey through the bayou with music and characters from The Princess and the Frog. Like any new ride, it can experience occasional closures, so check the app on your day for wait times and status.
 
 Pirates of the Caribbean, in Adventureland, is a slow boat ride through pirate scenes. It's not a thrill ride, it's a long, air conditioned masterpiece. In summer, it's as much about the AC as the pirates. The craftsmanship in the scenes is decades old and still holds up, and the queue area is one of the coolest (literally) spots in the park.
@@ -25,20 +41,51 @@ Haunted Mansion, in Liberty Square, is a dark ride through a haunted estate in d
 
 The Jungle Cruise, in Adventureland, was recently updated with new scenes and jokes. It's a guided boat tour through jungle rivers with Audio Animatronic animals and a skipper delivering a nonstop stream of puns. The humor is corny on purpose, the kids love the animals, and adults love making fun of the jokes. It's outdoor but shaded by the jungle canopy, and the wait times are usually manageable.
 
++ [Continue to For Young Children →] -> mk_intro_young_kids
++ [Skip to picking your group →] -> mk_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== mk_intro_young_kids ==
+
+For Young Children
+
 Beyond the headliners, Magic Kingdom has the deepest bench of any park for young children. Dumbo, The Many Adventures of Winnie the Pooh, it's a small world, Peter Pan's Flight, Buzz Lightyear's Space Ranger Spin (undergoing a major overhaul with new ride vehicles and gameplay, expected to reopen spring 2026; check the Disney website for current status), the list of rides with no height requirement is long, and character meet and greets are everywhere. Princess Fairytale Hall in Fantasyland, Mickey's PhilharMagic (a 3D film that's fully indoor and air conditioned), Town Square Theater for Mickey Mouse himself, if your kids want to meet characters, this is the park where it happens. No other park comes close to the volume of character interactions available here.
+
++ [Continue to The Shows →] -> mk_intro_shows
++ [Pick a different park] -> disney_park_picker
+
+== mk_intro_shows ==
+
+The Shows and Smaller Attractions
 
 The shows and smaller attractions fill in the gaps and serve as critical summer survival tools. Walt Disney's Enchanted Tiki Room, in Adventureland, is a classic Audio Animatronic show with tropical birds singing in a fully air conditioned theater. It's been open since the 1970s, it's charmingly retro, and in 95 degree heat it's one of the best sit down breaks you'll take in the park. Monsters, Inc. Laugh Floor, in Tomorrowland, is an interactive comedy show where animated monsters perform jokes, some sourced from the audience, on a giant screen. It's fully indoor, air conditioned, genuinely funny, and the kind of attraction you can walk into with almost no wait during peak afternoon hours. Country Bear Musical Jamboree, in Frontierland, is an Audio Animatronic musical revue that was refreshed in 2024 with classic Disney songs reinterpreted in country, bluegrass, and Americana styles. It's another indoor, air conditioned classic that gives you a chance to sit down and cool off. Carousel of Progress, in Tomorrowland, is a rotating theater show that walks you through a century of American innovation, it's long, it's air conditioned, and it almost never has a wait.
 
-+ [Continue to Logistics & Strategy →] -> mk_intro_strategy
++ [Continue to Logistics →] -> mk_intro_strategy
++ [Skip to picking your group →] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == mk_intro_strategy ==
 
+Logistics
+
 What catches first timers off guard is the logistics. Magic Kingdom is the only park where you cannot drive to the entrance. Every single guest arrives via secondary transportation, monorail, ferry, bus, boat, or walking from a nearby resort. This adds significant time to both your arrival and departure, and it means leaving the park is a commitment. You don't just walk to your car. You take a ferry or monorail to the Transportation and Ticket Center, then a tram to your vehicle. At the end of a long summer day, that commute feels very real. The detailed guides cover this in depth, but it's worth knowing before you choose this park for your day.
+
++ [Continue to Summer at Magic Kingdom →] -> mk_intro_summer
++ [Skip to picking your group →] -> mk_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== mk_intro_summer ==
+
+Summer at Magic Kingdom
 
 Summer at Magic Kingdom is the most intense version of any Disney park. It draws the largest crowds of any theme park on Earth. The heat is relentless, much of the park is open air with limited shade, and the hub area around the castle becomes a concrete heat sink in the afternoon. But those brutal summer days come with a silver lining: extended hours. Magic Kingdom often stays open until 10 or 11 p.m. in summer, and the last two hours of the night, after Happily Ever After, the fireworks and projection show on Cinderella Castle, are some of the best theme park hours you'll ever experience. Lines for headliner rides can drop by half or more after 9 p.m. The temperature falls. The park empties. You can walk onto rides that had massive waits earlier in the day.
 
 The strategy that works in summer is a split day. Arrive before the park opens, use the first 90 minutes to hit one or two headliners while wait times are lowest, then pivot to indoor attractions, Pirates, Haunted Mansion, Carousel of Progress, PhilharMagic, Laugh Floor, the Tiki Room, Country Bear Musical Jamboree, and air conditioned restaurants through the middle of the day. If you're staying on Disney property, go back to your hotel for the 1 to 4 p.m. heat. Come back in the evening for Happily Ever After and the post fireworks golden hours of short lines and cool air. The families who try to power through from 8 a.m. to 10 p.m. without a break are the families melting down near Frontierland at 3 p.m. Don't be that family.
+
++ [Continue Planning Your Day →] -> mk_pick_group
++ [Pick a different park] -> disney_park_picker
+
+== mk_pick_group ==
 
 Magic Kingdom is the right choice for first timers, families with young children, nostalgia seekers, and multi generational groups where you need something for every age. It's the weakest choice if you care deeply about food and drinks, the dining here is the worst of any park and alcohol is only available at table service restaurants, or if you're a group of adults who've already been and want intensity over nostalgia. But for most people making their first decision about Disney World, this is where you start.
 
@@ -127,7 +174,7 @@ Skip Seven Dwarfs for now. You'll catch it later via Lightning Lane or evening h
 Go to Adventureland or Frontierland. Most rope drop crowds sprint to Fantasyland and Tomorrowland. You're counter-programming. Start with Pirates of the Caribbean which typically has shorter waits early, is air conditioned, and makes a good warmup. Then Jungle Cruise to get it before the wait explodes. Then Haunted Mansion which is a classic with air conditioning and moderate waits early. Then loop to Tomorrowland when Fantasyland crowds thin.
 
 + [Continue to On Property & Early Entry →] -> mk_no_kids_on_property
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == mk_no_kids_on_property ==
@@ -175,7 +222,7 @@ For couples, one person does single rider and the other does standby. You'll bot
 For solo travelers, use single rider whenever available. It's your secret weapon.
 
 + [Continue to Morning Strategy →] -> mk_no_kids_morning
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_no_kids_morning ==
 
@@ -232,7 +279,7 @@ When you see it coming, move indoors before it hits. Use storm time for an indoo
 After the storm, crowds thin significantly as some families leave entirely. Wait times can drop 15 to 20 minutes across the board. Temperature drops. This is your window.
 
 + [Continue to Evening Strategy →] -> mk_no_kids_evening
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_no_kids_evening ==
 
@@ -275,7 +322,7 @@ During Early Entry you'll have the shortest waits of the day. This is your best 
 Check the My Disney Experience app for real-time wait times throughout the day.
 
 + [Continue to Ride Reference & Dining →] -> mk_no_kids_rides_dining
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_no_kids_rides_dining ==
 
@@ -340,7 +387,7 @@ Where to Drink
 Aloha Isle has Dole Whip with rum. Skipper Canteen has a full bar with craft cocktails. Be Our Guest at dinner has beer and wine. Golden Oak Outpost occasionally has beer.
 
 + [Continue to Troubleshooting & Day Summary →] -> mk_no_kids_day_glance
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_no_kids_day_glance ==
 
@@ -400,7 +447,7 @@ Adults who have good days use Early Entry or rope drop aggressively, take a midd
 
 Adults who have bad days arrive mid-morning and fight peak crowds all day, push through the afternoon heat and burn out by 6 p.m., and leave right after fireworks missing the best ride windows.
 
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -494,7 +541,7 @@ Go directly to Fantasyland via the castle. This is where the magic lives for you
 Alternatively, if lines look long in Fantasyland, pivot to Adventureland. Start with Pirates of the Caribbean which typically has shorter waits early and is air conditioned. Then Jungle Cruise to get it done before the wait explodes. Then Magic Carpets of Aladdin which has a shorter line than Dumbo for the same flight experience.
 
 + [Continue to On Property & Early Entry →] -> mk_young_kids_on_property
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == mk_young_kids_on_property ==
@@ -552,7 +599,7 @@ If Seven Dwarfs doesn't interest your crew, hit it's a small world instead. It's
 Critical: Tiana's Bayou Adventure does not open during Early Entry. It opens at official park opening only. Don't waste Early Entry waiting for it.
 
 + [Continue to Morning Strategy →] -> mk_young_kids_morning
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_young_kids_morning ==
 
@@ -595,7 +642,7 @@ Inside you'll find private nursing rooms, changing tables, a feeding area with h
 Use it for nursing, diaper disasters, sensory overwhelm and meltdown recovery, or when your toddler just needs 20 minutes of quiet. This place is a lifesaver. Know where it is before you need it.
 
 + [Continue to Afternoon Survival →] -> mk_young_kids_afternoon
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_young_kids_afternoon ==
 
@@ -634,7 +681,7 @@ Character meets during the afternoon: Town Square Theater for Mickey has an indo
 From 3:00 to 5:00 p.m. is storm watch. Most summer days a storm dumps rain for 20 to 45 minutes in this window then clears. When you see it coming, move indoors before it hits. Don't wait for the first drops. Use storm time for an indoor show, snack, or character meet. If caught outside, use your poncho. After the storm, crowds often thin as some families leave. Wait times can drop 10 to 20 minutes across the board. Temperature drops slightly. This is a good window to get back on outdoor rides.
 
 + [Continue to Evening Magic →] -> mk_young_kids_evening
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_young_kids_evening ==
 
@@ -663,7 +710,7 @@ Lightning Lane pricing varies by date. Check the My Disney Experience app for cu
 Skip TRON and Space Mountain for Lightning Lane. They require 48 and 44 inches and most young kids can't ride anyway.
 
 + [Continue to Ride Reference & Troubleshooting →] -> mk_young_kids_rides_troubleshooting
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_young_kids_rides_troubleshooting ==
 
@@ -716,7 +763,7 @@ The Leave Early Option
 Leave 10 minutes before fireworks end. You catch most of the show while walking to the exit. You beat the crush entirely. The bus has 15 people instead of 50. Kids are less overstimulated. With young kids, this is often the smart play.
 
 + [Continue to Day Summary & Packing →] -> mk_young_kids_day_glance
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_young_kids_day_glance ==
 
@@ -760,7 +807,7 @@ Families who have bad days try to do everything, push through nap time, and igno
 
 The goal isn't to conquer Magic Kingdom. It's to make memories your kids will carry forever. Pace yourself. Rest often. The magic is there when you slow down enough to see it.
 
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -850,7 +897,7 @@ You've lost the Early Entry race. Resort guests have been riding Seven Dwarfs Mi
 Go directly to Adventureland or Frontierland. Most rope drop crowds sprint to Fantasyland and Tomorrowland. You're counter-programming. Start with Pirates of the Caribbean which typically has shorter waits early. Then Jungle Cruise to get it done before the wait explodes. Then Haunted Mansion for the whole family with air conditioning. This gets three major rides done before heat and crowds peak.
 
 + [Continue to On Property & Early Entry →] -> mk_mixed_ages_on_property
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == mk_mixed_ages_on_property ==
@@ -914,7 +961,7 @@ For the little one who can't ride, this is your first Rider Switch of the day. Y
 After your first ride and still during Early Entry, if time remains before general public entry, hit Peter Pan's Flight or The Many Adventures of Winnie the Pooh. These rides have low capacity and brutal waits by midday.
 
 + [Continue to Morning Strategy →] -> mk_mixed_ages_morning
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_mixed_ages_morning ==
 
@@ -955,7 +1002,7 @@ Rivers of America and Liberty Square Riverboat are permanently closed. They clos
 Walt Disney World Railroad is running in modified shuttle mode between Main Street and Fantasyland only. The Frontierland station has been closed for years due to construction.
 
 + [Continue to Afternoon Survival →] -> mk_mixed_ages_afternoon
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_mixed_ages_afternoon ==
 
@@ -998,7 +1045,7 @@ When you see it coming, move indoors before it hits. Don't wait for the first dr
 After the storm, crowds often thin as some families leave. Wait times can drop 10 to 20 minutes across the board. Temperature drops slightly. This is your window to get back on outdoor rides.
 
 + [Continue to Evening Strategy →] -> mk_mixed_ages_evening
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_mixed_ages_evening ==
 
@@ -1037,7 +1084,7 @@ Lightning Lane pricing varies by date. Check the My Disney Experience app for cu
 Book your first Lightning Lane as early as the app allows, which is 7 a.m. for resort guests. Refresh throughout the day because times open up.
 
 + [Continue to Ride Reference & Troubleshooting →] -> mk_mixed_ages_rides_troubleshooting
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_mixed_ages_rides_troubleshooting ==
 
@@ -1080,7 +1127,7 @@ The Leave Early Option
 Leave before fireworks end. You catch most of the show while walking to the exit. You beat the crush. Much shorter wait for the ferry. Much shorter bus lines.
 
 + [Continue to Day Summary →] -> mk_mixed_ages_day_glance
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_mixed_ages_day_glance ==
 
@@ -1112,7 +1159,7 @@ Families who have good days accept that not everyone gets everything every hour,
 
 Families who have bad days try to get their money's worth by never stopping.
 
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
@@ -1162,7 +1209,7 @@ Pick specific Magic Kingdom meeting landmarks everyone knows. The Partners statu
 Day of rules: text the group when you leave a land, when you head to a ride, when you spot a short wait, when a storm is coming. The point person makes dining calls so the group chat does not become 30 messages about where to eat.
 
 + [Continue to Lightning Lane & Transportation →] -> mk_big_group_logistics
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 
 == mk_big_group_logistics ==
@@ -1202,7 +1249,7 @@ For rideshare with a group of 7 or more, you will need multiple vehicles. Standa
 Rideshare makes sense when running late and you cannot afford to wait for buses, leaving after fireworks with exhausted people, or when the per person cost ends up similar to parking anyway. Rideshare drops you at the Transportation and Ticket Center, not at the park directly. You will need to take the monorail or ferry from there to Magic Kingdom's entrance.
 
 + [Continue to Navigation & Group Dynamics →] -> mk_big_group_navigation
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_big_group_navigation ==
 
@@ -1245,7 +1292,7 @@ The solution is planned separation. At the start of the day, divide into speed c
 Meet for meals and key moments. Lunch together with a reservation booked for your whole group. Dinner together. Fireworks where everyone picks a spot and arrives 30 minutes early. One group photo in front of the castle. The rest of the day, let people do what they actually want.
 
 + [Continue to Rides, Dining & Sample Day →] -> mk_big_group_rides_dining
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_big_group_rides_dining ==
 
@@ -1284,7 +1331,7 @@ Current Closures as of Early 2026
 Big Thunder Mountain Railroad is closed for refurbishment with a reopening expected in Spring 2026. Tom Sawyer Island is permanently closed and is being reimagined as Piston Peak National Park. Rivers of America and the Liberty Square Riverboat are permanently closed. Walt Disney World Railroad is running in shuttle mode between Main Street and Fantasyland only. Buzz Lightyear's Space Ranger Spin is closed for a major refurbishment.
 
 + [Continue to Troubleshooting & Sample Day →] -> mk_big_group_final
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 
 == mk_big_group_final ==
 
@@ -1330,7 +1377,7 @@ Trying to force 12 people with different interests, different energy levels, and
 
 Give people permission to have their own experience. Come together when it matters. That is how big groups survive Disney.
 
-+ [Pick a different group type] -> mk_intro
++ [Pick a different group type] -> mk_pick_group
 + [Pick a different park] -> disney_park_picker
 + [Start over] -> start
 + [Done — close the guide] -> the_end
