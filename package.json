@@ -1,0 +1,15 @@
+{
+  "name": "theme-park-planner",
+  "version": "1.0.0",
+  "description": "A choose-your-own-adventure Walt Disney World trip planner, written in ink.",
+  "scripts": {
+    "build": "node tools/build.js",
+    "check": "node tools/build.js --check",
+    "verify": "node tools/verify.js"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "inkjs": "2.2.3"
+  },
+  "private": true
+}
