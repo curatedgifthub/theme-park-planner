@@ -17,7 +17,7 @@ INCLUDE where_to_stay.ink
 ~ park = ""
 ~ group_type = ""
 
-<em>A choose-your-own-adventure planning tool — not an official Disney guide, and not affiliated with, endorsed by, or connected to the Walt Disney Company. It's here to spark how you might map out the big trip, not to be the last word on it. Hours, closures and prices change constantly, so confirm anything that matters with Disney before you book.</em>
+<em>An unofficial choose-your-own-adventure planning tool — not affiliated with, endorsed by, or connected to The Walt Disney Company. Hours, closures, and prices change constantly, so always confirm key details with Disney before booking.</em>
 
 Four parks, dozens of hotels, and a few hundred small decisions that add up to either a good week or an expensive slog. This guide covers the three that matter most: which park gets each day, how you get to Orlando, and where you sleep once you're here.
 
