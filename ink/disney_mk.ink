@@ -363,7 +363,7 @@ Seven Dwarfs Mine Train requires 38 inches. Family coaster. Longest waits.
 
 Tiana's Bayou Adventure requires 40 inches. Log flume. You'll get wet.
 
-Big Thunder Mountain requires 40 inches. Outdoor coaster.
+Big Thunder Mountain requires 38 inches, lowered from 40 when it reopened in May 2026. Outdoor coaster.
 
 Classics
 
