@@ -153,6 +153,16 @@ const needTags = [
 const missing = needTags.filter(([, re]) => !re.test(html)).map(([n]) => n);
 ok('link-preview tags present', missing.length === 0, missing.join(', '));
 
+// og:image must be an ABSOLUTE url. The spec requires it; Facebook and LinkedIn
+// reject relative paths and other scrapers are inconsistent. The origin isn't
+// known until the repo exists, so this fails loudly rather than shipping a card
+// that silently never renders.
+const ogImg = html.match(/property="og:image" content="([^"]+)"/);
+const absolute = ogImg && /^https?:\/\//.test(ogImg[1]);
+ok('og:image is an absolute URL', !!absolute,
+   ogImg ? `"${ogImg[1]}" — replace REPLACE_WITH_SITE_URL with the published origin once the repo exists`
+         : 'no og:image');
+
 // and the files those tags point at must actually exist
 const assets = ['assets/share-card.png', 'assets/favicon.svg', 'assets/apple-touch-icon.png'];
 const absent = assets.filter((a) => !fs.existsSync(path.join(root, a)));

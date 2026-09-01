@@ -15,11 +15,17 @@ says *where we are*. Update the status cell when you start and when you finish �
 **Where we are:** Stage 1 — 11 of 14 done (1.01–1.08, 1.12, 1.13); 1.09 and 1.10 are started, 1.11 is the
 only untouched one. Stage 2 — 2 of 12 done (2.05, 2.06).
 
-**Ship audit, 2026-08-31.** Deliberately hunted for defects rather than declaring done. Found and
-fixed three: no link-preview metadata at all (a texted link rendered as a bare URL — the exact thing
-the done-bar is about), no favicon, and a theme toggle that lost the reader's choice on every reload.
-Then 2.06, because losing your place across 217 pages is a real cost. `npm run verify` now runs ten
-checks and all pass.
+**Pre-publication pass, 2026-08-31.** Not a defect hunt — nothing was broken, because nothing is
+live yet. What it did was get `index.html` ready to be published: link-preview metadata, a favicon,
+a theme toggle that survives a reload (it genuinely did not), and 2.06 autosave, because losing your
+place across 217 pages is a real cost on a phone.
+
+**One piece is deliberately incomplete and `npm run verify` fails on it.** `og:image` must be an
+absolute URL — the Open Graph spec requires it, Facebook and LinkedIn reject relative paths, and
+other scrapers vary. That origin cannot be known until the repo exists, so `index.html` carries
+`REPLACE_WITH_SITE_URL` and check 10 fails until it is replaced. This is the one task that genuinely
+cannot be finished locally: **1.09 has to happen first, then one line changes and verify goes green.**
+The title and description tags need no URL and already work.
 
 **Known and accepted, not defects to fix before pushing:** the browser back button leaves the site
 (the shell has no history integration — a `main.js` change, not a small one), and the nested scroll
