@@ -5,7 +5,7 @@ Magic Kingdom
 
 Magic Kingdom is the park. It's the one on the postcards, the one in the commercials, the one your coworker is talking about when they say "we're going to Disney." Cinderella Castle at the end of Main Street U.S.A. is the most recognizable image in theme park history, and walking toward it for the first time, or the tenth time, still does something to people. This is where the fireworks happen, where the characters roam, and where that hard to define "Disney magic" feeling lives most strongly.
 
-It's also the biggest park by ride count. Over 25 attractions spread across six themed lands, each with its own personality. Adventureland is tropical and exotic, jungle vibes, tiki torches, and the sounds of steel drums. Frontierland is the rugged American frontier with log cabins and a riverboat. Liberty Square is colonial America tucked between Frontierland and Fantasyland. Fantasyland is the castle courtyard, fairy tales, spinning rides, and the heart of the park for young kids. Tomorrowland is retro futuristic, all swooping lines and neon. And Main Street U.S.A. is the entrance boulevard lined with shops and bakeries that smells like vanilla and nostalgia from the moment you walk in.
+It's also the biggest park by ride count. Over 25 attractions spread across six themed lands, each with its own personality. Adventureland is tropical and exotic, jungle vibes, tiki torches, and the sounds of steel drums. Frontierland is the rugged American frontier, log cabins and mine train country, home to Big Thunder Mountain and Tiana's Bayou Adventure, with construction walls along its northern edge where the Rivers of America used to be. Liberty Square is colonial America tucked between Frontierland and Fantasyland. Fantasyland is the castle courtyard, fairy tales, spinning rides, and the heart of the park for young kids. Tomorrowland is retro futuristic, all swooping lines and neon. And Main Street U.S.A. is the entrance boulevard lined with shops and bakeries that smells like vanilla and nostalgia from the moment you walk in.
 
 + [Continue to The Big Rides →] -> mk_intro_coasters
 + [Skip to picking your group →] -> mk_pick_group
@@ -1094,7 +1094,7 @@ Your priority depends on your oldest child's height and interests.
 
 Tiana's Bayou Adventure and TRON Lightcycle Run do not open during Early Entry. They open at official park opening time only. Do not waste Early Entry waiting in line for rides that aren't running yet.
 
-If your you can ride Seven Dwarfs Mine Train at 38 inches minimum, go there first during Early Entry. If you can ride Space Mountain at 44 inches minimum, go there first. If neither yet, go to Peter Pan's Flight.
+If your kids can ride Seven Dwarfs Mine Train at 38 inches minimum, go there first during Early Entry. If you can ride Space Mountain at 44 inches minimum, go there first. If neither yet, go to Peter Pan's Flight.
 
 Seven Dwarfs Mine Train has the longest wait in the park almost every day. A 10 minute Early Entry wait becomes a 90 minute standby wait by 10 a.m. Get it done now.
 

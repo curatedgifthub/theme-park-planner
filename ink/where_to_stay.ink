@@ -21,7 +21,7 @@ Early Theme Park Entry: 30 minutes in any Disney park before the general public,
 
 Free Disney transportation: Buses to every park, monorail at the Magic Kingdom-area resorts, Skyliner at the EPCOT-area resorts, boats from select resorts. You can do an entire week without a car.
 
-Free standard parking at the parks: If you do drive, you're not paying $30 a day to park.
+Free standard parking at the parks: If you do drive, you're not paying $35 a day to park.
 
 MagicBand+ at a discount, package delivery from in-park stores back to your room, the My Disney Experience app integration for room keys and dining, and 60-day dining reservation booking instead of the 30-day window for off-property guests.
 
@@ -85,7 +85,7 @@ Celebration: Disney's old planned community, just south of Disney property. High
 
 Vacation rentals: Vrbo, Airbnb, and dedicated vacation home companies (Encantada, Solterra, Reunion Resort, Champions Gate) operate thousands of pool homes, mostly in Kissimmee and Davenport. For groups of 6 or more, or for trips of a week or more, the math beats hotels by a wide margin. A 5-bedroom pool home in Kissimmee for $300 to $500 per night sleeps 10 to 12 people and includes a private pool, full kitchen, and laundry. The same 10 people in hotel rooms costs three times as much.
 
-Off-property tradeoffs: You need a rental car. Parking at the Disney parks is $30+ per day. You don't get Early Entry at Disney parks (with the exception of the Disney Springs hotels). You don't get Extended Evening Hours. You do get more space, lower nightly cost, and a kitchen.
+Off-property tradeoffs: You need a rental car. Parking at the Disney parks is $35 per day. You don't get Early Entry at Disney parks (with the exception of the Disney Springs hotels). You don't get Extended Evening Hours. You do get more space, lower nightly cost, and a kitchen.
 
 Best for: Larger groups, longer trips, families who plan to do non-park days, travelers who want to keep food costs down by cooking some meals.
 

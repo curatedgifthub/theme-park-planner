@@ -81,7 +81,7 @@ Routes: I-95 from the east coast, I-75 from the Midwest and the Atlanta corridor
 
 Tolls: The Florida Turnpike, the 408, the 417, and most of the connector roads use electronic tolling. If you're driving your own car, get a SunPass transponder before you leave. They're cheap, work statewide, and save the per-trip plate-billing surcharges. Order online a week before you go.
 
-Parking at your hotel: This is the hidden cost of driving. Disney resorts charge nightly self-parking fees that vary by resort tier. Universal hotels also charge nightly self-parking. Off-property hotels are typically free but check before you book. Across a week, a $30 nightly parking fee is over $200 added to your trip.
+Parking at your hotel: Disney dropped overnight self-parking fees at its own resorts in January 2023, so on Disney property this costs you nothing. The Swan, Dolphin and Swan Reserve are the exception and still charge. Universal hotels charge nightly self-parking. Off-property hotels are usually free, but check before you book: across a week, a $30 nightly fee is over $200 added to your trip.
 
 Fuel and food breaks: Last good fuel and food stop before Orlando is usually around the I-75 / Florida Turnpike interchange near Wildwood, or the Daytona area on I-95. Once you're inside the I-4 corridor, prices climb and options thin. Top off and grab snacks before you get close.
 
