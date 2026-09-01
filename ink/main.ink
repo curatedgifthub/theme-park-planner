@@ -17,6 +17,8 @@ INCLUDE where_to_stay.ink
 ~ park = ""
 ~ group_type = ""
 
+<em>A choose-your-own-adventure planning tool — not an official Disney guide, and not affiliated with, endorsed by, or connected to the Walt Disney Company. It's here to spark how you might map out the big trip, not to be the last word on it. Hours, closures and prices change constantly, so confirm anything that matters with Disney before you book.</em>
+
 Four parks, dozens of hotels, and a few hundred small decisions that add up to either a good week or an expensive slog. This guide covers the three that matter most: which park gets each day, how you get to Orlando, and where you sleep once you're here.
 
 The park guides are the heart of it, so they come first. Each one is broken down by who you're traveling with, because a day at Magic Kingdom with a four year old and a day at Magic Kingdom with four adults are not the same day, and most planning advice online is written as though they were.

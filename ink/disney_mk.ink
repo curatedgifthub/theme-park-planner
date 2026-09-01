@@ -23,7 +23,7 @@ Seven Dwarfs Mine Train, in Fantasyland, is a family coaster through the diamond
 
 Space Mountain, in Tomorrowland, has been running since 1975 and still delivers. It's an indoor coaster in complete darkness, the track is rough by modern standards, but the disorientation of riding in the dark makes it feel faster than it is. A classic for a reason.
 
-Big Thunder Mountain Railroad, in Frontierland, is the perfect family thrill ride. It's a runaway mine train coaster that's exciting enough for adults and gentle enough for kids who meet the 40 inch height requirement. Best ridden after dark when the theming comes alive and the rocks glow. Note: Big Thunder has been undergoing a major refurbishment with a full track replacement and new effects. Disney has announced a spring 2026 reopening, check the Disney website for current status before your trip.
+Big Thunder Mountain Railroad, in Frontierland, is the perfect family thrill ride. It's a runaway mine train coaster that's exciting enough for adults and gentle enough for kids who meet the 40 inch height requirement. Best ridden after dark when the theming comes alive and the rocks glow.
 
 + [Continue to The Classics →] -> mk_intro_classics
 + [Skip to picking your group →] -> mk_pick_group
@@ -49,7 +49,7 @@ The Jungle Cruise, in Adventureland, was recently updated with new scenes and jo
 
 For Young Children
 
-Beyond the headliners, Magic Kingdom has the deepest bench of any park for young children. Dumbo, The Many Adventures of Winnie the Pooh, it's a small world, Peter Pan's Flight, Buzz Lightyear's Space Ranger Spin (undergoing a major overhaul with new ride vehicles and gameplay, expected to reopen spring 2026; check the Disney website for current status), the list of rides with no height requirement is long, and character meet and greets are everywhere. Princess Fairytale Hall in Fantasyland, Mickey's PhilharMagic (a 3D film that's fully indoor and air conditioned), Town Square Theater for Mickey Mouse himself, if your kids want to meet characters, this is the park where it happens. No other park comes close to the volume of character interactions available here.
+Beyond the headliners, Magic Kingdom has the deepest bench of any park for young children. Dumbo, The Many Adventures of Winnie the Pooh, it's a small world, Peter Pan's Flight, Buzz Lightyear's Space Ranger Spin (reopened April 2026 with new ride vehicles, handheld blasters and onboard scoring), the list of rides with no height requirement is long, and character meet and greets are everywhere. Princess Fairytale Hall in Fantasyland, Mickey's PhilharMagic (a 3D film that's fully indoor and air conditioned), Town Square Theater for Mickey Mouse himself, if your kids want to meet characters, this is the park where it happens. No other park comes close to the volume of character interactions available here.
 
 + [Continue to The Shows →] -> mk_intro_shows
 + [Pick a different park] -> disney_park_picker
@@ -363,7 +363,7 @@ Seven Dwarfs Mine Train requires 38 inches. Family coaster. Longest waits.
 
 Tiana's Bayou Adventure requires 40 inches. Log flume. You'll get wet.
 
-Big Thunder Mountain requires 40 inches. Outdoor coaster. Currently closed, reopening Spring 2026.
+Big Thunder Mountain requires 40 inches. Outdoor coaster.
 
 Classics
 
@@ -383,17 +383,13 @@ Mad Tea Party. Unless you really want to spin.
 
 It's a small world. 15 minutes of that song. Your call.
 
-Current Closures as of Early 2026
-
-Big Thunder Mountain Railroad is closed for refurbishment and reopening Spring 2026.
+Closures and Refurbishments
 
 Tom Sawyer Island is permanently closed and becoming Piston Peak National Park, a Cars-themed area.
 
 Rivers of America is permanently closed.
 
-Walt Disney World Railroad is running in shuttle mode only between Main Street and Fantasyland.
-
-Buzz Lightyear's Space Ranger Spin is closed for a major refurbishment. Check Disney's site for reopening status.
+Walt Disney World Railroad is running in shuttle mode only between Main Street and Fantasyland. It closes completely from September 28 to October 29, 2026 for refurbishment.
 
 Dining for Adults
 
@@ -697,7 +693,7 @@ In Adventureland: Pirates of the Caribbean has moderate waits and is a dark ride
 
 In Liberty Square: Haunted Mansion has moderate waits and may be too scary for some kids. You know yours.
 
-In Tomorrowland: Buzz Lightyear's Space Ranger Spin is currently closed for a major refurbishment. Check Disney's site for reopening status. Monsters Inc. Laugh Floor has low waits and is an interactive comedy show that's air conditioned. Tomorrowland Transit Authority PeopleMover has low waits and is a 10 minute ride with a breeze that's great for tired legs. Carousel of Progress has low waits and gives 20 minutes of sitting in air conditioning.
+In Tomorrowland: Buzz Lightyear's Space Ranger Spin reopened in April 2026 with new ride vehicles, handheld blasters and onboard scoring. Indoor, air conditioned, and interactive. Monsters Inc. Laugh Floor has low waits and is an interactive comedy show that's air conditioned. Tomorrowland Transit Authority PeopleMover has low waits and is a 10 minute ride with a breeze that's great for tired legs. Carousel of Progress has low waits and gives 20 minutes of sitting in air conditioning.
 
 Tomorrowland Speedway has an outdoor queue with no shade and requires 32 inches to ride and 54 inches to drive alone. The queue can be rough in the heat, but kids love driving. If your little one is excited about it, go for it. Try to hit it earlier in the day or in the evening when it's cooler.
 
@@ -807,17 +803,13 @@ Low height requirements: Tomorrowland Speedway requires 32 inches to ride and 54
 
 Rides to skip due to height requirements: Space Mountain requires 44 inches and most kids under 6 can't ride. TRON Lightcycle Run requires 48 inches and most kids under 7 or 8 can't ride.
 
-Current Closures as of Early 2026
-
-Big Thunder Mountain Railroad is closed and reopening Spring 2026.
+Closures and Refurbishments
 
 Tom Sawyer Island is permanently closed and being converted to Piston Peak National Park, a Cars-themed area.
 
 Rivers of America and Liberty Square Riverboat are permanently closed and the area is being transformed.
 
-Walt Disney World Railroad is running in modified shuttle mode between Main Street and Fantasyland only.
-
-Buzz Lightyear's Space Ranger Spin is closed for a major refurbishment. Check Disney's site for reopening status.
+Walt Disney World Railroad is running in modified shuttle mode between Main Street and Fantasyland only. It closes completely from September 28 to October 29, 2026 for refurbishment.
 
 + [Continue to When Things Go Wrong →] -> mk_young_kids_troubleshooting
 + [Pick a different group type] -> mk_pick_group
@@ -1129,7 +1121,7 @@ Jungle Cruise has no height requirement but waits build fast. Get it done before
 
 Haunted Mansion has no height requirement with moderate waits. Whole family. Good air conditioning in the stretching room and ride.
 
-Buzz Lightyear's Space Ranger Spin has no height requirement with moderate waits. Whole family. Interactive. Kids love it. This ride is undergoing a major overhaul so check Disney's site for current status.
+Buzz Lightyear's Space Ranger Spin has no height requirement with moderate waits. Whole family. Interactive. Kids love it. It reopened in April 2026 with new ride vehicles, handheld blasters and onboard scoring.
 
 It's a small world has no height requirement with moderate waits. 15 minutes of air conditioning. Whole family. Classic.
 
@@ -1141,15 +1133,13 @@ What to Avoid in the Morning
 
 Avoid meet and greets with long outdoor lines. Save characters for after the midday break. Avoid Tomorrowland Speedway. It has an outdoor queue, no shade, and the ride is loud and hot. Skip it entirely in summer or hit it during the final hour before close. Avoid any ride with 60 or more minutes posted wait unless it's a must-do and you're using Lightning Lane.
 
-Current Closures as of Early 2026
-
-Big Thunder Mountain Railroad is closed and undergoing major refurbishment. Expected to reopen Spring 2026 with enhancements.
+Closures and Refurbishments
 
 Tom Sawyer Island is permanently closed. It closed July 2025 and is being converted to Piston Peak National Park, a Cars-themed area.
 
 Rivers of America and Liberty Square Riverboat are permanently closed. They closed July 2025 and the area is being transformed for a new expansion.
 
-Walt Disney World Railroad is running in modified shuttle mode between Main Street and Fantasyland only. The Frontierland station has been closed for years due to construction.
+Walt Disney World Railroad is running in modified shuttle mode between Main Street and Fantasyland only. The Frontierland station has been closed for years due to construction. It closes completely from September 28 to October 29, 2026 for refurbishment.
 
 + [Continue to Afternoon Survival →] -> mk_mixed_ages_afternoon
 + [Pick a different group type] -> mk_pick_group
@@ -1487,7 +1477,7 @@ Meet for meals and key moments. Lunch together with a reservation booked for you
 
 What the Whole Group Can Do Together
 
-These are the no height requirement attractions where the whole group rides or watches together: Pirates of the Caribbean, Jungle Cruise, Haunted Mansion, it's a small world, Peter Pan's Flight, The Many Adventures of Winnie the Pooh, Under the Sea Journey of the Little Mermaid, Dumbo the Flying Elephant, The Magic Carpets of Aladdin, Prince Charming Regal Carrousel, Buzz Lightyear's Space Ranger Spin (currently closed for refurbishment), Tomorrowland Transit Authority PeopleMover, Mickey's PhilharMagic, Monsters Inc. Laugh Floor, Walt Disney's Carousel of Progress, Country Bear Jamboree, Enchanted Tiki Room, and The Hall of Presidents.
+These are the no height requirement attractions where the whole group rides or watches together: Pirates of the Caribbean, Jungle Cruise, Haunted Mansion, it's a small world, Peter Pan's Flight, The Many Adventures of Winnie the Pooh, Under the Sea Journey of the Little Mermaid, Dumbo the Flying Elephant, The Magic Carpets of Aladdin, Prince Charming Regal Carrousel, Buzz Lightyear's Space Ranger Spin, Tomorrowland Transit Authority PeopleMover, Mickey's PhilharMagic, Monsters Inc. Laugh Floor, Walt Disney's Carousel of Progress, Country Bear Jamboree, Enchanted Tiki Room, and The Hall of Presidents.
 
 These attractions split the group by height requirement: Seven Dwarfs Mine Train (38 inches), Tiana's Bayou Adventure (40 inches), Space Mountain (44 inches), TRON Lightcycle Run (48 inches), and The Barnstormer (35 inches).
 
@@ -1525,9 +1515,9 @@ For quick service with 10 people, one person should not hold up the line to deci
 
 For paying, sort this out before the trip. Splitting every bill is exhausting. One person pays and everyone Venmos later, or each family covers themselves.
 
-Current Closures as of Early 2026
+Closures and Refurbishments
 
-Big Thunder Mountain Railroad is closed for refurbishment with a reopening expected in Spring 2026. Tom Sawyer Island is permanently closed and is being reimagined as Piston Peak National Park. Rivers of America and the Liberty Square Riverboat are permanently closed. Walt Disney World Railroad is running in shuttle mode between Main Street and Fantasyland only. Buzz Lightyear's Space Ranger Spin is closed for a major refurbishment.
+Tom Sawyer Island is permanently closed and is being reimagined as Piston Peak National Park. Rivers of America and the Liberty Square Riverboat are permanently closed. Walt Disney World Railroad is running in shuttle mode between Main Street and Fantasyland only. It closes completely from September 28 to October 29, 2026 for refurbishment.
 
 + [Continue to When Things Go Wrong →] -> mk_big_group_final
 + [Pick a different group type] -> mk_pick_group

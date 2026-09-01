@@ -27,7 +27,7 @@ Sunset Boulevard
 
 Tower of Terror, on Sunset Boulevard, drops you in a randomized sequence inside a haunted hotel elevator shaft. It's been open since 1994 and still delivers one of the best atmospheric experiences at any theme park, the theming is immaculate, the pre show is genuinely creepy, and the drop profiles change every ride.
 
-Also on Sunset Boulevard, Rock 'n' Roller Coaster is being transformed from its original Aerosmith theme into a Muppets themed attraction featuring the Electric Mayhem band. The Aerosmith version permanently closed in March 2026. The new version, Rock 'n' Roller Coaster Starring The Muppets, will include a new pre show with Audio Animatronic characters and penguin sound engineers, and a ride through Hollywood set to Electric Mayhem's biggest hits. Disney has announced a summer 2026 opening, so check the Disney website for current status before your trip, it may be open or still under construction depending on your dates. Separately, the old Muppet*Vision 3D theater and surrounding Grand Avenue area are walled off for construction and being transformed into Monstropolis, a Monsters, Inc. themed land.
+Also on Sunset Boulevard, Rock 'n' Roller Coaster Starring The Muppets opened on May 26, 2026, replacing the original Aerosmith version, which closed for good that March. The Electric Mayhem headline it now, with a new pre show featuring Audio Animatronic characters and penguin sound engineers, then a ride through Hollywood set to the band's biggest hits. Disney changed very little of the ride itself, so it's the same launch coaster it always was: 48 inches, three inversions, 57 mph, all in the dark. Separately, the old Muppet*Vision 3D theater and surrounding Grand Avenue area are walled off for construction and being transformed into Monstropolis, a Monsters, Inc. themed land.
 
 Right next to Tower of Terror and the coaster, Disney Villains: Unfairly Ever After is a stage show on Sunset Boulevard featuring Cruella de Vil, Captain Hook, and Maleficent singing on stage. It's just past the giant guitar to the right, easy to spot, and a fun sit down break from the ride lines.
 
@@ -157,7 +157,7 @@ Morning (Park Open to 11:00 a.m.)
 
 Crowds are building but haven't peaked. Heat is uncomfortable but not dangerous. This is when you clear the most rides.
 
-Ride priority: Rise of the Resistance and Tower of Terror are must dos, the two best rides in the park, maybe at Disney World. Slinky Dog Dash and Millennium Falcon: Smugglers Run are high priority, fun rides with long waits, get them done early. Mickey & Minnie's Runaway Railway, Toy Story Mania, and Star Tours are worth doing, all indoor, all fun, all manageable waits. Rock 'n' Roller Coaster is permanently closed and being rebuilt as a Muppets/Electric Mayhem coaster. Disney has announced a summer 2026 opening. Check the Disney website for current status before your trip. If it's open, it's a launch coaster through inversions in the dark and worth prioritizing.
+Ride priority: Rise of the Resistance and Tower of Terror are must dos, the two best rides in the park, maybe at Disney World. Slinky Dog Dash and Millennium Falcon: Smugglers Run are high priority, fun rides with long waits, get them done early. Mickey & Minnie's Runaway Railway, Toy Story Mania, and Star Tours are worth doing, all indoor, all fun, all manageable waits. Rock 'n' Roller Coaster Starring The Muppets opened in May 2026. It's a launch coaster through three inversions in the dark, 48 inches, and worth prioritizing.
 
 Knock out before noon: Rise of the Resistance (if you didn't get it during Early Entry), Tower of Terror, Slinky Dog Dash, Millennium Falcon: Smugglers Run (request pilot, it's the best seat).
 
@@ -218,7 +218,7 @@ This is why you're here. Evening at Hollywood Studios transforms the park, and w
 
 What changes: Temperature drops from brutal to merely warm. Families with young kids start leaving. Wait times decrease after 7:00 p.m. Galaxy's Edge at night is spectacular, the buildings glow, the ambient lighting shifts, it feels like a different place. Tower of Terror at night with the city backdrop lit up is the definitive version of the ride.
 
-Knock out what you missed: Tower of Terror (better at night anyway), Rise of the Resistance (if you missed it or want to re ride), the Muppets coaster (if open, check status).
+Knock out what you missed: Tower of Terror (better at night anyway), Rise of the Resistance (if you missed it or want to re ride), Rock 'n' Roller Coaster Starring The Muppets.
 
 Re ride your favorites: Without kids, you can ride Rise of the Resistance twice if you want. No one's stopping you.
 
@@ -287,7 +287,7 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, wal
 Hollywood Studios: Family with Young Kids
 Who this is for: A family with young children, typically under 6 years old, most under 44 inches tall. You're traveling with toddlers, preschoolers, or early elementary kids who want characters, gentle rides, and immersive environments, not roller coasters.
 
-Hollywood Studios is a hard park to plan for with young kids. More than half of the headliner rides have height requirements that exclude small children. Rise of the Resistance (40"), Tower of Terror (40"), Slinky Dog Dash (38"), and Millennium Falcon (38") all have minimums your kids likely won't meet. Rock 'n' Roller Coaster on Sunset Boulevard is permanently closed and being rebuilt as a Muppets themed coaster, check Disney's site for opening updates. That can feel limiting, but there's still a solid day here if you know where to focus. Toy Story Land, Mickey & Minnie's Runaway Railway, Star Tours (for kids at 40"), character meets, and the shows can fill a satisfying day. You just need a different strategy than the thrill ride crowd.
+Hollywood Studios is a hard park to plan for with young kids. More than half of the headliner rides have height requirements that exclude small children. Rise of the Resistance (40"), Tower of Terror (40"), Slinky Dog Dash (38"), and Millennium Falcon (38") all have minimums your kids likely won't meet. Rock 'n' Roller Coaster Starring The Muppets, which opened in May 2026, is 48 inches, the tallest bar in the park. Cast members hand kids who don't clear it a "Future Rock Star" card, which takes some of the sting out. That can feel limiting, but there's still a solid day here if you know where to focus. Toy Story Land, Mickey & Minnie's Runaway Railway, Star Tours (for kids at 40"), character meets, and the shows can fill a satisfying day. You just need a different strategy than the thrill ride crowd.
 
 + [Continue to What Your Kids CAN Ride →] -> hs_young_kids_can_ride
 + [Pick a different group type] -> hs_pick_group
@@ -377,7 +377,7 @@ The Shows
 
 At a park where half the rides have height requirements your kids don't meet, the shows become the backbone of your day. Lean into them.
 
-Disney Jr. Mickey Mouse Clubhouse Live! is an interactive show designed for the youngest guests, featuring Mickey, Minnie, Pluto, and friends performing in front of a massive digital screen. Air conditioned, indoor, and your preschooler will lose their mind. Disney has announced a May 2026 opening for this show as part of the new Walt Disney Studios Lot area, so check the Disney website or app to confirm it's running on your dates.
+Disney Jr. Mickey Mouse Clubhouse Live! is an interactive show designed for the youngest guests, featuring Mickey, Minnie, Pluto, and friends performing in front of a massive digital screen. Air conditioned, indoor, and your preschooler will lose their mind. It opened in May 2026 in Animation Courtyard, runs about 20 minutes, and has several showings a day, so check the app for showtimes on your dates.
 
 Indiana Jones Epic Stunt Spectacular is an outdoor stadium show with live stunt performers, explosions, and audience volunteers. The stunts are exciting, the explosions are loud (warn sensitive kids), and the stadium seating is shaded. It's a great way to burn afternoon time.
 
@@ -461,7 +461,7 @@ If you're at a Disney resort: BoardWalk, Yacht & Beach Club, Swan & Dolphin, wal
 Hollywood Studios: Mixed Ages
 Who this is for: A family or small group with kids spanning different ages, maybe a 4 year old and a 10 year old, or a toddler and a teenager. You've got people who want thrill rides and people who can't ride them. Your group has conflicting needs under one roof.
 
-The core tension: Hollywood Studios has the most height requirements of any Disney park. Tower of Terror (40"), Rise of the Resistance (40"), Slinky Dog Dash (38"), Millennium Falcon (38"), Rock 'n' Roller Coaster on Sunset Boulevard (being rebuilt as a Muppets themed coaster, check Disney's site for status), your group is going to split by height at some point during the day. The question isn't whether you'll separate, it's how you manage it so everyone gets what they want and nobody spends the whole day waiting for someone else.
+The core tension: Hollywood Studios has the most height requirements of any Disney park. Tower of Terror (40"), Rise of the Resistance (40"), Slinky Dog Dash (38"), Millennium Falcon (38"), Rock 'n' Roller Coaster Starring The Muppets (48"), your group is going to split by height at some point during the day. The question isn't whether you'll separate, it's how you manage it so everyone gets what they want and nobody spends the whole day waiting for someone else.
 
 The tool that saves you: Rider Swap. Learn it, use it, build your day around it.
 
@@ -472,7 +472,7 @@ Before your trip, measure your kids. Not "about 38 inches," actually measure the
 Under 38": Toy Story Mania, Alien Swirling Saucers, Runaway Railway, shows, characters.
 38": adds Slinky Dog Dash, Millennium Falcon: Smugglers Run.
 40": adds Rise of the Resistance, Tower of Terror, Star Tours.
-48": adds Rock 'n' Roller Coaster (when it reopens as a Muppets themed coaster, check Disney's site for status).
+48": adds Rock 'n' Roller Coaster Starring The Muppets.
 
 The borderline kid: If your child is right at 38" or 40", they will be measured at the ride entrance. Cast Members are precise. Don't argue, it's a safety requirement. If they're a quarter inch short, they're a quarter inch short. Have a backup plan so the disappointment doesn't ruin the day.
 
