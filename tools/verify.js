@@ -119,6 +119,25 @@ for (const t of seenText) {
 ok('no reachable paragraph makes a promise about a past date', stale.length === 0,
    stale.slice(0, 3).join(' | '));
 
+// 5 ------------------------------------------------------- footer freshness
+// The footer's "last checked" date is hand-maintained, because a build-injected
+// date would claim a re-verification that never happened — fixing a typo would
+// silently reset the clock. So it is checked instead: 180 days is the same
+// window task 2.09 will apply to per-knot VERIFIED tags.
+const MAX_AGE_DAYS = 180;
+const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
+const stamp = html.match(/data-verified="(\d{4}-\d{2}-\d{2})"/);
+if (!stamp) {
+  ok('footer carries a last-verified date', false, 'no data-verified attribute in index.html');
+} else {
+  const age = Math.floor((Date.now() - Date.parse(stamp[1])) / 86400000);
+  ok(`footer verified within ${MAX_AGE_DAYS} days`, age <= MAX_AGE_DAYS,
+     `${stamp[1]} is ${age} day(s) old`);
+  const shown = html.match(/<time datetime="(\d{4}-\d{2}-\d{2})"/);
+  ok('footer <time> matches data-verified', !!shown && shown[1] === stamp[1],
+     shown ? `${shown[1]} vs ${stamp[1]}` : 'no <time datetime>');
+}
+
 console.log(`\n${seenText.size} distinct paragraphs rendered, ${declared.size} knots in the graph.`);
 console.log(failed ? `\n${failed} check(s) FAILED.` : '\nAll checks passed.');
 process.exit(failed ? 1 : 0);
