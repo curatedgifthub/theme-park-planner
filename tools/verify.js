@@ -119,23 +119,23 @@ for (const t of seenText) {
 ok('no reachable paragraph makes a promise about a past date', stale.length === 0,
    stale.slice(0, 3).join(' | '));
 
-// 5 ------------------------------------------------------- footer freshness
-// The footer's "last checked" date is hand-maintained, because a build-injected
-// date would claim a re-verification that never happened — fixing a typo would
-// silently reset the clock. So it is checked instead: 180 days is the same
-// window task 2.09 will apply to per-knot VERIFIED tags.
+// 5 --------------------------------------------------------- fact freshness
+// The last-checked date is hand-maintained, because a build-injected date would
+// claim a re-verification that never happened — fixing a typo would silently
+// reset the clock. So it is checked instead: 180 days is the same window task
+// 2.09 will apply to per-knot VERIFIED tags.
+// The date is no longer shown to readers; the footer is one line and it is not
+// that. `data-verified` on <footer> is now build metadata only, which is why
+// there is no <time> element to cross-check it against.
 const MAX_AGE_DAYS = 180;
 const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
 const stamp = html.match(/data-verified="(\d{4}-\d{2}-\d{2})"/);
 if (!stamp) {
-  ok('footer carries a last-verified date', false, 'no data-verified attribute in index.html');
+  ok('index.html carries a last-verified date', false, 'no data-verified attribute in index.html');
 } else {
   const age = Math.floor((Date.now() - Date.parse(stamp[1])) / 86400000);
-  ok(`footer verified within ${MAX_AGE_DAYS} days`, age <= MAX_AGE_DAYS,
+  ok(`facts verified within ${MAX_AGE_DAYS} days`, age <= MAX_AGE_DAYS,
      `${stamp[1]} is ${age} day(s) old`);
-  const shown = html.match(/<time datetime="(\d{4}-\d{2}-\d{2})"/);
-  ok('footer <time> matches data-verified', !!shown && shown[1] === stamp[1],
-     shown ? `${shown[1]} vs ${stamp[1]}` : 'no <time datetime>');
 }
 
 // 6 ------------------------------------------------------- shareability

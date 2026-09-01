@@ -59,18 +59,19 @@
             </div>
         </div>
 
-        <!-- Task 1.13. This sits OUTSIDE #story on purpose: main.js's removeAll()
-             only queries inside #story, so a footer here survives every page turn,
-             every "restart", and every CLEAR tag. It is therefore on all 217 pages.
-             `data-verified` is read by tools/verify.js, which fails the build when
-             the date is more than 180 days old. Update both together.
-             The affiliation disclaimer and the "confirm before you book" warning
-             live in the story's opening paragraph, not here — repeating them in the
-             footer put both on screen twice. -->
+        <!-- This sits OUTSIDE #story on purpose: main.js's removeAll() only queries
+             inside #story, so a footer here survives every page turn, every
+             "restart", and every CLEAR tag. It is therefore on all 217 pages,
+             which is the point — the opening paragraph says this too, but it is
+             cleared after the start page.
+             `data-verified` carries no visible text; it exists so tools/verify.js
+             can fail the build when the guide's facts go more than 180 days
+             unchecked. Update it whenever you re-verify. -->
         <footer class="site-footer" data-verified="2026-08-31">
-            <p class="footer-verified">
-                Facts last checked against Disney's published information on
-                <time datetime="2026-08-31">31 August 2026</time>.
+            <p class="footer-confirm">
+                Confirm anything that matters at
+                <a href="https://disneyworld.disney.go.com/calendars/" rel="noopener">
+                disneyworld.disney.go.com</a> before you book.
             </p>
         </footer>
     </div>

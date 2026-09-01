@@ -313,7 +313,7 @@ a:focus-visible {
 .site-footer a { font-weight: 600; text-decoration: underline; }
 /* Needs the .site-footer prefix: `.site-footer p { color: inherit }` above is
    more specific than a bare class, and would otherwise win. */
-.site-footer .footer-verified { font-weight: 600; color: var(--ink); }
+.site-footer .footer-confirm { font-weight: 600; color: var(--ink); }
 
 /* ------------------------------------------------------- fade-in machinery */
 /* main.js toggles these; keep the selectors exactly as they are. */
