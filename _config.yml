@@ -21,6 +21,8 @@ exclude:
   - GET_WELL_PLAN.md
   - GET_WELL_CHECKLIST.md
   - PAGINATION_PLAN.md
+  # NB: only the README. assets/ itself must stay served — it holds the share
+  # card and the icons that index.html references.
   - assets/README.md
   - tools/README.md
   - web/README.md

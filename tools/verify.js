@@ -138,6 +138,26 @@ if (!stamp) {
      shown ? `${shown[1]} vs ${stamp[1]}` : 'no <time datetime>');
 }
 
+// 6 ------------------------------------------------------- shareability
+// The done-bar for this project is literally "you can text someone a link", so
+// the preview card is the first thing a recipient ever sees. Without these the
+// link renders as a bare URL.
+const needTags = [
+  ['meta name="description"',        /<meta name="description" content="[^"]{40,}"/],
+  ['og:title',                       /property="og:title" content="[^"]+"/],
+  ['og:description',                 /property="og:description" content="[^"]{40,}"/],
+  ['og:image',                       /property="og:image" content="[^"]+"/],
+  ['twitter:card',                   /name="twitter:card"/],
+  ['favicon',                        /rel="icon"/],
+];
+const missing = needTags.filter(([, re]) => !re.test(html)).map(([n]) => n);
+ok('link-preview tags present', missing.length === 0, missing.join(', '));
+
+// and the files those tags point at must actually exist
+const assets = ['assets/share-card.png', 'assets/favicon.svg', 'assets/apple-touch-icon.png'];
+const absent = assets.filter((a) => !fs.existsSync(path.join(root, a)));
+ok('referenced share assets exist', absent.length === 0, absent.join(', '));
+
 console.log(`\n${seenText.size} distinct paragraphs rendered, ${declared.size} knots in the graph.`);
 console.log(failed ? `\n${failed} check(s) FAILED.` : '\nAll checks passed.');
 process.exit(failed ? 1 : 0);

@@ -381,10 +381,17 @@
         // Check whether the OS/browser is configured for dark mode
         var browserDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
 
-        if (savedTheme === "dark"
-            || (savedTheme == undefined && globalTagTheme === "dark")
-            || (savedTheme == undefined && globalTagTheme == undefined && browserDark))
+        // An explicit choice always wins over the global tag and the OS setting.
+        // ("light" is only ever written by the toggle above; older saves may hold
+        // "" from the previous behaviour, which also counts as an explicit light.)
+        if (savedTheme === "dark") {
             document.body.classList.add("dark");
+        } else if (savedTheme === "light" || savedTheme === "") {
+            /* explicit light — leave it alone */
+        } else if (globalTagTheme === "dark"
+                   || (globalTagTheme == undefined && browserDark)) {
+            document.body.classList.add("dark");
+        }
     }
 
     // Used to hook up the functionality for global functionality buttons
@@ -403,7 +410,7 @@
             try {
                 window.localStorage.setItem('save-state', savePoint);
                 document.getElementById("reload").removeAttribute("disabled");
-                window.localStorage.setItem('theme', document.body.classList.contains("dark") ? "dark" : "");
+                window.localStorage.setItem('theme', document.body.classList.contains("dark") ? "dark" : "light");
             } catch (e) {
                 console.warn("Couldn't save state");
             }
@@ -433,6 +440,19 @@
         if (themeSwitchEl) themeSwitchEl.addEventListener("click", function(event) {
             document.body.classList.add("switched");
             document.body.classList.toggle("dark");
+
+            // Persist immediately. Inky's template only wrote the theme inside the
+            // *save* handler, so a reader who switched to dark and reloaded lost it
+            // every time — and there is no reason a display preference should be
+            // bundled with saving your place in the story.
+            try {
+                window.localStorage.setItem(
+                    'theme',
+                    document.body.classList.contains("dark") ? "dark" : "light"
+                );
+            } catch (e) {
+                console.debug("Couldn't save theme");
+            }
         });
     }
 
