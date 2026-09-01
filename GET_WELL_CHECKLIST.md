@@ -13,7 +13,17 @@ says *where we are*. Update the status cell when you start and when you finish �
 | Done | Finished and verified in the files. |
 
 **Where we are:** Stage 1 — 11 of 14 done (1.01–1.08, 1.12, 1.13); 1.09 and 1.10 are started, 1.11 is the
-only untouched one. Stage 2 — 1 of 12 done (2.05).
+only untouched one. Stage 2 — 2 of 12 done (2.05, 2.06).
+
+**Ship audit, 2026-08-31.** Deliberately hunted for defects rather than declaring done. Found and
+fixed three: no link-preview metadata at all (a texted link rendered as a bare URL — the exact thing
+the done-bar is about), no favicon, and a theme toggle that lost the reader's choice on every reload.
+Then 2.06, because losing your place across 217 pages is a real cost. `npm run verify` now runs ten
+checks and all pass.
+
+**Known and accepted, not defects to fix before pushing:** the browser back button leaves the site
+(the shell has no history integration — a `main.js` change, not a small one), and the nested scroll
+container stops the mobile URL bar collapsing. Both are for 1.11 to judge on real hardware.
 Plus [PAGINATION_PLAN.md](PAGINATION_PLAN.md), which sits outside both stages and is now finished:
 every knot over 600 words is split, 94 knots → 218 pages, max page 596 words. The story compiles
 and the exported site sits at the repo root. The repo is still local only — no remote, nothing
@@ -81,7 +91,7 @@ Do 2.01 **before** 2.02 — deduplicate first, then add conditionals.
 | 2.03 | Actually read the variables; give `current_location` a real job | To do | 4 variables declared, 0 read. |
 | 2.04 | One tag per fact-bearing knot: `# VERIFIED: YYYY-MM-DD` | To do | Zero tags in the project. |
 | 2.05 | Typography pass on the CSS — the entire presentation layer | **Done** | Safe to do only after 1.10's build script stopped the export from overwriting `style.css`. **The real finding: body copy was `#888` on white — 3.54:1, failing WCAG AA on a document whose whole purpose is being read.** Now 15.82:1; links went 3.51:1 → 6.10:1; dark mode 14.43:1 and 8.24:1. Measured with a contrast function, not eyeballed. Also: `pt` → `rem` throughout, so the reader's browser font size is finally respected; `font-weight: lighter` on a 300 face → 400; measure now ~60 characters at 18px, inside the ideal band; the `h1` no longer wraps to three lines behind 7em of padding on a phone; choices got 48px tap targets and a separating rule. Dark mode stays driven only by `body.dark` — `main.js` already reads `prefers-color-scheme`, so a CSS media query would override a reader who explicitly picked light. **Deliberately not done:** `.outerContainer` stays a nested scroll container. `main.js` animates scroll through its `scrollTop`, so changing it is a JS change, not a CSS one. It costs the collapsing URL bar on mobile — left for 1.11 to judge on a real phone. |
-| 2.06 | Save & resume via `story.state.toJson()` into localStorage | To do | |
+| 2.06 | Save & resume via `story.state.toJson()` into localStorage | **Done** | Half of it already existed and was doing nothing: `loadSavePoint()` calls `story.state.LoadJson()` on every page load, but the state was only written if the reader pressed *save*. So on a 217-page phone read, closing the tab lost everything. Now persisted on every page turn (~7KB max against a ~5MB quota). **Not** persisted during init — that would overwrite a real saved position with page one before the reader acted, which is the bug this fixes. Restart persists too, so *start over* really resets. |
 | 2.07 | Encode the party profile in the query string — shareable plan URLs | To do | Depends on 2.02. |
 | 2.08 | Print stylesheet + one-page day sheet | To do | |
 | 2.09 | CI link checker: dead diverts, `VERIFIED` older than 180 days | To do | Needs 2.04 and the Actions build (1.10). |
