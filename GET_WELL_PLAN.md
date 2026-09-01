@@ -274,11 +274,16 @@ Nothing in Stage 2 matters until a stranger can open a link.
       Refurbishments". Added one closure the guide didn't know about: the WDW Railroad is down
       entirely 2026-09-28 to 2026-10-29. `verify.js` check 6 now fails the build on any future-tense
       claim whose season has passed, so this specific rot cannot come back silently.
-- [x] **1.13** ~~Footer on every page: last-updated, trademark disclaimer, sources~~ — **done.**
-      The disclaimer went to the *top* rather than the bottom, as an italic preamble under the h1:
-      it has to be seen. The footer proper sits outside `#story`, where `main.js`'s `removeAll()`
-      can't reach it, so it persists across all 217 pages without editing a single knot. The date is
-      hand-maintained on purpose and policed by `verify.js` at 180 days.
+- [x] **1.13** ~~Footer on every page: last-updated, trademark disclaimer, sources~~ — **done, then
+      cut back, and the original scope was wrong.** As first written this shipped the non-affiliation
+      notice and the confirm-before-you-book warning *twice* — once in the opening paragraph, once
+      again in the footer — plus a sources block nobody asked for. Corrected: the disclaimer appears
+      once, at the top, as an italic preamble under the h1. The footer is one line, the confirm
+      warning with the Disney URL, and nothing else. No trademark paragraph, no sources block.
+      The footer still sits outside `#story`, where `main.js`'s `removeAll()` can't reach it, so it
+      persists across all 217 pages without editing a knot — which is the point, since the opening
+      paragraph is cleared after the start page. The last-checked date is no longer shown to readers;
+      `data-verified` on `<footer>` is build metadata only, policed by `verify.js` at 180 days.
 
 **Done when:** you can text someone a link, they open it on a phone, pick a park and a
 group type, read a full day-plan, and every fact in it is true today.
@@ -484,8 +489,10 @@ that's how every guidebook works. What breaks it is implying affiliation.
 - Not safe: Disney fonts, the script wordmark, the castle logo, the ear silhouette in *your* branding.
 - **Highest-risk single decision left in the project: a domain or product name containing
   "Disney."** Pick a distinctive name and the whole category disappears.
-- Required: footer disclaimer on *every* page — "An independent guide. Not affiliated with,
-  endorsed by, or sponsored by The Walt Disney Company."
+- The non-affiliation line: it opens the guide, in the first paragraph under the `<h1>`, where a
+  reader meets it before anything else. It is deliberately *not* repeated in the footer — it was,
+  and that put the same sentence on screen twice on the start page. The footer carries the
+  confirm-before-you-book line instead."
 
 **Copyright.** Nothing to manage on the asset side any more. Two rules for the prose:
 - Never quote ride dialogue, show scripts, or song lyrics. Describe, don't reproduce.
@@ -532,7 +539,7 @@ when done" stops being a step and becomes a side effect of saving.
 1. `grep -rn "202[5-9]" ink/` — every hit is either historical or a liability
 2. Check `VERIFIED` tags (once 2.09 ships, CI does this for you)
 3. Reconcile Disney's closures page against the four `*_closures` knots
-4. Bump the footer date and commit — the push is the deploy
+4. Bump `data-verified` on `<footer>` in `index.html` and commit — the push is the deploy
 
 Schedule it *after* Disney announcement waves, not on a fixed quarter boundary.
 
