@@ -24,3 +24,7 @@ exclude:
   - assets/README.md
   - tools/README.md
   - web/README.md
+  # Build tooling. Never requested by the page, so there is no reason to serve it.
+  - tools/
+  - package.json
+  - package-lock.json
