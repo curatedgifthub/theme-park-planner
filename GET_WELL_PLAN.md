@@ -257,12 +257,28 @@ Nothing in Stage 2 matters until a stranger can open a link.
          minute or two; the URL is `https://curatedgifthub.github.io/<name>/`.
       **Still blocked on:** `<name>` — the open half of Q1. It fixes the URL, and renaming the
       repo later moves the URL with it, breaking anything already shared.
-- [ ] **1.10** *(defer to Stage 2 unless the manual export already annoys you)* Replace the Inky
-      export with inkjs + Actions: `npm run build` compiles `ink/main.ink` -> `dist/story.json`, Action deploys `dist/`,
-      Pages source switches to "GitHub Actions"
+- [~] **1.10** *(was deferred; the local half landed early out of necessity)* Replace the Inky
+      export with inkjs + Actions — **local half done.** It stopped being optional the moment 1.13
+      and 2.05 needed to hand-edit `index.html` and `style.css`, the two files Inky's export
+      destroys. `tools/build.js` recompiles `story.js` and nothing else; `tools/verify.js` is an
+      eight-check pre-ship gate that CI can call unchanged. inkjs is pinned to exactly 2.2.3 to
+      match the vendored runtime. The one subtlety: Inky passes `inklecate -c` and inkjs defaults
+      `countAllVisits` to false, which silently dropped all 748 `#f` flags — inert today, a
+      landmine for Stage 2. Set it, and the output is deep-equal to inklecate's. **Left:** the
+      Actions workflow, which needs the repo to exist; and `dist/`, which Pages-from-root doesn't
+      need.
 - [ ] **1.11** Read the whole thing on your phone, once, start to finish. Take pacing notes.
-- [ ] **1.12** Purge every expired date (Big Thunder x6, Buzz x9, RnRC x5, four "Early 2026" stamps)
-- [ ] **1.13** Footer on every page: last-updated, trademark disclaimer, sources
+- [x] **1.12** ~~Purge every expired date~~ — **done, and every claim was verified rather than
+      assumed.** Big Thunder reopened 2026-05-03, Buzz 2026-04-08, the Muppets coaster 2026-05-26,
+      the Disney Jr. show 2026-05-26. The four "Early 2026" headers became an undated "Closures and
+      Refurbishments". Added one closure the guide didn't know about: the WDW Railroad is down
+      entirely 2026-09-28 to 2026-10-29. `verify.js` check 6 now fails the build on any future-tense
+      claim whose season has passed, so this specific rot cannot come back silently.
+- [x] **1.13** ~~Footer on every page: last-updated, trademark disclaimer, sources~~ — **done.**
+      The disclaimer went to the *top* rather than the bottom, as an italic preamble under the h1:
+      it has to be seen. The footer proper sits outside `#story`, where `main.js`'s `removeAll()`
+      can't reach it, so it persists across all 217 pages without editing a single knot. The date is
+      hand-maintained on purpose and policed by `verify.js` at 180 days.
 
 **Done when:** you can text someone a link, they open it on a phone, pick a park and a
 group type, read a full day-plan, and every fact in it is true today.

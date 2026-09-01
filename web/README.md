@@ -25,22 +25,37 @@ Five files, all at the root:
 |---|---|---|
 | `story.js` | **generated** — `var storyContent = <compiled main.ink>;` | Never. Rebuild it. |
 | `ink.js` | inkjs 2.2.3 runtime, vendored verbatim from Inky | No — replace wholesale on upgrade |
-| `index.html` | Inky's template, with the title substituted in | Yes |
-| `style.css` | Inky's template, verbatim | Yes — **2.05 is this file** |
-| `main.js` | Inky's template, verbatim | Yes |
+| `index.html` | Inky's template **+ the site footer (1.13)** | Yes — hand-edited |
+| `style.css` | **Rewritten by the typography pass (2.05)** | Yes — hand-edited |
+| `main.js` | Inky's template, verbatim | Yes — untouched so far |
 
-`story.js` is a build product; it's committed only because Pages deploys from the branch and
-there's no build step yet. `ink.js` is a vendored dependency. The other three are the shell.
+`story.js` is a build product; it's committed only because Pages deploys from the branch, so
+the served files must be in git. `ink.js` is a vendored dependency, pinned in lockstep with the
+`inkjs` compiler in `package.json`. **Two of the remaining three now hold work that exists
+nowhere else** — the footer and the typography — which is exactly why `npm run build` rewrites
+`story.js` alone.
 
-## Re-exporting: read this before you do
+## Re-exporting: don't. Use the build script.
 
-**Inky's *File → Export for web* overwrites all five files.** Four of those are safe to lose —
-they're generated or vendored. The fifth is `style.css`, and after 2.05 it will hold the entire
-typography pass. A blind re-export destroys it silently.
+**This trap is closed as of 1.10's local half.** It used to read: *Inky's File → Export
+for web overwrites all five files, and after 2.05 lands, a blind re-export destroys the
+typography pass.* Both of those things are now true and load-bearing — `index.html`
+carries the footer and `style.css` carries the whole typography pass — so the export is
+no longer the way to rebuild.
 
-Only `story.js` actually changes when you edit the ink. So the safe move once 2.05 has landed is
-to export somewhere scratch and copy `story.js` across, or use *File → Export to JS* and wrap the
-JSON yourself. 1.10 removes the trap entirely by generating only `story.js`.
+```
+npm run build      # recompiles story.js from ink/main.ink, and touches nothing else
+npm run verify     # eight pre-ship checks; see tools/README.md
+```
+
+`story.js` is the only file derived from the ink, so it is the only file the build
+writes. Do not use *File → Export for web* again unless you are deliberately taking a
+new copy of Inky's template, in which case diff it against `index.html` and `style.css`
+first and expect to re-apply both by hand.
+
+The old CLI recipe (`inkjs-compatible/inklecate_mac -c -o`) still works and still
+produces byte-equivalent output, but it has no advantage over `npm run build` and it
+depends on a GUI app's bundled binary being installed.
 
 ## The title
 
