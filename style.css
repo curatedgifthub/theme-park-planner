@@ -314,10 +314,6 @@ a:focus-visible {
 /* Needs the .site-footer prefix: `.site-footer p { color: inherit }` above is
    more specific than a bare class, and would otherwise win. */
 .site-footer .footer-verified { font-weight: 600; color: var(--ink); }
-/* --ink-faint is only ~3.7:1. Fine for a disabled control, not for a legal
-   notice a reader may actually need. These stay on --ink-muted (~7:1). */
-.site-footer .footer-legal,
-.site-footer .footer-sources { font-size: 0.75rem; color: var(--ink-muted); }
 
 /* ------------------------------------------------------- fade-in machinery */
 /* main.js toggles these; keep the selectors exactly as they are. */
