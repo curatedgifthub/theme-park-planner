@@ -226,6 +226,7 @@
 
                     // This is where the save button will save from
                     savePoint = story.state.toJson();
+                    persistSavePoint();
 
                     // Aaand loop
                     continueStory();
@@ -248,6 +249,7 @@
 
         // set save point to here
         savePoint = story.state.toJson();
+        persistSavePoint();
 
         continueStory(true);
 
@@ -350,6 +352,23 @@
         }
 
         return null;
+    }
+
+    // Task 2.06. Writes the current savePoint to localStorage. Called on every
+    // page turn, so closing the tab mid-read doesn't lose your place across 217
+    // pages — loadSavePoint() below already restores it, it simply never had
+    // anything to restore unless the reader thought to press "save".
+    // State serialises to about 7KB at its largest, against a ~5MB quota, so
+    // writing on each turn is cheap. Never called during init: that would
+    // overwrite a real saved position with page one before the reader acts.
+    function persistSavePoint() {
+        try {
+            window.localStorage.setItem('save-state', savePoint);
+            let reloadEl = document.getElementById("reload");
+            if (reloadEl) reloadEl.removeAttribute("disabled");
+        } catch (e) {
+            console.debug("Couldn't autosave");
+        }
     }
 
     // Loads save state if exists in the browser memory
